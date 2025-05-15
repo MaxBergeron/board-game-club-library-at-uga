@@ -96,7 +96,7 @@
   document.querySelector('.sorting-links .linkPlayers').addEventListener('click', e => {
     e.preventDefault();
     sortDescending = !sortDescending; // Toggle sorting order
-    gamesData.sort((a, b) => sortDescending ? b.maxPlayers - a.maxPlayers : b.minPlayers - a.minPlayers);
+    gamesData.sort((a, b) => sortDescending ? b.maxPlayers - a.maxPlayers : a.minPlayers - b.minPlayers);
     renderEntries(gamesData);
   });
  // sort by play time
@@ -120,5 +120,6 @@
     gamesData.sort((a, b) => sortDescending ? b.yearReleased - a.yearReleased : a.yearReleased - b.yearReleased);
     renderEntries(gamesData);
   });
+
   });
 
