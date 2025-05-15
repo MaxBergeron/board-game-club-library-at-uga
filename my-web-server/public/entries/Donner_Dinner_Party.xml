@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="219638">
+         <thumbnail>https://cf.geekdo-images.com/fyoYHV4cmeBtZlo69KVaLQ__thumb/img/BwtfnqLwOdl3GASqTCWUCdGEghs=/fit-in/200x150/filters:strip_icc()/pic3796008.png</thumbnail>
+      <image>https://cf.geekdo-images.com/fyoYHV4cmeBtZlo69KVaLQ__original/img/KIv-8cFHVpd0-J4bpXgzdyz6vTQ=/0x0/filters:format(png)/pic3796008.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Donner Dinner Party" />
+			
+						                           
+						               													<description>Donner Dinner Party is a rowdy game of frontier cannibalism!&amp;#10;&amp;#10;Who's safe when there are cannibals hiding among you? That's the question at the heart of this fast-paced game of social deduction in which cannibals and pioneers face off in a fight for survival. Set in the winter of 1846, players are members of the ill-fated Donner Party wagon train, stranded atop a mountain with no food. Who will avoid becoming tonight's dinner and make it off the mountain alive? And who are the suspicious scoundrels hungry for human flesh?&amp;#10;&amp;#10;In more detail, Donner Dinner Party is a social deduction game in which players are either pioneer or cannibal. Each player has equipment as well, and sometimes that will help you survive &amp;mdash; unless of course you're a cannibal, in which case you might want to play dumb about what you have.&amp;#10;&amp;#10;The party goes hunting regularly to try to survive, and the cannibals will try to thwart these efforts since they really prefer the taste of human flesh. In the end, if the number of cannibals equals the number of pioneers, the cannibals win; if the pioneers survive seven weeks without this happening, then they win instead.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 7 players" />
+  <result name="recommmendedwith" value="Recommended with 5–10 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64376" value="Theme: Cannibals / Cannibalism" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7015" value="David Fooden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="96212" value="Forrest-Pruzan Creative" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="103629" value="James Bennett" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1714" value="Chronicle Books" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="704" />
+			<average value="6.21684" />
+			<bayesaverage value="5.63396" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7534" bayesaverage="5.63396" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="516" bayesaverage="5.72217" />
+												</ranks>
+
+			<stddev value="1.58616" />
+			<median value="0" />
+			<owned value="2181" />
+			<trading value="76" />
+			<wanting value="4" />
+			<wishing value="150" />
+			<numcomments value="182" />
+			<numweights value="12" />
+			<averageweight value="1.25" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

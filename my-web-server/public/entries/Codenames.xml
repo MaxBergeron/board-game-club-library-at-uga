@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="178900">
+         <thumbnail>https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__thumb/img/yl8iXxSNwguMeg3KkmfFO9SMVVc=/fit-in/200x150/filters:strip_icc()/pic2582929.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__original/img/gcX_EfjsRpB5fI4Ug4XV73G4jGI=/0x0/filters:format(jpeg)/pic2582929.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Codenames" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Codenames (کدنیمز)" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames Afrikaans" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames Arabic: رسائل سرية" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames Edisi Indonesia" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames Québec" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames: Кодовые Имена XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="Codi secret" />
+			    				
+				<name type="alternate" sortindex="1" value="Código secreto" />
+			    				
+				<name type="alternate" sortindex="1" value="Codinomes" />
+			    				
+				<name type="alternate" sortindex="1" value="Fedőnevek" />
+			    				
+				<name type="alternate" sortindex="1" value="Krycí jména" />
+			    				
+				<name type="alternate" sortindex="1" value="Krycí jména XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="Krycie mená" />
+			    				
+				<name type="alternate" sortindex="1" value="Nome in Codice" />
+			    				
+				<name type="alternate" sortindex="1" value="Nome in Codice XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="Nume de Cod" />
+			    				
+				<name type="alternate" sortindex="1" value="Nume de Cod XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="Tajniacy" />
+			    				
+				<name type="alternate" sortindex="1" value="Κωδική Ονομασία" />
+			    				
+				<name type="alternate" sortindex="1" value="Кодови имена" />
+			    				
+				<name type="alternate" sortindex="1" value="Кодові імена" />
+			    				
+				<name type="alternate" sortindex="1" value="Кодові імена: гра слів" />
+			    				
+				<name type="alternate" sortindex="1" value="Кодовые Имена" />
+			    				
+				<name type="alternate" sortindex="1" value="שם-קוד" />
+			    				
+				<name type="alternate" sortindex="1" value="الأسماء الحركية" />
+			    				
+				<name type="alternate" sortindex="1" value="コードネーム" />
+			    				
+				<name type="alternate" sortindex="1" value="コードネーム XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="機密代號" />
+			    				
+				<name type="alternate" sortindex="1" value="機密代號: 廣東話版" />
+			    				
+				<name type="alternate" sortindex="1" value="行动代号" />
+			    				
+				<name type="alternate" sortindex="1" value="코드네임" />
+			
+						               													<description>Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their codenames &amp;mdash; single-word labels like &amp;quot;disease&amp;quot;, &amp;quot;Germany&amp;quot;, and &amp;quot;carrot&amp;quot;. Yes, carrot. It's a legitimate codename. Each spymaster wants their team to identify their agents first...without uncovering the assassin by mistake.&amp;#10;&amp;#10;In Codenames, two teams compete to see who can make contact with all of their agents first. Lay out 25 cards, each bearing a single word. The spymasters look at a card showing the identity of each card, then take turns clueing their teammates. A clue consists of a single word and a number, with the number suggesting how many cards in play have some association to the given clue word. The teammates then identify one agent they think is on their team; if they're correct, they can keep guessing up to the stated number of times; if the agent belongs to the opposing team or is an innocent bystander, the team's turn ends; and if they fingered the assassin, they lose the game.&amp;#10;&amp;#10;Spymasters continue giving clues until one team has identified all of their agents or the assassin has removed one team from play.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1351">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1013" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="155" />
+					<result value="Not Recommended" numvotes="917" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="150" />
+					<result value="Not Recommended" numvotes="905" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="395" />
+					<result value="Recommended" numvotes="710" />
+					<result value="Not Recommended" numvotes="140" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="40" />
+					<result value="Recommended" numvotes="738" />
+					<result value="Not Recommended" numvotes="304" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1036" />
+					<result value="Recommended" numvotes="210" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="137" />
+					<result value="Recommended" numvotes="714" />
+					<result value="Not Recommended" numvotes="210" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="726" />
+					<result value="Recommended" numvotes="377" />
+					<result value="Not Recommended" numvotes="69" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="148" />
+					<result value="Recommended" numvotes="456" />
+					<result value="Not Recommended" numvotes="318" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6, 8 players" />
+  <result name="recommmendedwith" value="Recommended with 4–8+ players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="289">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="8" />
+					<result value="8" numvotes="67" />
+					<result value="10" numvotes="116" />
+					<result value="12" numvotes="75" />
+					<result value="14" numvotes="19" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="172">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="1" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="26" />
+					<result level="25" value="Unplayable in another language" numvotes="138" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75031" value="Components: Sand Timers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104952" value="Digital Implementations: Apple App Store" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81575" value="Digital Implementations: VASSAL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66334" value="Mechanism: Give a Clue / Get a Clue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62861" value="Word Games: Guess the Word" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256951" value="Brettspiel Adventskalender 2018" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="421137" value="Codenames: 10 jarig Jubileum bonus set 2020 NL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="213294" value="Codenames: Authors &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224198" value="Codenames: Bonus Pack – Board Gaming (English)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="221824" value="Codenames: Bonus Pack – Board Gaming (German)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="215603" value="Codenames: Bonus Pack – CGE Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="295466" value="Codenames: Bonus Pack – Literatur" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="387517" value="Codenames: Bonus Pack – Schweiz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293928" value="Codenames: Bonus Pack – Through the Ages" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="367802" value="Codenames: Bonus Pack – Webhallen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227990" value="Codenames: Bonus Pack – Weihnachten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225039" value="Codenames: Bonuskaarten 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="262581" value="Codenames: Bonuskaarten 2018" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319890" value="Codenames: Bonuskaarten 2019" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319891" value="Codenames: Bonuskaarten 2020" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234198" value="Codenames: Cartes promo – Personnalités" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264856" value="Codenames: Cartes promo – Univers Geek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363088" value="Código Secreto: Expansão promocional Brasil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363092" value="Código Secreto: Expansão promocional Portugal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="350213" value="Código Secreto: Expansión promocional Américas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292037" value="Código secreto: Expansión promocional Andalucía" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="342140" value="Código Secreto: Expansión promocional Argentina" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318899" value="Código Secreto: Expansión promocional Chile" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="316876" value="Código Secreto: Expansión Promocional México" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205611" value="Deutscher Spielepreis 2016 Goodie Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="240994" value="Fedőnevek: Magyar bónusz csomag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="428507" value="Krycí jména: Bonusové karty – 10 let MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="428506" value="Krycí jména: Bonusové karty – Vánoce" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="353668" value="Nome in Codice: Carte Bonus Comics and Games 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310511" value="Nome in Codice: Carte Bonus da Torneo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347651" value="Tajniacy: Agenci na kwarantannie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307032" value="Tajniacy: Fantastyczne Światy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234643" value="Tajniacy: Nowi Agenci" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="253443" value="Tajniacy: Obcy Agenci" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234644" value="Tajniacy: Sami Nieswoi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377424" value="コードネーム　ボーナスパック　COOL JAPAN (Codenames: Bonus Pack – COOL JAPAN)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377425" value="コードネーム　ボーナスパック　JAPAN2020 (Codenames: Bonus Pack 2 – Japan 2020)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="345093" value="Codenames: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="221005" value="Codenames: Character Meeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="362668" value="Codenames: Codenames Gadget" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="410635" value="Codenames: GeekMod Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271940" value="Codenames: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="268232" value="Codenames: Meeple Realty Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="264050" value="Codenames: Special Christmas Bonus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="319074" value="Codenames: The Game Doctors Insert" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="205158" value="Codenames: Deep Undercover" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="220775" value="Codenames: Disney – Family Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="224037" value="Codenames: Duet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="249821" value="Codenames: Harry Potter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="220774" value="Codenames: Marvel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="198773" value="Codenames: Pictures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="366383" value="Codenames: Singapore Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="290028" value="Codenames: The Simpsons" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="272910" value="Codenames: Malaysia Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="301628" value="Codenames: Blizzard Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12402" value="Stéphane Gantiez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28450" value="Tomáš Kučerovský" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="114458" value="Filip Murmak" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition (CGE)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34501" value="Boardgame Space" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38045" value="Cuaca Cerah Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23205" value="DiceTree Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Enigma (Bergsala Enigma)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36981" value="Feelindigo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="56725" value="Gaming Library" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40841" value="Land of Beautiful Mind (سرزمین ذهن زیبا)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25203" value="Lex Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41676" value="Liam Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22973" value="More Fun Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44407" value="Nordic Games ehf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11107" value="Nordic Games GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30552" value="One Moment Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31904" value="Ponva d.o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36366" value="Pridemage Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48279" value="SuperHeated Neurons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9215" value="TWOPLUS Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="97881" />
+			<average value="7.53369" />
+			<bayesaverage value="7.43863" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="155" bayesaverage="7.43863" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="5" bayesaverage="7.45207" />
+												</ranks>
+
+			<stddev value="1.30329" />
+			<median value="0" />
+			<owned value="166856" />
+			<trading value="1407" />
+			<wanting value="353" />
+			<wishing value="7425" />
+			<numcomments value="12784" />
+			<numweights value="2455" />
+			<averageweight value="1.2578" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

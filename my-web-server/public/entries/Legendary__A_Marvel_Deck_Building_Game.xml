@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="129437">
+         <thumbnail>https://cf.geekdo-images.com/ZrRidumkzu62HuwKdgQpHA__thumb/img/Q9zldSDfcsSXiD6SC4MU-dwCl5g=/fit-in/200x150/filters:strip_icc()/pic1430769.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ZrRidumkzu62HuwKdgQpHA__original/img/FqPcmpzntFV1FDR6dniHGKvNwvI=/0x0/filters:format(jpeg)/pic1430769.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Legendary: A Marvel Deck Building Game" />
+			
+						                           
+						               													<description>Legendary: A Marvel Deck Building Game is set in the Marvel Comics universe. To set up the game, players choose a mastermind villain (Magneto, Loki, Dr. Doom, Red Skull in the base game), stack that particular villain's attack cards underneath it, then modify the villain deck as needed based on that villain's particular scheme. Players then choose a number of hero decks &amp;ndash; Spider-Man, Hulk, Wolverine, etc. &amp;ndash; and shuffle them together; since players use only a handful of hero decks out of the fifteen included, the hero deck can vary widely in terms of what's available.&amp;#10;&amp;#10;Over the course of the game, players will recruit powerful hero cards to add to their deck in order to build a stronger and more resourceful deck. Players need to build both their recruitment powers (to enlist more heroes) and their fighting ability (to combat the villains who keep popping up to cause trouble). Players recruit heroes from an array of five cards, with empty slots refilled as needed. At the start of a player's turn, he reveals a villain and adds it to the row of villains. This row has a limited number of spaces, and if it fills up, the earliest villain to arrive escapes, possibly punishing the heroes in some way. Some villains also take an action when showing up for the first time, such as kidnapping an innocent bystander. The villain deck also contains &amp;quot;master strike&amp;quot; cards, and whenever one of these shows up, the mastermind villain (controlled by the game) takes a bonus action.&amp;#10;&amp;#10;As players fight and defeat villains, they collect those cards, which will be worth points at game's end. Players can also fight the mastermind; if a player has enough fighting power, he claims one of the attack cards beneath the mastermind, which has a particular effect on the game. If all of these cards are claimed, the game ends and players tally their points to see who wins. If the mastermind completes his scheme, however &amp;ndash; having a certain number of villains escape, for example, or imposing a certain number of wounds on the heroes &amp;ndash; then the players all lose.&amp;#10;&amp;#10;Hero decks in the base game: Gambit, Black Widow, Hawkeye, Emma Frost, Thor, Spider-Man, Iron Man, Storm, Captain America, Nick Fury, Rogue, Cyclops, Hulk, Wolverine, Deadpool&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="480">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="53" />
+					<result value="Recommended" numvotes="222" />
+					<result value="Not Recommended" numvotes="73" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="131" />
+					<result value="Recommended" numvotes="243" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="254" />
+					<result value="Recommended" numvotes="144" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="113" />
+					<result value="Recommended" numvotes="199" />
+					<result value="Not Recommended" numvotes="55" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="112" />
+					<result value="Not Recommended" numvotes="208" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="238" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="133">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="13" />
+					<result value="8" numvotes="43" />
+					<result value="10" numvotes="46" />
+					<result value="12" numvotes="26" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="2" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="80">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="18" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="29" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="32" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2820" value="Semi-Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5338" value="Comic Books: Marvel Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23689" value="Game: Legendary (Upper Deck Entertainment)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="393432" value="Legendary: A Marvel Deck Building Game – 2099" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="327505" value="Legendary: A Marvel Deck Building Game – Annihilation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255616" value="Legendary: A Marvel Deck Building Game – Ant-Man" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="395833" value="Legendary: A Marvel Deck Building Game – Ant-Man and the Wasp" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="350143" value="Legendary: A Marvel Deck Building Game – Black Panther" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="359611" value="Legendary: A Marvel Deck Building Game – Black Widow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186845" value="Legendary: A Marvel Deck Building Game – Captain America 75th Anniversary" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="239469" value="Legendary: A Marvel Deck Building Game – Champions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193513" value="Legendary: A Marvel Deck Building Game – Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="137762" value="Legendary: A Marvel Deck Building Game – Dark City" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="200983" value="Legendary: A Marvel Deck Building Game – Deadpool" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275726" value="Legendary: A Marvel Deck Building Game – Dimensions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339952" value="Legendary: A Marvel Deck Building Game – Doctor Strange and the Shadows of Nightmare" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142020" value="Legendary: A Marvel Deck Building Game – Fantastic Four" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="168800" value="Legendary: A Marvel Deck Building Game – Fear Itself" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="163106" value="Legendary: A Marvel Deck Building Game – Guardians of the Galaxy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="295285" value="Legendary: A Marvel Deck Building Game – Heroes of Asgard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="286057" value="Legendary: A Marvel Deck Building Game – House of M Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="314104" value="Legendary: A Marvel Deck Building Game – Into the Cosmos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="210936" value="Legendary: A Marvel Deck Building Game – Marvel Noir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="438670" value="Legendary: A Marvel Deck Building Game – Marvel Studios: What If...? – Season 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="344694" value="Legendary: A Marvel Deck Building Game – Marvel Studios&#039; Guardians of the Galaxy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="344481" value="Legendary: A Marvel Deck Building Game – Messiah Complex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="375650" value="Legendary: A Marvel Deck Building Game – Midnight Sons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="271560" value="Legendary: A Marvel Deck Building Game – Organized Play Kit #1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="271558" value="Legendary: A Marvel Deck Building Game – Organized Play Kit #2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="271564" value="Legendary: A Marvel Deck Building Game – Organized Play Kit #3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149922" value="Legendary: A Marvel Deck Building Game – Paint the Town Red" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255514" value="Legendary: A Marvel Deck Building Game – Playable Marvel 3D Trading Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="261673" value="Legendary: A Marvel Deck Building Game – Promo Card Detective Wolverine Heroic Bystander" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="252620" value="Legendary: A Marvel Deck Building Game – Promo Card Magik Heroic Bystander (New Mutants)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321627" value="Legendary: A Marvel Deck Building Game – Realm of Kings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="284695" value="Legendary: A Marvel Deck Building Game – Revelations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="284697" value="Legendary: A Marvel Deck Building Game – S.H.I.E.L.D." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="175156" value="Legendary: A Marvel Deck Building Game – Secret Wars, Volume 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182692" value="Legendary: A Marvel Deck Building Game – Secret Wars, Volume 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231037" value="Legendary: A Marvel Deck Building Game – Spider-Man Homecoming" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="367377" value="Legendary: A Marvel Deck Building Game – The Infinity Saga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="305035" value="Legendary: A Marvel Deck Building Game – The New Mutants" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265181" value="Legendary: A Marvel Deck Building Game – Venom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="419448" value="Legendary: A Marvel Deck Building Game – Weapon X" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248084" value="Legendary: A Marvel Deck Building Game – World War Hulk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="223362" value="Legendary: A Marvel Deck Building Game – X-Men" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334737" value="Legendary: A Marvel Deck Building Game – reDrewno Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="310081" value="Legendary: A Marvel Deck Building Game – Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="341695" value="Legendary: A Marvel Deck Building Game – Laserox Legendary Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272765" value="Legendary: A Marvel Deck Building Game – Legendary Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="275023" value="Legendary: A Marvel Deck Building Game – Legendary Organizer – Extra Dividers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="157107" value="Legendary: A Marvel Deck Building Game – Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="252143" value="Legendary: A Marvel Deck Building Game – Unleash the Power of the Cosmic Cube Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="157651" value="Marvel Masterpiece Trading Card: Green Goblin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="157650" value="Marvel Masterpiece Trading Card: Hulk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="157652" value="Marvel Masterpiece Trading Card: Symbiote Spider-Man" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="252985" value="Legendary: A Marvel Deck Building Game – Marvel Studios, Phase 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="394960" value="Legendary: A Marvel Deck Building Game – Marvel Studios&#039; What If...?" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="156689" value="Legendary: A Marvel Deck Building Game – Villains" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="195571" value="Legendary Encounters: A Firefly Deck Building Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="174570" value="Legendary Encounters: A Predator Deck Building Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="146652" value="Legendary Encounters: An Alien Deck Building Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="373105" value="Legendary Encounters: The Matrix" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="256874" value="Legendary Encounters: The X-Files Deck Building Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="285157" value="Legendary: A James Bond Deck Building Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="426580" value="Legendary: A Marvel Deck Building Game (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="200171" value="Legendary: Big Trouble in Little China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="210290" value="Legendary: Buffy The Vampire Slayer" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5816" value="Devin Low" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65636" value="Julius Abrea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65637" value="Will Conrad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="62181" value="Bien Flores" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65638" value="Katrina Mae Hao" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65639" value="Ray Anthony Height" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65640" value="Tony Kordos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15382" value="The Marvel Bullpen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65641" value="Jay David Ramos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65642" value="Nigel Raynor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14993" value="Kevin Sharpe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65643" value="Brian “Tots” Valerz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="517" value="Upper Deck Entertainment" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="22997" />
+			<average value="7.52487" />
+			<bayesaverage value="7.23737" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="264" bayesaverage="7.23737" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="78" bayesaverage="7.25627" />
+												</ranks>
+
+			<stddev value="1.49757" />
+			<median value="0" />
+			<owned value="35695" />
+			<trading value="820" />
+			<wanting value="459" />
+			<wishing value="4138" />
+			<numcomments value="4089" />
+			<numweights value="876" />
+			<averageweight value="2.4326" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

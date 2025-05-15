@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="181">
+         <thumbnail>https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__thumb/img/5cltSV60oVvjL3Ag_KTJbmTdU6w=/fit-in/200x150/filters:strip_icc()/pic4916782.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__original/img/Nu3eXPyOkhtnR3hhpUrtgqRMAfs=/0x0/filters:format(jpeg)/pic4916782.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Risk" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Ataque" />
+			    				
+				<name type="alternate" sortindex="4" value="La Conquista del mundo" />
+			    				
+				<name type="alternate" sortindex="1" value="Risc Commander" />
+			    				
+				<name type="alternate" sortindex="1" value="Risco" />
+			    				
+				<name type="alternate" sortindex="1" value="Risiko" />
+			    				
+				<name type="alternate" sortindex="1" value="Risiko Deluxe" />
+			    				
+				<name type="alternate" sortindex="1" value="Risiko!" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk 1959" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk 60-jarig jubileumeditie" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk 60-jarig verjaardagseditie" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk de luxe" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk Travel" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk wereldveroverend" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk Η κατάκτηση του κόσμου" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk Το παιχνίδι της παγκόσμιας κυριαρχίας" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Dragons" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Hra o dobytí světa" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: O Jogo das Conquistas Estratégicas" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Spillet om Verdensherredømmet" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Strategická dobývací hra" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Επιχείρηση &quot;Μυστική Αποστολή&quot;" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk!" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk! Travel" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk. Spillet der du erobrer verden" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk. Игра в завоевание мира" />
+			    				
+				<name type="alternate" sortindex="1" value="Rizikó" />
+			    				
+				<name type="alternate" sortindex="1" value="Riziko" />
+			    				
+				<name type="alternate" sortindex="1" value="Ryzyko" />
+			    				
+				<name type="alternate" sortindex="1" value="War" />
+			    				
+				<name type="alternate" sortindex="1" value="סיכון" />
+			    				
+				<name type="alternate" sortindex="1" value="リスク 世界戦略ゲーム" />
+			    				
+				<name type="alternate" sortindex="1" value="戰國風雲" />
+			    				
+				<name type="alternate" sortindex="1" value="리스크" />
+			
+						               													<description>Possibly the most popular, mass market war game.  The goal is conquest of the world.&amp;#10;&amp;#10;Each player's turn consists of:&amp;#10;- gaining reinforcements through number of territories held, control of every territory on each continent, and turning sets of bonus cards.&amp;#10;-  Attacking other players using a simple combat rule of comparing the highest dice rolled for each side.  Players may attack as often as desired.  If one enemy territory is successfully taken, the player is awarded with a  bonus card.&amp;#10;-  Moving a group of armies to another adjacent territory.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1959" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="331">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="249" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="70" />
+					<result value="Not Recommended" numvotes="206" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="209" />
+					<result value="Not Recommended" numvotes="46" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="216" />
+					<result value="Recommended" numvotes="93" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="113" />
+					<result value="Recommended" numvotes="154" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="77" />
+					<result value="Recommended" numvotes="135" />
+					<result value="Not Recommended" numvotes="67" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="190" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="171">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="3" />
+					<result value="6" numvotes="18" />
+					<result value="8" numvotes="71" />
+					<result value="10" numvotes="67" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="5" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="85">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="55" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="24" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64952" value="Components: Map (Global Scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62881" value="Region: The World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10149" value="Series: Nostalgia (Hasbro)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="299914" value="Chaos Risk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="131576" value="Concurrent" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="42921" value="La Conquête du Monde revised" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="37555" value="Euro Risk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426128" value="Generals of Waterloo: Risk on the DeWit map" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21808" value="Hyborian Risk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="18371" value="Medieval Risk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="3755" value="One World Dominion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="15004" value="Risk 2042 (fan expansion for Risk / Axis &amp; Allies)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="439445" value="Risk: Collectible Premium Token Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="205417" value="Risk: Wooden Pieces" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="154432" value="Risk &amp; Castle Risk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="159985" value="Spaß am Erfolg: Karriere, Das Millionenspiel, Risiko" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="170408" value="Risk  Transformers: The Decepticon Invasion of Earth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="37198" value="Risk (Revised Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1829" value="Risk 2210 A.D." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="105134" value="Risk Legacy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="23010" value="Risk: 40th Anniversary Collector&#039;s Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="147523" value="Risk: Battlefield Rogue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="179719" value="Risk: Game of Thrones" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="10383" value="Risk: Godstorm" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="150049" value="Risk: Mass Effect – Galaxy at War Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="388331" value="Risk: Peaky Blinders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="148036" value="Risk: Plants vs. Zombies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="15045" value="Risk: Star Wars – Clone Wars Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="22551" value="Risk: Star Wars – Original Trilogy Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="183880" value="Risk: Star Wars Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="291741" value="Risk: The Battle for Medieval England" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="149296" value="Risk: The Dalek Invasion of Earth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="275280" value="Risk: The Elder Scrolls V – Skyrim" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="4324" value="Risk: The Lord of the Rings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="147568" value="Risk: The Walking Dead – Survival Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="27961" value="Risk: Transformers – Cybertron Battle Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="242649" value="War Vikings" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9294" value="La Conquête du Monde" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="116" value="Albert Lamorisse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1047" value="Michael I. Levin" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="404" value="Alga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4871" value="Avalon Hill" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4922" value="Barnes &amp; Noble" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4680" value="Borras Plana S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1935" value="Carlit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1772" value="Clipper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="253" value="Editrice Giochi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="13103" value="El Greco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="858" value="Grow Jogos e Brinquedos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6566" value="Guau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8245" value="Juegos Crone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2627" value="Majora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31874" value="Manhattan Agencies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52410" value="MEGAPLAST" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="920" value="Miro Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6876" value="Nilco S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="417" value="Palitoy Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52411" value="PanGraf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4933" value="Smeets &amp; Schippers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1322" value="Tomy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="95" value="Waddingtons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59" value="Winning Moves Games (USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24099" value="Winning Solutions (WS Game Company)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="37196" />
+			<average value="5.60113" />
+			<bayesaverage value="5.46357" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="27537" bayesaverage="5.46357" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="4404" bayesaverage="5.17539" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3346" bayesaverage="5.40192" />
+												</ranks>
+
+			<stddev value="1.66586" />
+			<median value="0" />
+			<owned value="63445" />
+			<trading value="1135" />
+			<wanting value="51" />
+			<wishing value="862" />
+			<numcomments value="8161" />
+			<numweights value="2432" />
+			<averageweight value="2.0641" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

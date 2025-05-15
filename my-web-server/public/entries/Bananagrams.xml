@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="27225">
+         <thumbnail>https://cf.geekdo-images.com/1QjYPI4bXx4OUMJPlrsNBA__thumb/img/nC_gG-4CYy7VBfYez2qSfTkU2ik=/fit-in/200x150/filters:strip_icc()/pic2463443.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/1QjYPI4bXx4OUMJPlrsNBA__original/img/WA2NRNJx83xq81H2dnnwEDV2Ork=/0x0/filters:format(jpeg)/pic2463443.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Bananagrams" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Bananagrams: Signature Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Big Letter Bananagrams" />
+			    				
+				<name type="alternate" sortindex="1" value="Jumbo Bananagrams" />
+			    				
+				<name type="alternate" sortindex="1" value="World&#039;s Smallest Banagrams" />
+			    				
+				<name type="alternate" sortindex="1" value="香蕉拼字" />
+			    				
+				<name type="alternate" sortindex="1" value="바나나그램스" />
+			
+						               													<description>Bananagrams is a fast and fun word game that requires no pencil, paper or board, and the tiles come in a fabric banana-shaped carrying pouch. One hand can be played in as little as five minutes. Much like Pick Two!, but without the letter values.&amp;#10;&amp;#10;Using a selection of 144 plastic letter tiles in the English edition, each player works independently to create their own 'crossword' faster than one's opponents. When a player uses up all their letters, all players take a new tile from the pool. The object of the game is to be the first to complete a word grid after the &amp;quot;bunch&amp;quot; of tiles has been depleted.&amp;#10;&amp;#10;There are variants included in the instructions, such as Banana Smoothie and Banana Cafe for limited set skills or space-deprived places, and the game is suitable for solo play.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="100">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="58" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="60" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="45" />
+					<result value="Recommended" numvotes="40" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="68" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="42" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="45" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="42" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="58" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3–5 players" />
+  <result name="recommmendedwith" value="Recommended with 2–6 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="38">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="14" />
+					<result value="10" numvotes="18" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="25">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="15" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="25" value="Unplayable in another language" numvotes="8" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3113" value="Spelling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81577" value="Category: Crossword Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67583" value="Containers: Unique Shape" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73785" value="Containers: Zippered Pouch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81575" value="Digital Implementations: VASSAL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64383" value="Food &amp; Drink: Bananas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44095" value="Game: Bananagrams" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66787" value="Series: World’s Smallest (Super Impulse)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="445367" value="Scrabble Streaks Word Search" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="437505" value="Bananagrams: Braille Accessibility Kit" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="284845" value="Bananagrams Duel!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="202477" value="Bananagrams Party" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="164917" value="Bananagrams WildTiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="76322" value="Double Bananagrams" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="202478" value="My First Bananagrams" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9276" value="Rena Nathanson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="33660" value="Abe Nathanson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="110747" value="Kendra Harrington" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46300" value="Sandy Nathanson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46323" value="Aaron Nathanson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6369" value="Bananagrams, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18856" value="AURUM, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="917" value="DV Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17159" value="Game Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30399" value="Ludicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32140" value="Lúdilo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11107" value="Nordic Games GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17814" value="Peliko Oy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30088" value="Super Impulse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5268" value="Trefl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14078" value="Vennerød Forlag AS" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12619" />
+			<average value="6.40828" />
+			<bayesaverage value="6.21171" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2081" bayesaverage="6.21171" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="786" bayesaverage="6.22089" />
+												</ranks>
+
+			<stddev value="1.47792" />
+			<median value="0" />
+			<owned value="27774" />
+			<trading value="379" />
+			<wanting value="32" />
+			<wishing value="556" />
+			<numcomments value="2695" />
+			<numweights value="456" />
+			<averageweight value="1.2961" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

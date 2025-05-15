@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="264052">
+         <thumbnail>https://cf.geekdo-images.com/yZpEGpYcqAjFtPctE4dwbg__thumb/img/kC-Wgt5m1hHM8MvAAJDKhLjY7qE=/fit-in/200x150/filters:strip_icc()/pic6398652.png</thumbnail>
+      <image>https://cf.geekdo-images.com/yZpEGpYcqAjFtPctE4dwbg__original/img/RYap6Aq2XYHvWUxWDKPmECyUG1M=/0x0/filters:format(png)/pic6398652.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Circadians: First Light" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Circadianos: Primeira Luz" />
+			    				
+				<name type="alternate" sortindex="1" value="Circadians: Nowy Świt" />
+			    				
+				<name type="alternate" sortindex="1" value="Circadians: Primera Luz" />
+			    				
+				<name type="alternate" sortindex="1" value="Circadiens: Premières Lueurs" />
+			    				
+				<name type="alternate" sortindex="1" value="Zirkadianer: Erstes Licht" />
+			
+						               													<description>We were light years from our home, galaxies away, when we first discovered this ancient celestial body &amp;mdash; a planet filled with intriguing, intelligent lifeforms, not too unlike our own. Some built kingdoms below the surface of the green seas, while others controlled the desert-filled plains and cliffs. Among them we found scientists, inventors, farmers, traders and fighters. While our presence has been unsettling for some, we have had very few incidents with the locals. Still, we Circadians, Earth's famed explorers, must do what we can to ensure peace. We must respect this world and its hosts. The heads of Moontide passed down orders from above. We are to open negotiations with the three clans, in hopes of gaining their favor, along with our own security while on the planet. We must also collect organic samples for the depository on Moontide. This is new ground for all of us, but we must be brave and resourceful. The future of the Circadians depends on it.&amp;#10;&amp;#10;The aim of Circadians: First Light is to lead a team of researchers on the planet of Ryh. Players need to manage their crew (dice) to visit various parts of the planet for trade, farming, construction and research. Players score points for negotiating with the locals, harvesting resources for the depository, upgrading their research base, exploring the planet, and collecting gems. The game is played over eight rounds. At the end of the final round, the player with the most points wins.&amp;#10;&amp;#10;&amp;mdash;description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="117">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="40" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="48" />
+					<result value="Recommended" numvotes="41" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="48" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="29" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="37" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="11" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="7" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2935" value="Worker Placement with Dice Workers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76594" value="Setting: Circadians Universe" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="268913" value="Circadians: First Light – Allies Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368403" value="Circadians: First Light – Specialists Expansion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="396985" value="Circadians: First Light Upgrade Kit" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="438140" value="Circadians: Prima Alba “Big Box”" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="103821" value="S J Macdonald" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14403" value="Sam Phillips" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9459" value="Garphill Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35928" value="Banana Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49615" value="MEEPLE" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44349" value="Mosaico Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30034" value="Pixie Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30490" value="Primigenio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28072" value="Renegade Game Studios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3339" />
+			<average value="7.53976" />
+			<bayesaverage value="6.70295" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="878" bayesaverage="6.70295" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="472" bayesaverage="6.86508" />
+												</ranks>
+
+			<stddev value="1.17895" />
+			<median value="0" />
+			<owned value="6015" />
+			<trading value="178" />
+			<wanting value="226" />
+			<wishing value="1512" />
+			<numcomments value="769" />
+			<numweights value="176" />
+			<averageweight value="3.3977" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

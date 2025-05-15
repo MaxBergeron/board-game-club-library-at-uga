@@ -1,0 +1,96 @@
+5 Minute Dungeon: 207830
+Afterworld: 22475
+Aggravation: 2272
+Anomia: 67877
+Banagrams: 27225
+Battleship: 2425
+Betrayal at Baldur's Gate: 228660
+Betrayal at House on the Hill: 10547
+Blockbuster: 272438
+Blokus: 2453
+Blood On The Clocktower: 240980
+Boggle: 1293
+Candyland: 5048
+Carcassone: 822
+Cards Against Humanity: 50381
+Catan: 13
+Catan: Family Edition: 147240
+Chameleon: 227072
+Checkers: 2083
+Chesscan: 171
+Chutes and Ladders: 5432
+Circadians- First Light: 264052
+Clank!: 201808
+Clue: 1294
+Cockroach Poker: 11971
+Codenames: 178900
+Connect 4: 2719
+Coup: 131357
+Deadwood 1876: 245197
+Dice Hospital: 218121
+Dice Settlers: 230267
+Dixit: 39856
+Don’t Mix It: 354018
+Donner Dinner Party: 219638
+Doomlings: 324413
+Doomrock: 149241
+Double Bananagrams: 76322
+Dragonwood: 172933
+Dungeon!: 1339
+Dutch Blitz: 148203
+Escape Room: 425677
+Evolution- The Beginning: 201248
+Exploding Kittens: 172225
+Fakin' It: 432327
+Five Crowns: 1472
+Forbidden Island: 65244
+Galactic Quest: 266079
+Gentes: 217780
+Guess Who: 4143
+Herbaceous: 195314
+Here To Slay: 299252
+High Hand: 3144
+Hollywood 1947: 370621
+How to Rob a Bank: 232079
+Inis: 155821
+Jenga: 2452
+King of Tokyo: 70323
+Legendary: 129437
+Love Letter: 277085
+Magic the Gathering- Planeswalkers: 167698
+Mancala: 2448
+Minecraft- Card Game: 186265
+Monopoly: 1406
+Monopoly Speed: 295824
+Munchkin Apocalypse: 112869
+Mysterium: 181304
+One Night Ultimate Werewolf: 147949
+Operation: 3737
+Phase 10: 1258
+Pictionary: 197641
+Poetry for Neanderthals: 312786
+Pot de Vin: 232078
+Quoridor: 624
+Risk: 181
+Root: 237182
+Rummy-O: 811
+Salem 1692: 175549
+Scrabble: 320
+Secret Hitler: 188834
+Sequence: 2375
+Sorry: 313121
+Sorry! Sliders: 37196
+Space Gate Odyssey: 266179
+Taboo: 1111
+Tacocat Spelled Backwards: 333373
+The Game Of Life: 172307
+The Oregon Trail: 205322
+Throw Throw Burrito: 274533
+Ticket to Ride: 9209
+Tortuga 1667: 218530
+Trial By Trolley: 282171
+Trivial Pursuit: Classic Edition: 248702
+Trouble: 1410
+Two Rooms and a Boom: 134352
+Uno!: 2223
+Yahtzee: 2243

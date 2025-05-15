@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="218121">
+         <thumbnail>https://cf.geekdo-images.com/V6m5SH45BlP6t7-HuGWA-w__thumb/img/R_6kq0mu1RY7RJVvtI9hRClqpNY=/fit-in/200x150/filters:strip_icc()/pic3562670.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/V6m5SH45BlP6t7-HuGWA-w__original/img/b3B7VSa1WYqfIZhuAj1ClZM9GFg=/0x0/filters:format(jpeg)/pic3562670.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dice Hospital" />
+			
+						                           
+						               													<description>In Dice Hospital, a worker placement game, players must treat as many patients as possible to appease the local authorities! Players use their hospital staff to treat patients on their personal hospital player boards. However, players may also call in specialist staff to react to certain situations that arise to score more points with the authorities! The game uses worker placement mechanics for the staff, dice as the patients where low scores indicate low health and a personal player board of actions to treat patients. The player with the highest reputation wins the game!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="93">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="51" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="42" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="11" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2145" value="Medical" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2838" value="Action Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2906" value="I Cut, You Choose" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2935" value="Worker Placement with Dice Workers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65163" value="Mechanism: Dice Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62212" value="Medical: Hospitals / Clinics" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="281210" value="Dice Hospital: Community Care" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="327390" value="Dice Hospital: Community Care (Kickstarter Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="237901" value="Dice Hospital: Deluxe Add-Ons Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269831" value="Dice Hospital: Inspector Administrator Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="284045" value="Dice Hospital: Kickstarter Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265449" value="Dice Hospital: Medical Officer Administrator Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264147" value="Dice Hospital: Pharma Rep Administrator Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="325305" value="Dice Hospital: Specialist Promo Bundle" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="340508" value="Dice Hospital: Wooden 1st Player Upgrade" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="98387" value="Stan Kordonskiy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4208" value="Mike Nudd" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75169" value="Sebastian Koziner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69113" value="Sabrina Miramon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34033" value="Alley Cat Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42145" value="Kobold Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29409" value="Super Meeple" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6805" />
+			<average value="7.10651" />
+			<bayesaverage value="6.68864" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="901" bayesaverage="6.68864" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="568" bayesaverage="6.75375" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="246" bayesaverage="6.78213" />
+												</ranks>
+
+			<stddev value="1.22771" />
+			<median value="0" />
+			<owned value="10435" />
+			<trading value="149" />
+			<wanting value="246" />
+			<wishing value="1728" />
+			<numcomments value="1168" />
+			<numweights value="150" />
+			<averageweight value="2.32" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

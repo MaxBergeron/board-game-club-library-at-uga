@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="10547">
+         <thumbnail>https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__thumb/img/EDOmDbRhLy4za2PHkJ5IbhNxZmk=/fit-in/200x150/filters:strip_icc()/pic5146864.png</thumbnail>
+      <image>https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__original/img/7R6yYk8A2eUMmSDaxGjae5SceGI=/0x0/filters:format(png)/pic5146864.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Betrayal at House on the Hill" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="山中小屋" />
+			
+						               													<description>Betrayal at House on the Hill quickly builds suspense and excitement as players explore a haunted mansion of their own 'design', encountering spirits and frightening omens that foretell their fate. With an estimated one hour playing time, Betrayal at House on the Hill is ideal for parties, family gatherings or casual fun with friends.&amp;#10;&amp;#10;Betrayal at House on the Hill is a tile game that allows players to lay out the haunted house room by room, tile by tile, creating a new thrilling game board every time. The game is designed for three to six people, each of whom plays one of six possible characters.&amp;#10;&amp;#10;Secretly, one of the characters betrays the rest of the party, and the innocent members of the party must defeat the traitor in their midst before it&amp;rsquo;s too late! Betrayal at House on the Hill will appeal to any game player who enjoys a fun, suspenseful, and strategic game.&amp;#10;&amp;#10;Betrayal at House on the Hill includes detailed game pieces, including character cards, pre-painted plastic figures, and special tokens, all of which help create a spooky atmosphere and streamline game play.&amp;#10;&amp;#10;An updated reprint of Betrayal at House on the Hill was released on October 5, 2010.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="568">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="410" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="390" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="290" />
+					<result value="Not Recommended" numvotes="172" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="203" />
+					<result value="Recommended" numvotes="276" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="368" />
+					<result value="Recommended" numvotes="135" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="265" />
+					<result value="Recommended" numvotes="187" />
+					<result value="Not Recommended" numvotes="46" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="294" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5–6 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="167">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="33" />
+					<result value="12" numvotes="73" />
+					<result value="14" numvotes="42" />
+					<result value="16" numvotes="8" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="141">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="102" />
+					<result level="5" value="Unplayable in another language" numvotes="36" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2959" value="Map Addition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2027" value="Storytelling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2814" value="Traitor Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81575" value="Digital Implementations: VASSAL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54060" value="Game: Betrayal (Avalon Hill)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="49383" value="Players: One versus Many" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61993" value="Theme: Spooky Old Houses" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238032" value="Betrayal at Baldur&#039;s Gate and House on the Hill Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="198452" value="Betrayal at House on the Hill: Widow&#039;s Walk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="352570" value="Betrayal: Santa &amp; Minsc Promo" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="270432" value="Betrayal at House on the Hill: Betrayer Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="303580" value="Betrayal at House on the Hill: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271280" value="Betrayal at House on the Hill: Horror House Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271938" value="Betrayal at House on the Hill: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271847" value="Betrayal at House on the Hill: Lyris Laser Studio Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365883" value="Betrayal at House on the Hill: Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271848" value="Betrayal at House on the Hill: Trait Trackers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="253563" value="Betrayal at House on the Hill: Upgrade Kit" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="228660" value="Betrayal at Baldur&#039;s Gate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="358504" value="Betrayal at House on the Hill: 3rd Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="302809" value="Betrayal at Mystery Mansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="240196" value="Betrayal Legacy" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3440" value="Bruce Glassco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="442" value="Rob Daviau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10424" value="Bill McQuillan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="604" value="Mike Selinker" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4128" value="Teeuwynn Woodruff" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14951" value="Dennis Crabapple McClain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="5249" value="Christopher Moeller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18317" value="Peter Whitley" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4871" value="Avalon Hill" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="13" value="Wizards of the Coast" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="48154" />
+			<average value="7.01615" />
+			<bayesaverage value="6.79846" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="728" bayesaverage="6.79846" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="278" bayesaverage="6.69833" />
+												</ranks>
+
+			<stddev value="1.59573" />
+			<median value="0" />
+			<owned value="82743" />
+			<trading value="1668" />
+			<wanting value="477" />
+			<wishing value="6814" />
+			<numcomments value="9839" />
+			<numweights value="2040" />
+			<averageweight value="2.398" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

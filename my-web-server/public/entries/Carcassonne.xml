@@ -1,0 +1,2763 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="822">
+         <thumbnail>https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__thumb/img/88274KiOg94wziybVHyW8AeOiXg=/fit-in/200x150/filters:strip_icc()/pic6544250.png</thumbnail>
+      <image>https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__original/img/aVZEXAI-cUtuunNfPhjeHlS4fwQ=/0x0/filters:format(png)/pic6544250.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Carcassonne" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Carcassonne da viaggio" />
+			    				
+				<name type="alternate" sortindex="1" value="Carcassonne de voyage" />
+			    				
+				<name type="alternate" sortindex="1" value="Carcassonne Jubilee Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Carcassonne: Plus" />
+			    				
+				<name type="alternate" sortindex="1" value="Carcassonne: Reiseditie" />
+			    				
+				<name type="alternate" sortindex="1" value="Domínio de Carcassonne" />
+			    				
+				<name type="alternate" sortindex="1" value="Reise-Carcassonne" />
+			    				
+				<name type="alternate" sortindex="1" value="Travel Carcassonne" />
+			    				
+				<name type="alternate" sortindex="1" value="Τα Κάστρα του Μυστρά" />
+			    				
+				<name type="alternate" sortindex="1" value="Каркасон" />
+			    				
+				<name type="alternate" sortindex="1" value="Каркасон" />
+			    				
+				<name type="alternate" sortindex="1" value="Каркассон" />
+			    				
+				<name type="alternate" sortindex="1" value="Средневековье" />
+			    				
+				<name type="alternate" sortindex="1" value="קרקסון" />
+			    				
+				<name type="alternate" sortindex="1" value="كاركاسون" />
+			    				
+				<name type="alternate" sortindex="1" value="คาร์คาซอนน์" />
+			    				
+				<name type="alternate" sortindex="1" value="カルカソンヌ" />
+			    				
+				<name type="alternate" sortindex="1" value="カルカソンヌ21" />
+			    				
+				<name type="alternate" sortindex="1" value="カルカソンヌＪ" />
+			    				
+				<name type="alternate" sortindex="1" value="卡卡城" />
+			    				
+				<name type="alternate" sortindex="1" value="卡卡頌" />
+			    				
+				<name type="alternate" sortindex="1" value="카르카손" />
+			
+						               													<description>Carcassonne is a tile placement game in which the players draw and place a tile with a piece of southern French landscape represented on it. The tile might feature a city, a road, a cloister, grassland or some combination thereof, and it must be placed adjacent to tiles that have already been played, in such a way that cities are connected to cities, roads to roads, et cetera. Having placed a tile, the player can then decide to place one of their meeples in one of the areas on it: in the city as a knight, on the road as a robber, in the cloister as a monk, or in the field as a farmer. When that area is complete that meeple scores points for its owner.&amp;#10;&amp;#10;During a game of Carcassonne, players are faced with decisions like: &amp;quot;Is it really worth putting my last meeple there?&amp;quot; or &amp;quot;Should I use this tile to expand my city, or should I place it near my opponent instead, thus making it a harder for them to complete it and score points?&amp;quot; Since players place only one tile and have the option to place one meeple on it, turns proceed quickly even if it is a game full of options and possibilities.&amp;#10;&amp;#10;First game in the Carcassonne series.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2000" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2654">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="76" />
+					<result value="Not Recommended" numvotes="1651" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1404" />
+					<result value="Recommended" numvotes="951" />
+					<result value="Not Recommended" numvotes="128" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1175" />
+					<result value="Recommended" numvotes="1147" />
+					<result value="Not Recommended" numvotes="47" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="737" />
+					<result value="Recommended" numvotes="1358" />
+					<result value="Not Recommended" numvotes="187" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="200" />
+					<result value="Recommended" numvotes="1081" />
+					<result value="Not Recommended" numvotes="765" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="244" />
+					<result value="Not Recommended" numvotes="1364" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="765">
+			<results>		
+					<result value="2" numvotes="2" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="12" />
+					<result value="5" numvotes="55" />
+					<result value="6" numvotes="230" />
+					<result value="8" numvotes="354" />
+					<result value="10" numvotes="89" />
+					<result value="12" numvotes="18" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="490">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="481" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="7" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2871" value="Kill Steal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2959" value="Map Addition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77906" value="Category: Dized Tutorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67858" value="Cities: Carcassonne (France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79006" value="Components:  Meeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81601" value="Components: Map (Regional scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109935" value="Containers: Tin/Metal Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104952" value="Digital Implementations: Apple App Store" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76458" value="Digital Implementations: BrettspielWelt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81575" value="Digital Implementations: VASSAL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2" value="Game: Carcassonne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109134" value="Misc: BGG Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69363" value="Occupation: Farmer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57940" value="Region: Languedoc (France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75169" value="Religious: Monks/Abbots &amp; Monasteries/Abbeys" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="167903" value="20 Jahre Darmstadt Spielt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="376556" value="Antwerpen (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318136" value="Apothecaries (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248789" value="Apothecaries and Tithes (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362915" value="Archery Tournament (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318408" value="Die Bettler (fan-erweiterung für Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="302315" value="The Big Black Pig Escape (fan expansion to Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248790" value="Breweries (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="291514" value="Carcassonne Maps: Benelux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="291518" value="Carcassonne Maps: Chips" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="276673" value="Carcassonne Maps: Deutschland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="291512" value="Carcassonne Maps: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="291515" value="Carcassonne Maps: Great Britain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="388042" value="Carcassonne Maps: Nordics" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="291516" value="Carcassonne Maps: Península Ibérica" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="349185" value="Carcassonne Maps: Taiwan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372322" value="Carcassonne Maps: Ukraine" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="322457" value="Carcassonne Maps: USA East" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="322458" value="Carcassonne Maps: USA West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="400565" value="Carcassonne: 3D Starting Landscape" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="433231" value="Carcassonne: 4 Seasons – The Autumn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="420726" value="Carcassonne: 4 Seasons – The Spring" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="442633" value="Carcassonne: 4 Seasons – The Summer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="167744" value="Carcassonne: Bonusplättchen Spiel 2014" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186143" value="Carcassonne: Bonusplättchen Spiel 2015" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="210799" value="Carcassonne: Bonusplättchen Spiel 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238416" value="Carcassonne: Bonusplättchen Spiel 2017" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="263941" value="Carcassonne: Bonusplättchen Spiel 2018" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292749" value="Carcassonne: Bonusplättchen Spiel 2019" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321496" value="Carcassonne: Bonusplättchen Spiel 2020" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="349121" value="Carcassonne: Bonusplättchen Spiel 2021" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372334" value="Carcassonne: Bonusplättchen Spiel 2022" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402965" value="Carcassonne: Bonusplättchen Spiel 2023" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="430140" value="Carcassonne: Bonusplättchen Spiel 2024" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="175653" value="Carcassonne: Castles in Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="120686" value="Carcassonne: Corn Circles II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="35666" value="Carcassonne: Cult, Siege &amp; Creativity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232336" value="Carcassonne: CutCassonne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="168121" value="Carcassonne: Darmstadt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="195771" value="Carcassonne: Das Labyrinth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="59065" value="Carcassonne: Der Tunnel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="166518" value="Carcassonne: Die Belagerer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="13300" value="Carcassonne: Die Katharer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="67055" value="Carcassonne: Die Kornkreise" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199988" value="Carcassonne: Die Wahrsagerin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="131676" value="Carcassonne: Die Windrosen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184578" value="Carcassonne: Easter in Carcassonne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="2993" value="Carcassonne: Expansion 1 – Inns &amp; Cathedrals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="217006" value="Carcassonne: Expansion 10 – Under the Big Top" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="5405" value="Carcassonne: Expansion 2 – Traders &amp; Builders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="15158" value="Carcassonne: Expansion 3 – The Princess &amp; The Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21385" value="Carcassonne: Expansion 4 – The Tower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31784" value="Carcassonne: Expansion 5 – Abbey &amp; Mayor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="33458" value="Carcassonne: Expansion 6 – Count, King &amp; Robber" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="38855" value="Carcassonne: Expansion 7 – The Catapult" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="66646" value="Carcassonne: Expansion 8 – Bridges, Castles and Bazaars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="153773" value="Carcassonne: Expansion 9 – Hills &amp; Sheep" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="196080" value="Carcassonne: German Cathedrals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="26615" value="Carcassonne: GQ Promo Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="309267" value="Carcassonne: Halb so Wild" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="166052" value="Carcassonne: Halb so wild I" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="169392" value="Carcassonne: Halb so wild II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="373289" value="Carcassonne: Karácsonyi ajándék" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="7707" value="Carcassonne: King &amp; Scout" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158041" value="Carcassonne: Klöster in Deutschland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="24506" value="Carcassonne: Kreivi ja Kuningas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="72295" value="Carcassonne: La Porxada" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130998" value="Carcassonne: Little Buildings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="118618" value="Carcassonne: Mage &amp; Witch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="435141" value="Carcassonne: Medina Azahara" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="414486" value="Carcassonne: Mini-Bundle I" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="215210" value="Carcassonne: Nikolaus-Zählleiste" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="367759" value="Carcassonne: Promo Carcassonne Spain 2022" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="420727" value="Carcassonne: Snakes and Ladders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="260589" value="Carcassonne: Spiel Doch Mini Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="331479" value="Carcassonne: Spiel Doch! Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186144" value="Carcassonne: Starttableau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="262563" value="Carcassonne: The Barber-Surgeons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372858" value="Carcassonne: The Bets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="179919" value="Carcassonne: The City Gates" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="12903" value="Carcassonne: The Count of Carcassonne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="38431" value="Carcassonne: The Cult" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="406740" value="Carcassonne: The Drawbridges" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="118614" value="Carcassonne: The Ferries" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="123905" value="Carcassonne: The Festival" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="118615" value="Carcassonne: The Flying Machines" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248979" value="Carcassonne: The Fruit-Bearing Trees" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="349162" value="Carcassonne: The Gifts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="118617" value="Carcassonne: The Gold Mines" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="308636" value="Carcassonne: The Land Surveyors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235057" value="Carcassonne: The Markets of Leipzig" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="118619" value="Carcassonne: The Messengers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="324940" value="Carcassonne: The Peasant Revolts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="92332" value="Carcassonne: The Phantom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="85003" value="Carcassonne: The Plague" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="2591" value="Carcassonne: The River" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="18836" value="Carcassonne: The River II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="118616" value="Carcassonne: The Robbers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="104634" value="Carcassonne: The School" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="352169" value="Carcassonne: The Signposts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="291517" value="Carcassonne: The Tollkeepers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="211023" value="Carcassonne: The Watchtowers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="400738" value="Carcassonne: The Wonders of Humanity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="428459" value="Carcassonne: The Wonders of Humanity Set II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372336" value="Carcassonne: Ukraine Promo Tile" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="302920" value="Castles in Hungary (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="376550" value="Celestial Events (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="320469" value="Circles in the Forest (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340341" value="Cleric and Serf (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="320439" value="The Coast (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362781" value="The Constable (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248791" value="Corn Circles 3 (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="376551" value="Cosmic Portal: Mirror Zone (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="320437" value="Divided Cities (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340399" value="Dragon Hunters (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="335282" value="Dragon Killers (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318438" value="Dragon Rider Slayer (fan expansion for Carcassonne: The Princess &amp; The Dragon)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248793" value="Drought and Pestilence (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362694" value="Dual Dragon (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318402" value="Eisenbahn (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="320374" value="Die Eroberer (fan Expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340828" value="Evergreen Forest (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="336761" value="Family Feud (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248795" value="Fields and Vineyards (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="317976" value="Fischerhütte (fan-erweiterung für Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248798" value="Fisherman: Angler &amp; Fish Farm (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248799" value="Fisherman: Swan Lake (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248800" value="Fisherman: Waterfalls (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="337769" value="Fishing Boats (fan expansion to Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248801" value="Forests (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248802" value="Forests: An Apple a Day (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248803" value="Forests: Fairy Tales (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248804" value="Forests: The Forest Fire (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248805" value="Forests: Timber! (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318048" value="Friar &amp; Farmhand (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340450" value="Fruit Trader (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248814" value="The Gallows (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248806" value="Gold Mines (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248815" value="The Grim Reaple (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="317988" value="Holzfäller &amp; Müller (fan-erweiterung für Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248808" value="In the Stocks (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="337445" value="Inn &amp; Stable Owners (fan expansion to Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="337826" value="The Jester and the Minstrel (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248809" value="Jousting Tournament (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340743" value="Kettle of Fish (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="316394" value="Lakelands (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="323386" value="The Land Surveyors 2 (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318419" value="Landschaftskarten die Dritte (fan-erweiterung für Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="336602" value="Lavender Fields (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248811" value="Lord of the Manor (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318174" value="The Medieval Expansion (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340495" value="Merry Men (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248812" value="Mills and Bakeries (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362625" value="Monasteries in Spain (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="317987" value="More River (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289733" value="The Mount of the Duke (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248813" value="Mountains (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318418" value="Nochmal neue Landschaftskarten (fan-erweiterung für Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248816" value="The Ocean (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248817" value="The Orders of Chivalry (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340648" value="Outposts (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318516" value="Pirate Coast (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248819" value="The Pope of Avignon (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362847" value="Prison (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="317689" value="Ramparts (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="317702" value="River System (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="354960" value="The Roads of Europe (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="354528" value="La Sagrada Familia (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="331478" value="Spielbox-Almanach 25 Jahre Hans im Glück Beilage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="354958" value="The Teams Courtyard (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318135" value="Tithe barns (fan expansion to Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355072" value="The Towers of the Black Prince (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362964" value="Treasure Hunt (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318082" value="Troubadours (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318412" value="Truppenaufmarsch (fan-erweiterung für Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248821" value="Upper Carcassonne (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318386" value="Wald (fan-erweiterung für Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319124" value="Die Wälder von Carcassonne V2 (fan-erweiterung für Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="317977" value="Weg durch die Stadt (fan-erweiterung für Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248822" value="Wells (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248823" value="Wells: Fountain of Youth (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248824" value="Wells: Wishing Wells (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248796" value="Wheat Fields (fan expansion for Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="336603" value="Wine Merchant (fan expansion to Carcassonne)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160096" value="Каркассон: Дворяне и Башни" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="211659" value="Каркассон: Наука и магия" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160095" value="Каркассон: Предместья и обитатели" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="215144" value="Каркассон: Солове́й-Разбо́йник &amp; Водяной" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="177728" value="Каркассон: тайл Избушка" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="289598" value="The Adults of Carcassonne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="323606" value="Carcassonne: 50/100 Scoring Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271421" value="Carcassonne: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="274244" value="Carcassonne: Broken Token Organizer – Extra Dividers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308977" value="Carcassonne: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="239508" value="Carcassonne: Faltschachtel-Set für Mini-Erweiterungen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306365" value="Carcassonne: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="189469" value="Carcassonne: GameGuard Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="142934" value="Carcassonne: Le Sac" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="295890" value="Carcassonne: Meeple Flags" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138364" value="Carcassonne: Meeple Stickers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="379198" value="Carcassonne: Meeple-bags in a set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="156477" value="Carcassonne: Meeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="352661" value="Carcassonne: Scoring Flags" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="176847" value="Carcassonne: Stoffbeutel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348556" value="Carcassonne: The GiftForge All-in Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348555" value="Carcassonne: The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="323607" value="Carcassonne: The Tower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="330075" value="Carcassonne: Tile Tower Dispenser" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271752" value="Carcassonne: Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273596" value="Carcassonne: Tower Rex Travel Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="197502" value="Carcassonne: Zähltafel &quot;Magneto&quot;" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="45748" value="Carcassonne: Wheel of Fortune" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="358124" value="Mists over Carcassonne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="401313" value="Nebel über Carcassonne: Die Bannkreise" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="142057" value="Carcassonne Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="141008" value="Carcassonne Big Box 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="141007" value="Carcassonne Big Box 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="140711" value="Carcassonne Big Box 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="164127" value="Carcassonne Big Box 5" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="230914" value="Carcassonne Big Box 6" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="364405" value="Carcassonne Big Box 7" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="161729" value="Carcassonne inklusive Händler &amp; Baumeister" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="154094" value="Carcassonne Limited Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="147782" value="Carcassonne Müller Exklusiv-Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="89952" value="Carcassonne: 10 Year Special Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="329954" value="Carcassonne: 20th Anniversary Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="301201" value="El Grande &amp; Carcassonne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="160094" value="Каркассон: Королевский Подарок" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="316344" value="Каркассон: Королевский подарок. Новое издание" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="6779" value="The Ark of the Covenant" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="137492" value="Carcassonne Demo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="230751" value="Carcassonne für 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="206940" value="Carcassonne: Amazonas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="163370" value="Carcassonne: Gold Rush" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="4390" value="Carcassonne: Hunters and Gatherers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="182082" value="Carcassonne: Over Hill and Dale" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="256065" value="Carcassonne: Safari" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="147303" value="Carcassonne: South Seas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="180564" value="Carcassonne: Star Wars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="7717" value="Carcassonne: The Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="12902" value="Carcassonne: The City" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="16216" value="Carcassonne: The Discovery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="131014" value="Carcassonne: Winter Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="41010" value="My First Carcassonne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="34615" value="New World: A Carcassonne Game" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="398" value="Klaus-Jürgen Wrede" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="127899" value="Marcel Gröber" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74" value="Doris Matthäus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43873" value="Anne Pätzke" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="145317" value="Franz-Georg Stämmele" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24874" value="64 Ounce Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7340" value="Astrel Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9074" value="Bard Centrum Gier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24631" value="cutia.ro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Enigma (Bergsala Enigma)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36981" value="Feelindigo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="858" value="Grow Jogos e Brinquedos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5020" value="Ísöld ehf." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3395" value="Midgaard Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3504" value="Möbius Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23628" value="Monkey Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32395" value="NeoTroy Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44407" value="Nordic Games ehf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2528" value="Paper Iyagi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31904" value="Ponva d.o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8313" value="Smart Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9235" value="Stupor Mundi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48279" value="SuperHeated Neurons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="131" value="Venice Connection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1511" value="Ventura Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="133213" />
+			<average value="7.41247" />
+			<bayesaverage value="7.29706" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="230" bayesaverage="7.29706" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="55" bayesaverage="7.28902" />
+												</ranks>
+
+			<stddev value="1.31049" />
+			<median value="0" />
+			<owned value="209192" />
+			<trading value="2032" />
+			<wanting value="690" />
+			<wishing value="10159" />
+			<numcomments value="22580" />
+			<numweights value="8461" />
+			<averageweight value="1.8883" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1293">
+         <thumbnail>https://cf.geekdo-images.com/dsI6-jUj8mzOuC6gL4e42w__thumb/img/YEc1l4n4HKd5_L1s1yTsqHyLjSw=/fit-in/200x150/filters:strip_icc()/pic7024967.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/dsI6-jUj8mzOuC6gL4e42w__original/img/xf5XFqvj3TZxf3B_z9xR6lyGxic=/0x0/filters:format(jpeg)/pic7024967.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Boggle" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Boggle Game Folio Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Boggle Gamepen" />
+			    				
+				<name type="alternate" sortindex="1" value="Boggle Reinvention" />
+			    				
+				<name type="alternate" sortindex="1" value="Boggle to Go" />
+			    				
+				<name type="alternate" sortindex="1" value="Deluxe Boggle" />
+			    				
+				<name type="alternate" sortindex="1" value="Lig Letras" />
+			    				
+				<name type="alternate" sortindex="1" value="Ordbox" />
+			    				
+				<name type="alternate" sortindex="4" value="Il Paroliere" />
+			    				
+				<name type="alternate" sortindex="1" value="Scarabeo Shake" />
+			    				
+				<name type="alternate" sortindex="1" value="Scrabble Boggle" />
+			    				
+				<name type="alternate" sortindex="1" value="World&#039;s Smallest Boggle" />
+			
+						               													<description>Boggle is a timed word game in which players have 3 minutes to find as many connected words as possible from the face up letters resting in a 16 cube grid.  When the timer runs out, players compare their lists of words and remove any words found by multiple players.  Points are then awarded for remaining words, depending on how many letters are in the word.  (In the original Boggle, all words must contain 3 or more letters to score points.)&amp;#10;&amp;#10;An example grid given in the French Canadian rules (of Deluxe Boggle) holds an amazing 459 words!&amp;#10;&amp;#10;A number of variants have been produced by Parker Brothers over time, including Big Boggle (which uses a 5&amp;times;5 grid of letters and forces players to search for longer words).&amp;#10;&amp;#10;Boggle is a word dice game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1972" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="74">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="44" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="40" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="51" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="46" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3–4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–7 players" />
+</poll-summary> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="37">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="15" />
+					<result value="10" numvotes="14" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="34">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="9" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="35" value="Unplayable in another language" numvotes="22" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3113" value="Spelling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62600" value="Components: 4 x 4 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9302" value="Components: Letter Cubes / Word Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75031" value="Components: Sand Timers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10257" value="Game: Boggle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66787" value="Series: World’s Smallest (Super Impulse)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="354127" value="Boggle First Words" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6924" value="Bill Cooke" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2556" value="Allan Turoff" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="404" value="Alga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3626" value="Basic Fun, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4680" value="Borras Plana S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6628" value="Brite Power International Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2074" value="Capiépa Éditeur: Jeux Éducatifs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1935" value="Carlit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1772" value="Clipper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="253" value="Editrice Giochi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1731" value="Estrela" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="858" value="Grow Jogos e Brinquedos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="920" value="Miro Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7885" value="Palet spil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="417" value="Palitoy Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17253" value="Stylus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30088" value="Super Impulse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="95" value="Waddingtons" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8641" />
+			<average value="6.24173" />
+			<bayesaverage value="6.03268" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2855" bayesaverage="6.03268" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1081" bayesaverage="6.04523" />
+												</ranks>
+
+			<stddev value="1.60479" />
+			<median value="0" />
+			<owned value="15471" />
+			<trading value="210" />
+			<wanting value="18" />
+			<wishing value="196" />
+			<numcomments value="2252" />
+			<numweights value="521" />
+			<averageweight value="1.4568" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

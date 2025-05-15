@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2453">
+         <thumbnail>https://cf.geekdo-images.com/96YA5wUJDxtPkmPxemr5Qg__thumb/img/EBt2y7Awj5djyo185R7g6FV3P9g=/fit-in/200x150/filters:strip_icc()/pic2197702.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/96YA5wUJDxtPkmPxemr5Qg__original/img/sdX6o0TZpXjsDMw071k2P80wpYw=/0x0/filters:format(jpeg)/pic2197702.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Blokus" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Blokus Giant" />
+			    				
+				<name type="alternate" sortindex="1" value="Blokus XL" />
+			    				
+				<name type="alternate" sortindex="1" value="Blokus: Super einfach, einfach spannend" />
+			    				
+				<name type="alternate" sortindex="1" value="Giant Blokus" />
+			    				
+				<name type="alternate" sortindex="1" value="Tesselation Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Tessellation" />
+			    				
+				<name type="alternate" sortindex="1" value="Travel Blokus" />
+			    				
+				<name type="alternate" sortindex="1" value="World&#039;s Smallest Blokus" />
+			    				
+				<name type="alternate" sortindex="1" value="ブロックス" />
+			    				
+				<name type="alternate" sortindex="1" value="格格不入" />
+			    				
+				<name type="alternate" sortindex="1" value="블로커스" />
+			
+						               													<description>Blokus (officially pronounced &amp;quot;Block us&amp;quot;) is an abstract strategy game with transparent, Tetris-shaped, colored pieces that players are trying to play onto the board.  The only caveat to placing a piece is that it may not lie adjacent to your other pieces, but instead must be placed touching at least one corner of your pieces already on the board.&amp;#10;&amp;#10;There is a solitaire variation where one player tries to get rid of all the pieces in a single sitting.&amp;#10;&amp;#10;Goal of the Game:&amp;#10;&amp;#10;Each player has to fit as many of his/her 21 pieces on the board as possible.&amp;#10;&amp;#10;Components:&amp;#10;Blokus Game Board (400 squares)&amp;#10;84 game pieces (four 21-piece sets of red, green, blue, and yellow)&amp;#10;Each color inlcudes:&amp;#10;&amp;#10;     1 one-square piece&amp;#10;     1 piece with 2 squares&amp;#10;     2 pieces with 3 squares&amp;#10;     5 pieces with 4 squares&amp;#10;     12 pieces with 5 squares&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2000" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="501">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="320" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="87" />
+					<result value="Recommended" numvotes="256" />
+					<result value="Not Recommended" numvotes="94" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="131" />
+					<result value="Not Recommended" numvotes="280" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="443" />
+					<result value="Recommended" numvotes="48" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="297" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2, 4 players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="123">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="2" />
+					<result value="4" numvotes="6" />
+					<result value="5" numvotes="28" />
+					<result value="6" numvotes="49" />
+					<result value="8" numvotes="33" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="87">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="86" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78575" value="Components: 20 x 20 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104952" value="Digital Implementations: Apple App Store" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3385" value="Game: Blokus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66787" value="Series: World’s Smallest (Super Impulse)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="6411" value="Blokus 3D" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="286310" value="Blokus Dice Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="16395" value="Blokus Duo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="97469" value="Blokus Junior" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="342097" value="Blokus Shuffle: UNO Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1001" value="Bernard Tavitian" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="48430" value="Alan D. Hoch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="765" value="Educational Insights" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3363" value="Alary Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4752" value="Beverly Enterprises, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="496" value="danspil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5967" value="Divisible By Zero (DBZ) Aust Pty Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8835" value="Educa Korea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4440" value="Euro World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19047" value="FoxMind Israel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5350" value="Granna" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="900" value="Green Board Game Co." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8574" value="Hodin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="239" value="QfreeGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="530" value="Sekkoia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30088" value="Super Impulse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9466" value="Winning Moves France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26208" value="Winning Moves Germany" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="28493" />
+			<average value="6.86129" />
+			<bayesaverage value="6.71261" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="864" bayesaverage="6.71261" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="57" bayesaverage="6.75559" />
+												</ranks>
+
+			<stddev value="1.25921" />
+			<median value="0" />
+			<owned value="41639" />
+			<trading value="704" />
+			<wanting value="184" />
+			<wishing value="1908" />
+			<numcomments value="5995" />
+			<numweights value="1706" />
+			<averageweight value="1.7362" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="67877">
+         <thumbnail>https://cf.geekdo-images.com/OvOpd-Lhl7t3h9fF_qi6lQ__thumb/img/002NO49Pl3-9dPUj43StWt0SS2c=/fit-in/200x150/filters:strip_icc()/pic2527529.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/OvOpd-Lhl7t3h9fF_qi6lQ__original/img/0_8ukg1eYy8HxXTAwPgKptJXTeU=/0x0/filters:format(jpeg)/pic2527529.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Anomia" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Anomia 字字轉機" />
+			    				
+				<name type="alternate" sortindex="1" value="Blitz!" />
+			    				
+				<name type="alternate" sortindex="1" value="Blitzdings" />
+			    				
+				<name type="alternate" sortindex="1" value="Duplex" />
+			    				
+				<name type="alternate" sortindex="1" value="Na końcu języka" />
+			    				
+				<name type="alternate" sortindex="1" value="Ordet Fanger!" />
+			    				
+				<name type="alternate" sortindex="1" value="Ordglapp" />
+			    				
+				<name type="alternate" sortindex="1" value="Sanasota" />
+			    				
+				<name type="alternate" sortindex="1" value="Tilt" />
+			    				
+				<name type="alternate" sortindex="1" value="Эврика" />
+			    				
+				<name type="alternate" sortindex="1" value="블리츠" />
+			
+						               													<description>Anomia plays off the fact that our minds are positively brimming with all sorts of random information: things to eat, pop songs, websites, etc... Sure, under normal circumstances, it's easy to give an example of a frozen food or a dog breed, but you'll find that your brain works a little differently under pressure!&amp;#10;&amp;#10;To play, draw and reveal a card from the center pile. Does the symbol on your card match one on another player's card? If so, you must quickly face-off with the other player by giving an example of the person, place, or thing on their card before they can do the same for yours. If you blurt out a correct answer first, you win their card and the drawing continues.&amp;#10;&amp;#10;Sounds simple, right? Wrong! Wild cards allow non-matching symbols to match, increasing the number of things to which you must pay attention. Cascading face-offs can occur when you hand over a lost card, thereby revealing a new top card on your play pile.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="60">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="42" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="40" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6+ players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="15">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="0" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="13" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1027" value="Trivia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2991" value="Speed Matching" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76492" value="Series: Anomia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="382169" value="Anomia 2.0" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="142271" value="Anomia: Party Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="376217" value="Anomia: Pop Culture" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="250834" value="Anomia Kids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="225062" value="Anomia X" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="36192" value="Andrew Innes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3030" value="Kinetic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37840" value="Paul Laane" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="109053" value="Cezary Szulc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39902" value="Peter Wocken" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11805" value="Anomia Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2691" value="Cocktail Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27221" value="Coiledspring Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="917" value="DV Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8439" value="Happy Baobab" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32140" value="Lúdilo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23031" value="Magellan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34627" value="Nasza Księgarnia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5402" />
+			<average value="6.69224" />
+			<bayesaverage value="6.28747" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1806" bayesaverage="6.28747" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="137" bayesaverage="6.41979" />
+												</ranks>
+
+			<stddev value="1.44698" />
+			<median value="0" />
+			<owned value="10460" />
+			<trading value="171" />
+			<wanting value="85" />
+			<wishing value="1084" />
+			<numcomments value="1203" />
+			<numweights value="155" />
+			<averageweight value="1.0387" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

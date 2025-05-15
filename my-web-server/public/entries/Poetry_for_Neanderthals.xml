@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="312786">
+         <thumbnail>https://cf.geekdo-images.com/CDlBjXSPT-3Zyrj8ENBkvQ__thumb/img/0ON18UcLepuwPLhwkRtRUjhvAZ8=/fit-in/200x150/filters:strip_icc()/pic5702797.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/CDlBjXSPT-3Zyrj8ENBkvQ__original/img/FgAyx5Q1pe7TyHsYskhbab_S_os=/0x0/filters:format(jpeg)/pic5702797.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Poetry for Neanderthals" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Ősköltészet" />
+			    				
+				<name type="alternate" sortindex="1" value="Poesie für Neandertaler" />
+			    				
+				<name type="alternate" sortindex="1" value="Poezija Neandertalietiškai" />
+			    				
+				<name type="alternate" sortindex="1" value="Поезія для Неандертальців" />
+			    				
+				<name type="alternate" sortindex="1" value="Поэзия неандертальцев" />
+			
+						               													<description>Poetry for Neanderthals is a competitive word-guessing game where you can only give clues by speaking in single syllables. So, instead of saying &amp;quot;broccoli,&amp;quot; you'd say something like &amp;quot;green thing you eat for live long and have good health.&amp;quot; If you mess up and use a big word, such as &amp;quot;vegetable,&amp;quot; you get bopped on the head with a NO !Stick and you lose points.&amp;#10;&amp;#10;The goal of the game is to score the most points by correctly interpreting words and phrases. The chosen Poet starts off the game with a Poetry Card and tries to get their teammates to say the listed word, using only words with one syllable within a 90-second time limit.&amp;#10;&amp;#10;The team with the most points is the winner.&amp;#10;&amp;#10;Contents:&amp;#10;220 cards&amp;#10;1 inflatable NO! Stick&amp;#10;1 sand timer&amp;#10;2 point slates&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="12" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="22">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="11">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="12">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="12+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6, 8 players" />
+  <result name="recommmendedwith" value="Recommended with 4–12 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="10" value="Unplayable in another language" numvotes="4" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1036" value="Prehistoric" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81552" value="Components: Inflatable" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75031" value="Components: Sand Timers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66334" value="Mechanism: Give a Clue / Get a Clue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62861" value="Word Games: Guess the Word" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="351880" value="Poetry for Neanderthals: More Cards Box 1" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="394554" value="My Parents Might Be Martians" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="363550" value="Poetry for Neanderthals: NSFW Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="429453" value="Poetry for Neanderthals: Pop Culture Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80158" value="Elan Lee" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71478" value="Matthew Inman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80158" value="Elan Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32307" value="Exploding Kittens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53490" value="Rozum" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2852" />
+			<average value="6.6598" />
+			<bayesaverage value="6.10704" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2509" bayesaverage="6.10704" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="168" bayesaverage="6.31875" />
+												</ranks>
+
+			<stddev value="1.47169" />
+			<median value="0" />
+			<owned value="9249" />
+			<trading value="105" />
+			<wanting value="39" />
+			<wishing value="564" />
+			<numcomments value="595" />
+			<numweights value="37" />
+			<averageweight value="1.0811" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="218530">
+         <thumbnail>https://cf.geekdo-images.com/rT6zVN1zRbEMHok5V_zoGQ__thumb/img/851DsrYg9ei8WsbL77sj5eQMvP0=/fit-in/200x150/filters:strip_icc()/pic3747083.png</thumbnail>
+      <image>https://cf.geekdo-images.com/rT6zVN1zRbEMHok5V_zoGQ__original/img/lDlFYDfC2TzfsljzpsvlJCQdapQ=/0x0/filters:format(png)/pic3747083.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tortuga 1667" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Тортуґа 1667" />
+			    				
+				<name type="alternate" sortindex="1" value="トルトゥーガ1667" />
+			    				
+				<name type="alternate" sortindex="1" value="海盗岛" />
+			    				
+				<name type="alternate" sortindex="1" value="토르투가 1667" />
+			
+						               													<description>The year is 1667 and you are a pirate sailing the waters of the Caribbean. A Spanish Galleon floats nearby, and you&amp;rsquo;ve talked your crewmates into working together to steal all of its treasure. What you haven&amp;rsquo;t told your fellow pirates is that you have no intentions on sharing the treasure once you have it. Your crewmates have told you that they share your loyalty and that they&amp;rsquo;ll help you maroon the greedy pirates on your ship to the rocky island of Tortuga. But you&amp;rsquo;ve seen your friends&amp;rsquo; loaded pistols and heard their whisperings of a mutiny. You know that nobody can be trusted.&amp;#10;&amp;#10;Tortuga is all about the interactions you have with the other players. In some cases, such as when you and your shipmates are attacking the Spanish Galleon, you need to rely on your enemies in order to succeed. In the very next turn, however, your shipmates might stab you in the back with a mutiny in order to keep all the treasure for themselves.&amp;#10;&amp;#10;Since nobody holds a &amp;quot;hand&amp;quot; of cards, this game is also about knowledge and communication regarding the community Event cards. Unless you are in desperation mode, it is not wise to reveal Event cards at random. Almost half of the Event cards can hurt your team drastically. It's often in your best interest to use an action to view the cards first, or to rely on the knowledge of a trusted ally. Knowing where harmful Event cards are located allows you to force an enemy to reveal those cards and suffer the consequences. The most successful players are the ones who are able to discern who is on their team and then share vital information with them at opportune moments.&amp;#10;&amp;#10;Vote cards also play a key role in the game. Each Vote card has three sections - one each for Attacks, Mutinies, and Brawls. Players must put themselves in the best position to use their Vote cards, since their hand of Vote cards may not always be ideal based on their pawn location. For example, sometimes it may be worth putting in Water, causing an attack to fail, in order to save a Crossbones card for when you want to Mutiny against your captain.&amp;#10;&amp;#10;For 2-9 Players. 20-40 minutes. Ages 12+.&amp;#10;&amp;#10;Volume 2 in the Dark Cities Series by Facade Games.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="9" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="102">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="77" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="72" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="65" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="39" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="49" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="61" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="68" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="52" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="35" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="9+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="51" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5, 7 players" />
+  <result name="recommmendedwith" value="Recommended with 5–9 players" />
+</poll-summary> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="22">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="8" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="9" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76558" value="Containers: Book-like" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="16972" value="Crowdfunding: Indiegogo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57981" value="Region: Caribbean Sea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46719" value="Series: Dark Cities (Facade Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="74823" value="Theme: Pirates" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="401592" value="The Index of Dark Cities" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="81535" value="Travis Hancock" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="121772" value="Holly Hancock" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="98151" value="Sarah Keele" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30433" value="Facade Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40614" value="Asobition (アソビション)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3918" />
+			<average value="6.88929" />
+			<bayesaverage value="6.3206" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1704" bayesaverage="6.3206" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="124" bayesaverage="6.47428" />
+												</ranks>
+
+			<stddev value="1.44943" />
+			<median value="0" />
+			<owned value="11404" />
+			<trading value="243" />
+			<wanting value="87" />
+			<wishing value="987" />
+			<numcomments value="984" />
+			<numweights value="81" />
+			<averageweight value="2.0123" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

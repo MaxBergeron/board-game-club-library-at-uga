@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="5048">
+         <thumbnail>https://cf.geekdo-images.com/N0yxlpaVJKXJi6pLev6YoA__thumb/img/L-b7XnHFCIIvnDLbIG66caayc3I=/fit-in/200x150/filters:strip_icc()/pic8203388.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/N0yxlpaVJKXJi6pLev6YoA__original/img/Upur6-c_Av-Upj02F5k1P0NB7gc=/0x0/filters:format(jpeg)/pic8203388.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Candy Land" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Candy Land Disney: Winnie l&#039;Ourson Piqu-nique dans la Forêt des Rêves Bleus" />
+			    				
+				<name type="alternate" sortindex="1" value="Candy Land Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Candy Land Pooh: 100 Acre Wood Picnic Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Candy Land Travel" />
+			    				
+				<name type="alternate" sortindex="1" value="Candy Land: Chocolate Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Candy Land: Disney Princess Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Candy Land: Dora the Explorer Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Candy Land: Dylan&#039;s Candy Bar Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Candy Land: The Disney Theme Park Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Candy Land: Winter Adventures Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Şeker Diyarı" />
+			    				
+				<name type="alternate" sortindex="1" value="World&#039;s Smallest Candy Land" />
+			    				
+				<name type="alternate" sortindex="1" value="Ζαχαρένια χώρα" />
+			
+						               													<description>Created by Eleanor Abbott in the early 1940's to entertain children recovering from polio and first published by Milton Bradley (now Hasbro) in 1949, Candy Land encourages young players to socialize, exercise patience, recognize colors, learn rules, and follow directions.&amp;#10;&amp;#10;Players race down a rainbow-colored track to be the first to find the lost King Kandy at Candy Castle, but watch out for obstacles like the sticky Molasses Swamp!  Start by placing your plastic Gingerbread Man (or other character marker) at the beginning of the track.  Each turn, players draw a simple card and move by matching the color on the card to the next color on the track.  Some cards show a named location on the board; players who draw these cards move forward or backward on the track to the named location.  The game ends when the first player arrives at Candy Castle by reaching or moving beyond the last square on the track.&amp;#10;&amp;#10;In the 2004 version, younger players are not required to remove backward on the track if they draw a named card, and the last square of the track was changed from a Violet Square to a Rainbow Square, resolving a 55-year dispute over whether a player needs to land on the Violet Square or move beyond the Violet Square to win.&amp;#10;&amp;#10;Prior to the 2006 version, three colored spaces on the track (one in Molasses Swamp and two &amp;quot;Cherry Pitfalls&amp;quot;) were marked with a dot.  Players who landed on a dot were &amp;quot;stuck,&amp;quot; and were unable to move from the spot until they drew a card that matched the color of the square they were on.  The 2006 version replaced gum drops with licorice spaces; players who land on a licorice space only lose their next turn.&amp;#10;&amp;#10;&amp;ldquo;The Legend of the Lost Candy Castle&amp;rdquo; is printed inside the box and can be read out loud. The game parts can be stored below it. The game board is colorful and has lots of yummy candy references.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1949" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="46">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="3" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="52">
+			<results>		
+					<result value="2" numvotes="14" />
+					<result value="3" numvotes="27" />
+					<result value="4" numvotes="10" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="19">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="18" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children&#039;s Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62107" value="Books: Winnie the Pooh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5597" value="Brands: Disney" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="51512" value="Components: Consumable Chocolate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109935" value="Containers: Tin/Metal Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66787" value="Series: World’s Smallest (Super Impulse)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5841" value="Theme: Food / Cooking" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46165" value="Traditional Games: Snakes and Ladders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5863" value="TV Shows: Dora the Explorer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="296226" value="Candy Land Connect 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="429874" value="Candy Land: Bluey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="33568" value="Candy Land: Fun on the Run" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="403379" value="Candy Land: Game of Cupcake Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="400885" value="Candy Land: Giant Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="309097" value="Candyland: Willy Wonka &amp; The Chocolate Factory" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1924" value="Eleanor Abbott" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7571" value="JAK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="54216" value="Jay Franco and Sons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="335" value="Jumbo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8931" value="MB Jeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4554" value="MB Spellen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6290" value="MB Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="20" value="Milton Bradley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6380" value="Playskool" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30088" value="Super Impulse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59" value="Winning Moves Games (USA)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5154" />
+			<average value="3.2047" />
+			<bayesaverage value="3.84801" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="28420" bayesaverage="3.84801" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="1085" bayesaverage="3.17159" />
+												</ranks>
+
+			<stddev value="1.76743" />
+			<median value="0" />
+			<owned value="8109" />
+			<trading value="85" />
+			<wanting value="7" />
+			<wishing value="108" />
+			<numcomments value="1802" />
+			<numweights value="424" />
+			<averageweight value="1.1533" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

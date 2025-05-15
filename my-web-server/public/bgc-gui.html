@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="/images/bgc-logo.png" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A library for the board games owned by the UGA Board Game Club">
+    <title>UGA BGC Library</title>
+    <style>
+        h1 {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: xx-large;
+            text-align: center;
+        }
+        .sorting-links {
+            font-size: large;
+            text-align: center;
+        }
+        .link {
+            margin: 5px;
+        }
+        .images {
+            height: 300px;
+            width: 300px;
+            margin-right: 10px;
+        }
+        .template {
+            display: none;
+        }
+        .entry {
+            margin: 25px;
+            width: 300px; 
+            height: 550px;
+        }
+        .boardGameName {
+            font-size: 30px;
+            font-weight: bold;
+            margin-bottom: -8px;
+           
+        }
+        .boardGameDetails {
+            font-size: large;
+            margin-bottom: 17px;
+        }
+        .library {
+            display: flex;
+            flex-wrap: wrap; /* Allows the boxes to wrap to the next row if needed */
+            justify-content: space-evenly; /* Distribute items evenly across the container */
+
+        }
+
+    </style>
+</head>
+<body> 
+    <script src='bgc-app.js'></script>
+    <h1>University of Georgia Board Game Club Library</h1>
+    <hr>
+    <div class="sorting-links">
+    <a href="" class="link">Rating</a>
+    <a href="" class="link">Release Date</a>
+    <a href="" class="link">Name</a>
+    </div>
+    <br>
+    <div class="library">
+        <div class="entry template">
+            <img src="/images/defaultImage.jpg" alt="default image" class="images">
+            <h2 class="boardGameName">Name of game</h2>
+            <p class="boardGameDetails averageRating">Average Rating: N/A</p>
+            <p class="boardGameDetails playerCount">Number of Players: N/A</p>
+            <p class="boardGameDetails playTime">Play Time: N/A</p>
+            <p class="boardGameDetails weight">Weight: N/A</p>
+            <p class="boardGameDetails yearReleased">Year Released: N/A</p>
+        </div>
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="37196">
+         <thumbnail>https://cf.geekdo-images.com/PKyPm_hY3Ujwd1G_C6OOTQ__thumb/img/UMrzRO0xDud1iLz5WqTOExnL8y8=/fit-in/200x150/filters:strip_icc()/pic358058.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/PKyPm_hY3Ujwd1G_C6OOTQ__original/img/sqAzWk-Uo9mYIdOoDwXPGzrN8Eo=/0x0/filters:format(jpeg)/pic358058.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Sorry! Sliders" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kızma birader! sorry! ekstra" />
+			    				
+				<name type="alternate" sortindex="1" value="Sorry! Bahn frei" />
+			    				
+				<name type="alternate" sortindex="1" value="Sorry! Schuivers" />
+			    				
+				<name type="alternate" sortindex="1" value="Sorry! Shooter" />
+			
+						               													<description>Slide, COLLIDE and SCORE TO WIN!&amp;#10;&amp;#10;Grab your roller pawn and take aim - then skillfully slide it down your track onto the target board! A good slide could score big points, but watch out! An opponent's pawn may slam your pawn onto a Sorry! space - and out of the game!&amp;#10;&amp;#10;This is a new twist on the Sorry! franchise with 4 different ways to play:&amp;#10;&amp;#10;&amp;#10;    Race For Home&amp;#10;    Instant Home&amp;#10;    Instant Sorry!&amp;#10;    Danger Dots&amp;#10;&amp;#10;&amp;#10;For Ages 6 and up&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="52">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="35" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="33">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="5" />
+					<result value="4" numvotes="10" />
+					<result value="5" numvotes="13" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="19">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="19" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1032" value="Action / Dexterity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children&#039;s Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2860" value="Flicking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4461" value="Game: Sorry!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5552" value="Mechanism: Finger Flicking Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="98529" value="Disney Pixar Cars 2 Sorry Sliders: World Grand Prix Race Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="249683" value="Sorry! Sliders" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="262" value="Craig Van Ness" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3920" />
+			<average value="6.33141" />
+			<bayesaverage value="6.02226" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2903" bayesaverage="6.02226" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1006" bayesaverage="6.08724" />
+												</ranks>
+
+			<stddev value="1.29025" />
+			<median value="0" />
+			<owned value="5934" />
+			<trading value="240" />
+			<wanting value="50" />
+			<wishing value="254" />
+			<numcomments value="1386" />
+			<numweights value="311" />
+			<averageweight value="1.0611" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

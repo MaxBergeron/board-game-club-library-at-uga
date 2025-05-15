@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="172307">
+         <thumbnail>https://cf.geekdo-images.com/zfG4LJqTIersZa6OQUlonw__thumb/img/83TUWmy5EZVzewUqKo_2P9wP8GA=/fit-in/200x150/filters:strip_icc()/pic2397380.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/zfG4LJqTIersZa6OQUlonw__original/img/U4KGSt6ld0XpoDgLMc0PdbbLEI4=/0x0/filters:format(jpeg)/pic2397380.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Game of Life (2013- Editions)" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Destins" />
+			    				
+				<name type="alternate" sortindex="5" value="The Game of Life" />
+			    				
+				<name type="alternate" sortindex="4" value="Il Gioco della Vita" />
+			    				
+				<name type="alternate" sortindex="5" value="Das Spiel des Lebens" />
+			
+						               													<description>This game attempts to mirror life events many people go through from going to college, raising a family, buying a home, working and retiring.&amp;#10;&amp;#10;The intent of the game is to have the most assets at the end of the game.  Assets are earned primarily by passing Payday spots on the game board.  Money is also earned (and sometimes lost) by drawing Action cards, which assign set amounts or multiples of the wheel spin.&amp;#10;&amp;#10;There is a very linear board that you move along by spinning a wheel.  There are a handful of intersections where you can choose to go one direction or another but they ultimately have similar spaces and meet back up quickly.  The first one is a decision to either attend college (payment due and a longer track), or not - with different career cards drawn as a result of that decision.  There are a handful of choices regarding house speculation, but for the most part it is a game of luck.&amp;#10;&amp;#10;This game makes a number of updates to older games in the game family.  The maximum number of players has been reduced from 6 to 4, and a number of new cards and concepts have been introduced, increasing the randomness of asset collection.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="5" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children&#039;s Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7332" value="Game: Game of Life" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2921" value="The Game of Life" inbound="true"/>
+		
+									
+			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="661" />
+			<average value="4.94292" />
+			<bayesaverage value="5.35406" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="28271" bayesaverage="5.35406" />
+												</ranks>
+
+			<stddev value="1.78912" />
+			<median value="0" />
+			<owned value="2368" />
+			<trading value="23" />
+			<wanting value="3" />
+			<wishing value="23" />
+			<numcomments value="114" />
+			<numweights value="21" />
+			<averageweight value="1.1905" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

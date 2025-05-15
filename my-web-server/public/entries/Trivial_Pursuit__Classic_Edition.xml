@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="248702">
+         <thumbnail>https://cf.geekdo-images.com/VLyPsl8csMGa4Ey5exQctw__thumb/img/xX3RjC-tbYPak7CeuAwjh3a5gp4=/fit-in/200x150/filters:strip_icc()/pic4037887.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/VLyPsl8csMGa4Ey5exQctw__original/img/nHHB9jzNJVwRiLnsLQsvYNjKd8g=/0x0/filters:format(jpeg)/pic4037887.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Trivial Pursuit: Classic Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Trivial Pursuit: Edición Clásica" />
+			    				
+				<name type="alternate" sortindex="1" value="World&#039;s Smallest Trivial Pursuit: Classic Edition" />
+			
+						               													<description>Trivial Pursuit: Classic Edition is the new brand under which Hasbro advertise the &amp;quot;old school&amp;quot; Trivial Pursuit game. It is suppose to integrate their product line as a version that is harder than the &amp;quot;Family Edition&amp;quot; but easier than the &amp;quot;Master&amp;quot; and &amp;quot;Genus&amp;quot; edition.&amp;#10;&amp;#10;The game has been reimplanted with a retro theme to emulate the look and feel of the 80's Trivial Pursuits.&amp;#10;&amp;#10;&amp;mdash;user summary&amp;#10;&amp;#10;Featuring classic gameplay and gameboard, this game contains 2,400 questions in 6 categories: Geography, Entertainment, History, Art and Literature, Science and Nature, and Sports and Leisure. Players move around the board answering questions. When a player lands on a category space, they'll earn the corresponding colored wedge if they answer the question correctly. The first player to collect 6 different colored wedges and answer a final question correctly wins!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="16" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1027" value="Trivia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="101" value="Game: Trivial Pursuit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66787" value="Series: World’s Smallest (Super Impulse)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2952" value="Trivial Pursuit: Genus Edition" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30088" value="Super Impulse" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="851" />
+			<average value="5.9698" />
+			<bayesaverage value="5.60111" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8822" bayesaverage="5.60111" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="604" bayesaverage="5.63391" />
+												</ranks>
+
+			<stddev value="1.64788" />
+			<median value="0" />
+			<owned value="2436" />
+			<trading value="13" />
+			<wanting value="4" />
+			<wishing value="57" />
+			<numcomments value="139" />
+			<numweights value="16" />
+			<averageweight value="1.25" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

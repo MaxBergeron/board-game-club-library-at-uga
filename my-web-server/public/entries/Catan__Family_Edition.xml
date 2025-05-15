@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="147240">
+         <thumbnail>https://cf.geekdo-images.com/allUQ1tQslwcs2Th7oAJZA__thumb/img/nsOf_d5gpKCLC1CyvZ6wQjFXzo0=/fit-in/200x150/filters:strip_icc()/pic3192913.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/allUQ1tQslwcs2Th7oAJZA__original/img/mDajKJl1wBW-pKYj1XJoN0QCwBA=/0x0/filters:format(jpeg)/pic3192913.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Catan: Family Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Settlers of Catan: Family Edition" />
+			
+						               													<description>This New edition of the &amp;ldquo;Settlers of Catan &amp;ndash; Board Game&amp;rdquo; features a six piece reversible board allowing for more replay value than the previous Gallery Edition.&amp;#10;&amp;#10;Get together with friends or family. Learn to play in about 15 minutes. Then enjoy countless hours of fast-paced fun!&amp;#10;&amp;#10;Begin a quest to settle the island of Catan! Guide your brave settlers to victory by using clever trading and shrewd development. Use resources &amp;ndash; grain, wool, ore, lumber, and brick &amp;ndash; to build roads, settlements, cities and key cultural milestones. Get resources by rolling the dice or by trading with other players.&amp;#10;&amp;#10;But beware! You never know when someone will block your way or if the robber will strike and steal your hard-earned goods! Are you the best trader, builder, or settler? Will you master Catan?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62080" value="Versions &amp; Editions: Junior Versions of Grown-Up Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="13" value="CATAN" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11901" value="Oliver Freudenreich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="45655" value="Patricia Raubo" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31418" value="Catan Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16005" value="FunFair" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="442" />
+			<average value="6.58081" />
+			<bayesaverage value="5.62684" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7764" bayesaverage="5.62684" />
+												</ranks>
+
+			<stddev value="1.37511" />
+			<median value="0" />
+			<owned value="1413" />
+			<trading value="49" />
+			<wanting value="2" />
+			<wishing value="49" />
+			<numcomments value="128" />
+			<numweights value="8" />
+			<averageweight value="2.25" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

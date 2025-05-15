@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="70323">
+         <thumbnail>https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__thumb/img/OfgWmkGJj5BgOO0zFHEtP5CHfbU=/fit-in/200x150/filters:strip_icc()/pic3043734.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__original/img/hSvWgiRYJCTTuoLOWTW3c8sYtl8=/0x0/filters:format(jpeg)/pic3043734.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="King of Tokyo" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="King of Tokyo ملك توكيو" />
+			    				
+				<name type="alternate" sortindex="1" value="King of Tokyo: La Furia dei Mostri" />
+			    				
+				<name type="alternate" sortindex="1" value="Kralj Tokija" />
+			    				
+				<name type="alternate" sortindex="1" value="Potwory w Tokio" />
+			    				
+				<name type="alternate" sortindex="1" value="Regele din Tokyo" />
+			    				
+				<name type="alternate" sortindex="3" value="O Rei de Tóquio" />
+			    				
+				<name type="alternate" sortindex="1" value="Tokió Királya" />
+			    				
+				<name type="alternate" sortindex="1" value="Vládce Tokia" />
+			    				
+				<name type="alternate" sortindex="1" value="Ο Βασιλιάς Του Τόκυο" />
+			    				
+				<name type="alternate" sortindex="1" value="Володар Токіо" />
+			    				
+				<name type="alternate" sortindex="1" value="Кралят на Токио" />
+			    				
+				<name type="alternate" sortindex="1" value="Повелитель Токио" />
+			    				
+				<name type="alternate" sortindex="1" value="מלך טוקיו" />
+			    				
+				<name type="alternate" sortindex="1" value="ราชันแห่งโตเกียว" />
+			    				
+				<name type="alternate" sortindex="1" value="キング・オブ・トーキョー" />
+			    				
+				<name type="alternate" sortindex="1" value="新・キング・オブ・トーキョー" />
+			    				
+				<name type="alternate" sortindex="1" value="東京之王" />
+			    				
+				<name type="alternate" sortindex="1" value="킹 오브 도쿄" />
+			
+						               													<description>In King of Tokyo, you play mutant monsters, gigantic robots, and strange aliens&amp;mdash;all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo.&amp;#10;&amp;#10;At the start of each turn, you roll six dice, which show the following six symbols: 1, 2, or 3 Victory Points, Energy, Heal, and Attack. Over three successive throws, choose whether to keep or discard each die in order to win victory points, gain energy, restore health, or attack other players into understanding that Tokyo is YOUR territory.&amp;#10;&amp;#10;The fiercest player will occupy Tokyo, and earn extra victory points, but that player can't heal and must face all the other monsters alone!&amp;#10;&amp;#10;Top this off with special cards purchased with energy that have a permanent or temporary effect, such as the growing of a second head which grants you an additional die, body armor, nova death ray, and more.... and it's one of the most explosive games of the year!&amp;#10;&amp;#10;In order to win the game, one must either destroy Tokyo by accumulating 20 victory points, or be the only surviving monster once the fighting has ended.&amp;#10;&amp;#10;First Game in the King of Tokyo series&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1073">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="717" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="179" />
+					<result value="Not Recommended" numvotes="691" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="120" />
+					<result value="Recommended" numvotes="668" />
+					<result value="Not Recommended" numvotes="110" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="711" />
+					<result value="Recommended" numvotes="255" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="487" />
+					<result value="Recommended" numvotes="366" />
+					<result value="Not Recommended" numvotes="40" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="251" />
+					<result value="Recommended" numvotes="455" />
+					<result value="Not Recommended" numvotes="137" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="56" />
+					<result value="Not Recommended" numvotes="443" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4–5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="371">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="11" />
+					<result value="5" numvotes="41" />
+					<result value="6" numvotes="169" />
+					<result value="8" numvotes="123" />
+					<result value="10" numvotes="17" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="154">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="2" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="19" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="116" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="16" />
+					<result level="20" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2856" value="Die Icon Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2886" value="King of the Hill" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2870" value="Re-rolling and Locking" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3100" value="Tags" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77906" value="Category: Dized Tutorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18616" value="Cities: Tokyo (Japan)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66335" value="Components: Standees" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5679" value="Creatures: Aliens / Extraterrestrials" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5615" value="Creatures: Monsters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28525" value="Game: King of Tokyo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24569" value="Theme: Kaiju" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67861" value="Theme: Villainy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193320" value="King of New York: Power Up!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="424917" value="King of Tokyo: Alligators in the Sewers Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="399010" value="King of Tokyo: Baby Gigazaur" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234725" value="King of Tokyo: Champion of the Gods Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="343030" value="King of Tokyo: Dark Edition – Promo Cards for 2nd Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="364182" value="King of Tokyo: Even More Wicked!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="211103" value="King of Tokyo: Fish Market promo card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292108" value="King of Tokyo: Frantic Mutations Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="132530" value="King of Tokyo: Garfield&#039;s Gift Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365645" value="King of Tokyo: Gift Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="430696" value="King of Tokyo: Gift Promo Cards – Worldwide Season" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="147183" value="King of Tokyo: Halloween" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="438686" value="King of Tokyo: MindBug" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="127067" value="King of Tokyo: Power Up!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="98833" value="King of Tokyo: Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318580" value="King of Tokyo: Super Jump Goodie Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287306" value="King of Tokyo: Teamwork Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="154945" value="King of Tokyo: The Horde Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="430564" value="King of Tokyo: Tournament Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="249752" value="King of Tokyo: Zombify promo card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="250532" value="King of Tokyo/New York: Monster Pack – Anubis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="207292" value="King of Tokyo/New York: Monster Pack – Cthulhu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282788" value="King of Tokyo/New York: Monster Pack – Cybertooth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233076" value="King of Tokyo/New York: Monster Pack – King Kong" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="430575" value="King of Tokyo/New York: Monster Pack – Luchador" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="429996" value="Portwory w Tokio: Specjalna Mapa" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="377623" value="King of Monster Island: Crystal Dragon (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="243687" value="King of Tokyo: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="292802" value="King of Tokyo: Collector Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="151057" value="King of Tokyo: Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="265061" value="King of Tokyo: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="326368" value="King of Tokyo: Folded Space Insert (Second edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="352224" value="King of Tokyo: German Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271948" value="King of Tokyo: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="319383" value="King of Tokyo: Mexican/Hungarian Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273053" value="King of Tokyo: Player Figurines" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="377806" value="King of Tokyo: Swiss/Canadian dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="319693" value="King of Tokyo: US Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309593" value="King of Tokyo/King of New York: Adamastor (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="232013" value="King of Tokyo/King of New York: Ali-San (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="153902" value="King of Tokyo/King of New York: Alpha Zombie (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="319802" value="King of Tokyo/King of New York: Baby Gigazaur (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="258197" value="King of Tokyo/King of New York: Beam Geeks Energy Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="303518" value="King of Tokyo/King of New York: BGExpansions Energy Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="374658" value="King of Tokyo/King of New York: Boitatá (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="430700" value="King of Tokyo/King of New York: Bookwyrm (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="274694" value="King of Tokyo/King of New York: Broken Token Energy Bolts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="326770" value="King of Tokyo/King of New York: Castor Van Dam (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309589" value="King of Tokyo/King of New York: Chupacabras (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="319905" value="King of Tokyo/King of New York: Crabomination (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="269829" value="King of Tokyo/King of New York: Crabomination &amp; Orange Death (promo characters)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="410398" value="King of Tokyo/King of New York: Cuǐcàn lán què (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="317996" value="King of Tokyo/King of New York: Cy-Gull (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="330990" value="King of Tokyo/King of New York: Dark Cyber Kitty (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="317137" value="King of Tokyo/King of New York: Dark Space Penguin (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="181257" value="King of Tokyo/King of New York: Draccus (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309453" value="King of Tokyo/King of New York: Fenrir (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348161" value="King of Tokyo/King of New York: Golem (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="110881" value="King of Tokyo/King of New York: Heidelbärger Brockenbär (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309590" value="King of Tokyo/King of New York: Helmut (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="372854" value="King of Tokyo/King of New York: Ibong Adarna (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="319168" value="King of Tokyo/King of New York: Ikarioh (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="195552" value="King of Tokyo/King of New York: Iron Rook (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334820" value="King of Tokyo/King of New York: Izbushka (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309594" value="King of Tokyo/King of New York: Ka-Boomer (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="213215" value="King of Tokyo/King of New York: Kookie (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365987" value="King of Tokyo/King of New York: Laargus (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139181" value="King of Tokyo/King of New York: Le Geek (fan promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="247981" value="King of Tokyo/King of New York: Lollybot (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="317998" value="King of Tokyo/King of New York: Lutoborshch (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312812" value="King of Tokyo/King of New York: Lynxote (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312813" value="King of Tokyo/King of New York: Marhanagy Szürke (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367693" value="King of Tokyo/King of New York: Megaxolot (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="354725" value="King of Tokyo/King of New York: Meka Hunter &amp; King Cron (promo characters)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="346583" value="King of Tokyo/King of New York: Nian (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="319904" value="King of Tokyo/King of New York: Orange Death (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="294815" value="King of Tokyo/King of New York: Piecekeeper (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="401308" value="King of Tokyo/King of New York: Pit Stop (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139036" value="King of Tokyo/King of New York: Pouic of Tokyo (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="397605" value="King of Tokyo/King of New York: Precipitator (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309595" value="King of Tokyo/King of New York: Quetzalcóatl (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="405458" value="King of Tokyo/King of New York: Roarange (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="209361" value="King of Tokyo/King of New York: Rozy Pony (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="403627" value="King of Tokyo/King of New York: Sheggiatron (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="352147" value="King of Tokyo/King of New York: Smok Wawelski (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="144606" value="King of Tokyo/King of New York: Space Penguin (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="368945" value="King of Tokyo/King of New York: Steel Armored Qilin (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="430701" value="King of Tokyo/King of New York: The 100th (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="263384" value="King of Tokyo/King of New York: The Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="429327" value="King of Tokyo/King of New York: The Globe-Smasher (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419211" value="King of Tokyo/King of New York: The Great Spirit (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="418701" value="King of Tokyo/King of New York: Thunderdog (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="403628" value="King of Tokyo/King of New York: Tokoloshe (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="369673" value="King of Tokyo/King of New York: Vampir (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="292878" value="King of Tokyo/King of New York: WarBox Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="420388" value="King of Tokyo/King of New York: Wisdom Deer King (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="240864" value="King of Tokyo/King of New York: X-Smash Tree (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="405411" value="King of Tokyo/King of New York: Yak (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="363010" value="King of Tokyo/New York: Kawaii Ju (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="397604" value="King of Tokyo/New York: Murica (promo character)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334740" value="Potwory w Tokio: reDrewno Insert" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="403240" value="King of Tokyo: Origins" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="336755" value="King of Tokyo: Monster Box" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="350755" value="King of Monster Island" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="160499" value="King of New York" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="293141" value="King of Tokyo: Dark Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="422484" value="King of Tokyo: Duel" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="14" value="Richard Garfield" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="92204" value="Gabriel Butik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37675" value="Romain Gaschet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38196" value="Paul Mafayon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1279" value="Igor Polouchine" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="48337" value="Benjamin Raynal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="45899" value="Jean-Baptiste Reynaud" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="92203" value="Jonathan Silvestre" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76496" value="Régis Torres" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="56844" value="Anthony Wolff" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34501" value="Boardgame Space" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26638" value="Bureau de Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7496" value="Egmont Polska" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Enigma (Bergsala Enigma)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22650" value="GeGe Co. Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23382" value="HaKubia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25203" value="Lex Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38305" value="Mancalamaro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10970" value="MESAboardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44407" value="Nordic Games ehf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11107" value="Nordic Games GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22651" value="Origames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8313" value="Smart Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17786" value="uplay.it edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14078" value="Vennerød Forlag AS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="73350" />
+			<average value="7.1238" />
+			<bayesaverage value="7.02112" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="452" bayesaverage="7.02112" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="136" bayesaverage="7.01148" />
+												</ranks>
+
+			<stddev value="1.32824" />
+			<median value="0" />
+			<owned value="107508" />
+			<trading value="1553" />
+			<wanting value="654" />
+			<wishing value="8196" />
+			<numcomments value="11750" />
+			<numweights value="2890" />
+			<averageweight value="1.4851" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

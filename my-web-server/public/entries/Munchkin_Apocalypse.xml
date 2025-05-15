@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="112869">
+         <thumbnail>https://cf.geekdo-images.com/lPlY8OvD0YprrXnddmrYRw__thumb/img/hIMGaOkzB7l4B3YMvtPc7nYRJjA=/fit-in/200x150/filters:strip_icc()/pic1408454.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/lPlY8OvD0YprrXnddmrYRw__original/img/-wc91x1xHTGmm-K8zWd232gPMAY=/0x0/filters:format(jpeg)/pic1408454.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Munchkin Apocalypse" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Munchkin Apocalisse" />
+			    				
+				<name type="alternate" sortindex="1" value="Munchkin Apocalypse: Guest Artist Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Munchkin Apokalipsa" />
+			    				
+				<name type="alternate" sortindex="1" value="Munchkin Apokalipsa: Edycja Jubileuszowa" />
+			    				
+				<name type="alternate" sortindex="1" value="Munchkin Apokalypsa" />
+			    				
+				<name type="alternate" sortindex="1" value="Munchkin Apokalypse" />
+			    				
+				<name type="alternate" sortindex="1" value="Munchkin: Ιππότης της Αποκαλύψεως" />
+			    				
+				<name type="alternate" sortindex="1" value="Манчкин Апокалипсис" />
+			
+						               													<description>Munchkin Apocalypse is a core set in the Munchkin series with an end of the world theme that includes natural disasters, zombie takeovers, Armageddon, alien invasions, nuclear war, etc. And while this is still a standard Munchkin game where you try to level up by killing the monsters, stealing the treasure, and stabbing your buddy, there's a new &amp;quot;Seal&amp;quot; mechanic that significantly changes the gameplay.&amp;#10;&amp;#10;Seals are a reference to the biblical seals of the Apocalypse. They can be opened and closed, although it's typically more difficult to close them. Once seven Seals are open, the game ends immediately, and the player with the highest combat strength (excluding levels) is the winner. The Seal mechanic adds a sense of impending doom to the game, meant to mimic the sense of impending doom for a real apocalypse. It also tends to create situations where the group works together to close a Seal in order to prevent a player from winning via the Seal mechanic. So there is more teamwork than in a regular Munchkin game.&amp;#10;&amp;#10;The balance of the deck is also different than the other Munchkin sets. There are a lot more Disaster cards, which are equivalent to traps and curses, so bad things tend to occur more frequently. Also, there are more monsters, especially high-level monsters. To offset this, however, there are more item enhancers and high-bonus items. It's been stated in the Munchkin forums that Munchkin Apocalypse is harder to play and is intended more for seasoned Munchkin veterans.&amp;#10;&amp;#10;Munchkin Apocalypse has four new classes but does not have races, powers, or other &amp;quot;thingies&amp;quot;. It includes Undead and Shark monsters, which follow special rules.&amp;#10;&amp;#10;The game comes with 180 cards (92 Doors, 76 Treasures, 12 Seals). The Seal cards are a different size than the regular cards--they're square and are shorter but wider (2.75&amp;quot; x 2.75&amp;quot;). The included d6 is orange with lime green pips, similar in color to the orange dice in the +6 Bag o' Radioactive Munchkin d6.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4–5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="4" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24" value="Game: Munchkin" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="106498" value="+10 Bag o&#039; Munchkin d6" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="54435" value="+6 Bag O&#039; Munchkin Babes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="38891" value="+6 Bag o&#039; Munchkins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="129388" value="+6 Bag o&#039; Radioactive Munchkin d6" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="136857" value="+8 Bag O&#039; Munchkin Babes &amp; Pawns" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="88665" value="Exclusive Warehouse 23 Munchkin Booster" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="100422" value="Munchkin 10th Anniversary Shot Glass" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="153494" value="Munchkin Apocalypse 2: Sheep Impact" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164682" value="Munchkin Apocalypse: Judge Dredd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332805" value="Munchkin Apocalypse: Kaiju" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="129358" value="Munchkin Apocalypse: Mars Attacks!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="11058" value="Munchkin Blender" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="136914" value="Munchkin Bookmark Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="126425" value="Munchkin Bracelet of Slapping" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="39392" value="Munchkin Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="389464" value="Munchkin Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="14580" value="Munchkin Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="134690" value="Munchkin Gazebo Shot Glass" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130194" value="Munchkin Get More Loot! Promotional Postcard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="147475" value="Munchkin Gets Promoted" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="187049" value="Munchkin Hidden Treasures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226171" value="Munchkin Metal Pin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="39393" value="Munchkin Official Shirts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="134725" value="Munchkin Patch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130826" value="Munchkin Pins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="134691" value="Munchkin Plutonium Dragon Shot Glass" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="41034" value="Munchkin Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="24733" value="Munchkin Promotional Bookmarks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="62387" value="Munchkin Sherpa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="146658" value="Munchkin Tavern Pint Glass" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="146657" value="Munchkin Tavern Reusable Tote" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="146659" value="Munchkin Tavern Shot Glass" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="69436" value="Munchkin Thumb Drive" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="389462" value="Munchkin Witches" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="389463" value="Munchkin Witches: Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="176441" value="Munchkin Zipper Pull" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282861" value="Munchkin: Mat of Mayhem" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="134692" value="Zombie Shot Glass" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="336822" value="Munchkin: Level Counter Bookmark" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="197414" value="Moop&#039;s Monster Mashup" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="22948" value="Munchkin Impossible" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="193288" value="Munchkin Apokalypse 1+2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="338241" value="Munchkin: Santa-Sized Holiday Grab Box" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1927" value="Munchkin" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="22" value="Steve Jackson (I)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="6815" value="John Kovalic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="47152" value="Ethan Nicolle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40042" value="Len Peralta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="93259" value="Gabby Ruenes" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12031" value="Black Monk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3242" value="Raven Distribution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19" value="Steve Jackson Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1686" />
+			<average value="6.39979" />
+			<bayesaverage value="5.80925" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4459" bayesaverage="5.80925" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="367" bayesaverage="5.91899" />
+												</ranks>
+
+			<stddev value="1.70432" />
+			<median value="0" />
+			<owned value="5140" />
+			<trading value="111" />
+			<wanting value="15" />
+			<wishing value="182" />
+			<numcomments value="262" />
+			<numweights value="43" />
+			<averageweight value="2.093" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

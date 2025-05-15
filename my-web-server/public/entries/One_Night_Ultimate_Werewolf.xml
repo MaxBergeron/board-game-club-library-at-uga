@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="147949">
+         <thumbnail>https://cf.geekdo-images.com/rqLju4uaZq-G9z4g91aPPQ__thumb/img/viW0s_SZmeEo53dKbM84WbVjIaY=/fit-in/200x150/filters:strip_icc()/pic8783294.png</thumbnail>
+      <image>https://cf.geekdo-images.com/rqLju4uaZq-G9z4g91aPPQ__original/img/eOxUlbCuix0lOjuyBYpjtIXVihc=/0x0/filters:format(png)/pic8783294.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="One Night Ultimate Werewolf" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="1 Nacht Weerwolven &amp; Waaghalzen" />
+			    				
+				<name type="alternate" sortindex="1" value="๑ คืนปริศนาเกมล่ามนุษย์หมาป่า" />
+			    				
+				<name type="alternate" sortindex="1" value="Licántropo" />
+			    				
+				<name type="alternate" sortindex="1" value="Loup Garou pour Une Nuit" />
+			    				
+				<name type="alternate" sortindex="5" value="Una Nit: L&#039;Home Llop" />
+			    				
+				<name type="alternate" sortindex="5" value="Una Noche: El Hombre Lobo" />
+			    				
+				<name type="alternate" sortindex="1" value="One Night Ultimate Werewolf: ΛΥΚΑΝΘΡΩΠΟΣ ΓΙΑ ΜΙΑ ΝΥΧΤΑ" />
+			    				
+				<name type="alternate" sortindex="3" value="A rettegés éjszakája: Vérfarkas" />
+			    				
+				<name type="alternate" sortindex="1" value="Vlkodlaci za úplňku" />
+			    				
+				<name type="alternate" sortindex="1" value="Vollmondnacht: Werwölfe" />
+			    				
+				<name type="alternate" sortindex="1" value="Weerwolven 1 Nacht" />
+			    				
+				<name type="alternate" sortindex="1" value="Werwölfe: Vollmondnacht" />
+			    				
+				<name type="alternate" sortindex="1" value="Wilkołaki" />
+			    				
+				<name type="alternate" sortindex="1" value="Wilkołaki: Pełnia księżyca" />
+			    				
+				<name type="alternate" sortindex="1" value="Однажды ночью: Оборотни" />
+			    				
+				<name type="alternate" sortindex="1" value="Остання ніч: Перевертні" />
+			    				
+				<name type="alternate" sortindex="1" value="איש זאב ללילה אחד" />
+			    				
+				<name type="alternate" sortindex="1" value="一夜終極狼人" />
+			    				
+				<name type="alternate" sortindex="1" value="한밤의 늑대인간" />
+			
+						               													<description>No moderator, no elimination, ten-minute games.&amp;#10;&amp;#10;One Night Ultimate Werewolf is a fast game for 3-10 players in which everyone gets a role: One of the dastardly Werewolves, the tricky Troublemaker, the helpful Seer, or one of a dozen different characters, each with a special ability. In the course of a single morning, your village will decide who is a werewolf...because all it takes is lynching one werewolf to win!&amp;#10;&amp;#10;Because One Night Ultimate Werewolf is so fast, fun, and engaging, you'll want to play it again and again, and no two games are ever the same.&amp;#10;&amp;#10;This game can be combined with One Night Ultimate Werewolf: Daybreak.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="337">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="250" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="247" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="46" />
+					<result value="Not Recommended" numvotes="230" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="145" />
+					<result value="Not Recommended" numvotes="106" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="87" />
+					<result value="Recommended" numvotes="169" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="192" />
+					<result value="Recommended" numvotes="88" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="190" />
+					<result value="Recommended" numvotes="76" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="145" />
+					<result value="Recommended" numvotes="100" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="55" />
+					<result value="Recommended" numvotes="132" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="133" />
+					<result value="Not Recommended" numvotes="47" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="42" />
+					<result value="Not Recommended" numvotes="130" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6–8 players" />
+  <result name="recommmendedwith" value="Recommended with 4–10 players" />
+</poll-summary> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="86">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="7" />
+					<result value="8" numvotes="33" />
+					<result value="10" numvotes="32" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="6" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="42">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="28" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="14" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2892" value="Roles with Asymmetric Information" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2814" value="Traitor Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62254" value="Creatures: Werewolves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2989" value="Game: Werewolf / Mafia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27945" value="Series: One Night (Bézier Games)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="168633" value="One Night Ultimate Werewolf: Bonus Pack 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184075" value="One Night Ultimate Werewolf: Bonus Pack 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="228578" value="One Night Ultimate Werewolf: Bonus Pack 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287145" value="One Night Ultimate: Bonus Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186273" value="Werwölfe Vollmondnacht: Der Prinz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="267734" value="Werwölfe Vollmondnacht: Nachwuchs-Gerber" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="361863" value="One Night Ultimate Werewolf: Card sleeves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272843" value="One Night Ultimate Werewolf: One Night Collection Game Crate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="274772" value="One Night Ultimate Werewolf: One Night Collection Game Crate – Extra Dividers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="170113" value="One Night Ultimate Werewolf: Playmat" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="204431" value="One Night Ultimate Alien" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="286927" value="One Night Ultimate Super Heroes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="255293" value="One Night Ultimate Super Villains" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="180956" value="One Night Ultimate Vampire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="163166" value="One Night Ultimate Werewolf: Daybreak" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="368948" value="Harry Potter: Kampf gegen die dunklen Mächte" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="176361" value="One Night Revolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="339647" value="One Night Ultimate Werewolf: Epic Battle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="142503" value="One Night Werewolf" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6046" value="Ted Alspach" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="69462" value="Akihisa Okui" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70607" value="Gus Batts" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5774" value="Bézier Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48438" value="Games7Days" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23382" value="HaKubia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38777" value="Outland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34744" value="Playfun Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45510" value="Rawstone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23599" value="UBO CnC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30113" value="Viravi Edicions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="29367" />
+			<average value="7.04231" />
+			<bayesaverage value="6.86735" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="643" bayesaverage="6.86735" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="49" bayesaverage="6.86093" />
+												</ranks>
+
+			<stddev value="1.61412" />
+			<median value="0" />
+			<owned value="55519" />
+			<trading value="960" />
+			<wanting value="224" />
+			<wishing value="3467" />
+			<numcomments value="4852" />
+			<numweights value="745" />
+			<averageweight value="1.3785" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

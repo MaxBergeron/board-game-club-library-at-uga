@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="50381">
+         <thumbnail>https://cf.geekdo-images.com/nYLrPiI9gnvlrwOrKQ4_CA__thumb/img/fIhQLjWueNPYZhCZ_LzjAIhPm5U=/fit-in/200x150/filters:strip_icc()/pic2909692.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/nYLrPiI9gnvlrwOrKQ4_CA__original/img/EgMpdhoG38LUTApk0kyFFsmoQPk=/0x0/filters:format(jpeg)/pic2909692.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Cards Against Humanity" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Cards Against Humanity For Her" />
+			    				
+				<name type="alternate" sortindex="1" value="Cards Against Humanity: 100th Anniversary Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Cartas Controversas" />
+			
+						               													<description>A party game for horrible people.&amp;#10;&amp;#10;In Cards Against Humanity, play begins with a judge, known as the &amp;quot;Card Czar&amp;quot;, choosing a black question or fill-in-the-blank card from the top of the deck and showing it to all players.  Each player holds a hand of ten white answer cards at the beginning of each round, and passes a card (sometimes two) to the Card Czar, face-down, representing their answer to the question on the card. The card czar determines which answer card(s) are funniest in the context of the question or fill-in-the-blank card. The player who submitted the chosen card(s) is given the question card to represent an &amp;quot;Awesome Point&amp;quot;, and then the player to the left of the new Card Czar becomes the new Czar for the next round. Play continues until the players agree to stop, at which point the player with the most Awesome Points is the winner.&amp;#10;&amp;#10;This, so far, sounds like the popular and fairly inoffensive Apples to Apples. While the games are similar, the sense of humor required is very different. The game encourages players to poke fun at practically every awkward or taboo subject including race, religion, gender, poverty, torture, alcoholism, drugs, sex (oh yes), abortion, child abuse, celebrities, and those everyday little annoyances like &amp;quot;Expecting a burp and vomiting on the floor&amp;quot;.&amp;#10;&amp;#10;In addition, there are a few extra rules.  First, some question cards are &amp;quot;Pick 2&amp;quot; or cards, which require each participant to submit two cards in sequence to complete their answer. Second, a gambling component also exists.  If a question is played which a player believes they have two possible winning answers for, they may bet an Awesome Point to play a single second answer.  If the player who gambled wins, they retain the wagered point, but if they lose, the player who contributed the winning answer takes both points.&amp;#10;&amp;#10;From the website:&amp;#10;&amp;#10;&amp;quot;Cards Against Humanity is distributed under a Creative Commons Attribution-Noncommercial-Share Alike license - that means you can use and remix the game for free, but you can't sell it.&amp;quot;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="30" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="221">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="184" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="188" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="35" />
+					<result value="Not Recommended" numvotes="154" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="105" />
+					<result value="Not Recommended" numvotes="58" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="78" />
+					<result value="Recommended" numvotes="113" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="143" />
+					<result value="Recommended" numvotes="53" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="123" />
+					<result value="Recommended" numvotes="62" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="116" />
+					<result value="Recommended" numvotes="66" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="47" />
+					<result value="Recommended" numvotes="99" />
+					<result value="Not Recommended" numvotes="34" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="40" />
+					<result value="Recommended" numvotes="96" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="11">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="69" />
+					<result value="Not Recommended" numvotes="91" />
+				</results>					
+			
+		<results numplayers="12">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="62" />
+					<result value="Not Recommended" numvotes="95" />
+				</results>					
+			
+		<results numplayers="13">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="123" />
+				</results>					
+			
+		<results numplayers="14">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="123" />
+				</results>					
+			
+		<results numplayers="15">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="127" />
+				</results>					
+			
+		<results numplayers="16">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="130" />
+				</results>					
+			
+		<results numplayers="17">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="132" />
+				</results>					
+			
+		<results numplayers="18">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="132" />
+				</results>					
+			
+		<results numplayers="19">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="134" />
+				</results>					
+			
+		<results numplayers="20">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="132" />
+				</results>					
+			
+		<results numplayers="21">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="136" />
+				</results>					
+			
+		<results numplayers="22">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="136" />
+				</results>					
+			
+		<results numplayers="23">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="137" />
+				</results>					
+			
+		<results numplayers="24">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="137" />
+				</results>					
+			
+		<results numplayers="25">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="136" />
+				</results>					
+			
+		<results numplayers="26">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="136" />
+				</results>					
+			
+		<results numplayers="27">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="136" />
+				</results>					
+			
+		<results numplayers="28">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="136" />
+				</results>					
+			
+		<results numplayers="29">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="135" />
+				</results>					
+			
+		<results numplayers="30">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="135" />
+				</results>					
+			
+		<results numplayers="30+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="138" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6–8 players" />
+  <result name="recommmendedwith" value="Recommended with 4–10 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="17" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="149">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="10" />
+					<result value="16" numvotes="76" />
+					<result value="18" numvotes="50" />
+					<result value="21 and up" numvotes="10" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="80">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="1" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="44" />
+					<result level="25" value="Unplayable in another language" numvotes="30" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1118" value="Mature / Adult" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2865" value="Player Judge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81575" value="Digital Implementations: VASSAL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22707" value="Game: Cards Against Humanity (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46175" value="Mechanism: Judging Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="175147" value="Bards Against Humanity (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209454" value="Blackbox Press kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="187098" value="Cakes Athirst Hilarity: Volume #1  (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="187099" value="Cakes Athirst Hilarity: Volume #2 (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="187100" value="Cakes Athirst Hilarity: Volume #3 (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="187101" value="Cakes Athirst Hilarity: Volume #4 (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="183232" value="Cards &amp; Punishment: Vol. 1 (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="261241" value="Cards &amp; Punishment: Vol. 2 (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="152366" value="Cards Against Humanity: 12 Days of Holiday Bullshit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293881" value="Cards Against Humanity: 2000s Nostalgia Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="134607" value="Cards Against Humanity: 2012 Holiday Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="157924" value="Cards Against Humanity: 90s Nostalgia Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265853" value="Cards Against Humanity: Absurd Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293880" value="Cards Against Humanity: Ass Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="214021" value="Cards Against Humanity: Blue Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="380927" value="Cards Against Humanity: Bōks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199024" value="Cards Against Humanity: Cards For Hope!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="371547" value="Cards Against Humanity: Clam-o-naise" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="344350" value="Cards Against Humanity: Clickhole Greeting Cards Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="350990" value="Cards Against Humanity: Climate Catastrophe Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234403" value="Cards Against Humanity: College Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="397901" value="Cards Against Humanity: Culture Wars Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="254480" value="Cards Against Humanity: Dad Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="181423" value="Cards Against Humanity: Design Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="430356" value="Cards Against Humanity: Election Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="344346" value="Cards Against Humanity: Everything Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="344347" value="Cards Against Humanity: Family Edition – Glow in the Dark Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188497" value="Cards Against Humanity: Fantasy Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="190387" value="Cards Against Humanity: Fascism Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164956" value="Cards Against Humanity: Fifth Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="111861" value="Cards Against Humanity: First Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188496" value="Cards Against Humanity: Food Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="151107" value="Cards Against Humanity: Fourth Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199399" value="Cards Against Humanity: Geek Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257906" value="Cards Against Humanity: Gen Con 2018 Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="214020" value="Cards Against Humanity: Green Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="336939" value="Cards Against Humanity: Hidden Gems Bundle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="397898" value="Cards Against Humanity: Hot Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="154822" value="Cards Against Humanity: House of Cards Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="354631" value="Cards Against Humanity: Jack White Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188028" value="Cards Against Humanity: Jew Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222708" value="Cards Against Humanity: Mass Effect Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="261607" value="Cards Against Humanity: Midterm Pack 2018" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="403146" value="Cards Against Humanity: Movie Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="351668" value="Cards Against Humanity: Nasty Bundle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="351667" value="Cards Against Humanity: Nerd Bundle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="241785" value="Cards Against Humanity: Non-denominational Seasons Greetings Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426385" value="Cards Against Humanity: Out of Line" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="140525" value="Cards Against Humanity: PAX East 2013 Promo Packs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="157925" value="Cards Against Humanity: PAX East 2014 Panel Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="157923" value="Cards Against Humanity: PAX East 2014 Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="147449" value="Cards Against Humanity: PAX Prime 2013 Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="165039" value="Cards Against Humanity: PAX Prime 2014 Panel Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231347" value="Cards Against Humanity: Period Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="344348" value="Cards Against Humanity: Picture Card Pack 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="344349" value="Cards Against Humanity: Picture Card Pack 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368436" value="Cards Against Humanity: Picture Card Pack 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="214959" value="Cards Against Humanity: Please do not buy this product." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="410771" value="Cards Against Humanity: Pop Culture Bundle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255369" value="Cards Against Humanity: Pride Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426386" value="Cards Against Humanity: Pussy Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="214019" value="Cards Against Humanity: Red Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="147758" value="Cards Against Humanity: Reject Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="181611" value="Cards Against Humanity: Reject Pack 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287919" value="Cards Against Humanity: Reject Pack 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="175520" value="Cards Against Humanity: Retail Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="206776" value="Cards Against Humanity: Retail Product" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="243098" value="Cards Against Humanity: Saves America Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368434" value="Cards Against Humanity: Scary Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="215445" value="Cards Against Humanity: Sci-Fi Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="168292" value="Cards Against Humanity: Science Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="127354" value="Cards Against Humanity: Second Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="175145" value="Cards Against Humanity: Sixth Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="170883" value="Cards Against Humanity: TableTop Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="433585" value="Cards Against Humanity: Tales" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="168936" value="Cards Against Humanity: Ten Days or Whatever of Kwanzaa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="295897" value="Cards Against Humanity: The A.I. Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="147209" value="Cards Against Humanity: The Bigger, Blacker Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264439" value="Cards Against Humanity: The Bigger, Blacker Box 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="295896" value="Cards Against Humanity: The Human Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255370" value="Cards Against Humanity: Theatre Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="283528" value="Cards Against Humanity: Theatre Pack – Understudy Version" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="140361" value="Cards Against Humanity: Third Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204283" value="Cards Against Humanity: Trump Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="206403" value="Cards Against Humanity: Vote for Hillary Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="206404" value="Cards Against Humanity: Vote for Trump Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231346" value="Cards Against Humanity: Weed Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188498" value="Cards Against Humanity: World Wide Web Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="429229" value="Cards Against Security" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225829" value="Carps &amp; Angsty Manatee: Texas Edition (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189202" value="Carps &amp; Angsty Manatee: Volume 1 (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202374" value="Carps &amp; Angsty Manatee: Volume 2 (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="179722" value="Casters Against the Multiverse (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="198273" value="Cats Abiding Horribly: Episode I – The Dirty Goblin (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="212808" value="Cats Abiding Horribly: Episode II – A New Low (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="212809" value="Cats Abiding Horribly: Episode III – The SJWs Strike Back (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="207472" value="Cats Against the World (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="180694" value="Cocks Abreast Hostility: Cock Pack One – Just the Tip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="203621" value="Cocks Abreast Hostility: Cock Pack Two – Fowls Deep (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="219412" value="Cows Abhor Hamburgers (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188821" value="Crabs Adjust Humidity: Omniclaw Edition (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="183172" value="Crabs Adjust Humidity: Volume Five (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="169503" value="Crabs Adjust Humidity: Volume Four (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="145418" value="Crabs Adjust Humidity: Volume One (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="260491" value="Crabs Adjust Humidity: Volume Seven (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="203620" value="Crabs Adjust Humidity: Volume Six (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="159045" value="Crabs Adjust Humidity: Volume Three (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149109" value="Crabs Adjust Humidity: Volume Two (fan expansion for Cards Against Humanity)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="179047" value="Cults Attempt Hokypoky" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="187102" value="Guards Against Insanity: Edition 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="198270" value="Guards Against Insanity: Edition 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="198271" value="Guards Against Insanity: Edition 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205155" value="Guards Against Insanity: Edition 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="218924" value="Guards Against Insanity: Edition 5" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232697" value="Hidden Compartment Pack: Expansion for Cards Against Humanity and Exploding Kittens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225832" value="Humanity Hates Trump: Expansion One" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426384" value="More Cards Against Humanity" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="300595" value="Cards Against Humanity: Your Dumb Jokes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="195685" value="Bad Campaign" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="200096" value="Bards Dispense Profanity: A Party Game Based on the Works of William Shakespeare" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="188972" value="Bedlam: AKA The &quot;Can Someone Take Me Off this Game?&quot; Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="157943" value="Cads About Matrimony" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="193895" value="Cards Against IT" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="154709" value="Cards Against Librarianship" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="375933" value="Clones Attack Hilarity Expansion Pack #1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="183145" value="Dick: A Card Game Based on the Novel by Herman Melville" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="379356" value="Disgruntled Decks: Air Force Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="223516" value="Disgruntled Decks: Marine Corps Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="352062" value="Disgruntled Decks: Navy Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="193316" value="Disgruntled Decks: The Army Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="193481" value="F.U.B.A.R.: Bringing out the worst in America&#039;s best" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="262528" value="Guards Against Insanity Asylum Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="225834" value="Humanity Hates the Holidays" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="207385" value="Humanity Hates Trump" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="288873" value="JadedAid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="203352" value="KinderPerfect: A Party Game for Parents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="275158" value="Offensive Adult Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="233131" value="Papercuts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="296143" value="Tired of London: the party game for miserable Londoners" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="202729" value="When Pigs Fly: A Card Game for Cincinnati Cynics" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="189539" value="Zelph on the Shelf Edition (fan expansion for Cards Against Humanity)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="317367" value="Cards Against Humanity: Family Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="372633" value="Clams Aclamst Huclamity" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="20334" value="Josh Dillon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="20335" value="Daniel Dranove" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="20336" value="Eli Halpern" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="20338" value="Ben Hantoot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="47207" value="David Munk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="20340" value="David Pinsof" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="20341" value="Max Temkin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="20342" value="Eliot Weinstein" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49576" value="Cards Against Humanity  LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1731" value="Estrela" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="29544" />
+			<average value="5.73252" />
+			<bayesaverage value="5.56186" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11353" bayesaverage="5.56186" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="874" bayesaverage="5.33873" />
+												</ranks>
+
+			<stddev value="2.09981" />
+			<median value="0" />
+			<owned value="53659" />
+			<trading value="853" />
+			<wanting value="63" />
+			<wishing value="1373" />
+			<numcomments value="5768" />
+			<numweights value="991" />
+			<averageweight value="1.1746" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

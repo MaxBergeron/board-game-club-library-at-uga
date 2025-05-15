@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="201808">
+         <thumbnail>https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__thumb/img/O2WnqJew5gNjQqPUH3gqmTBc1pQ=/fit-in/200x150/filters:strip_icc()/pic4449526.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__original/img/cXqOdM3BLyIeRt0GP3M3V--gF1M=/0x0/filters:format(jpeg)/pic4449526.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Clank!: A Deck-Building Adventure" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Břink!: Velká podzemní loupež" />
+			    				
+				<name type="alternate" sortindex="1" value="Brzdęk!: Nie drażnij smoka" />
+			    				
+				<name type="alternate" sortindex="1" value="Clank!: Costruisci la tua Avventura" />
+			    				
+				<name type="alternate" sortindex="1" value="Clank!: Les Aventuriers du Deck-Building" />
+			    				
+				<name type="alternate" sortindex="1" value="Clank!: Um Deck Building de Aventura" />
+			    				
+				<name type="alternate" sortindex="1" value="Clank!: Una aventura de construcción de mazos" />
+			    				
+				<name type="alternate" sortindex="1" value="Klank!: Lopakodj és arass zajos sikert!" />
+			    				
+				<name type="alternate" sortindex="1" value="Klong!: Ein Deckbau-Abenteuer" />
+			    				
+				<name type="alternate" sortindex="1" value="Кланк! Подземное приключение" />
+			    				
+				<name type="alternate" sortindex="1" value="クランク!" />
+			    				
+				<name type="alternate" sortindex="1" value="클랭크!: 덱 빌딩 어드벤처" />
+			
+						               													<description>Burgle your way to adventure in the deck-building board game Clank! Sneak into an angry dragon's mountain lair to steal precious artifacts. Delve deeper to find more valuable loot. Acquire cards for your deck and watch your thievish abilities grow.&amp;#10;&amp;#10;Be quick and be quiet. One false step and CLANK! Each careless sound draws the attention of the dragon, and each artifact stolen increases its rage. You can enjoy your plunder only if you make it out of the depths alive!&amp;#10;&amp;#10;Clank! is a deck-building game. Each player has their own deck, and building yours up is part of playing the game. You start each of your turns with five cards in your hand, and you'll play them all in any order you choose. Most cards will generate resources, of which there are three different kinds:&amp;#10;&amp;#10;&amp;#10;    Skill, which is used to acquire new cards for your deck.&amp;#10;    Swords, which are used to fight the monsters that infest the dungeon.&amp;#10;    Boots, which are used to move around the board.&amp;#10;&amp;#10;&amp;#10;Every time you acquire a new card, you put it face up in your discard pile. Whenever you need to draw a card and find your deck empty, you shuffle your discard pile and turn it face down to form a new deck. With each shuffle, your newest cards become part of a bigger and better deck! Each player starts with the same cards in their deck, but they&amp;rsquo;ll acquire different cards during their turns. Because cards can do many different things, each player&amp;rsquo;s deck (and strategy) will become more and more different as the game unfolds.&amp;#10;&amp;#10;During the game, you have two goals:&amp;#10;&amp;#10;    Retrieve an Artifact token and escape the dragon by returning to the place you started, outside of the dungeon.&amp;#10;    Accumulate enough points with your Artifact and other loot to beat out your opponents and earn the title of Greatest Thief in the Realm!&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="701">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="134" />
+					<result value="Not Recommended" numvotes="303" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="67" />
+					<result value="Recommended" numvotes="451" />
+					<result value="Not Recommended" numvotes="75" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="440" />
+					<result value="Recommended" numvotes="187" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="276" />
+					<result value="Recommended" numvotes="272" />
+					<result value="Not Recommended" numvotes="40" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="320" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="214">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="3" />
+					<result value="6" numvotes="20" />
+					<result value="8" numvotes="100" />
+					<result value="10" numvotes="76" />
+					<result value="12" numvotes="14" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="39">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="31" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7005" value="Creatures: Dragons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22861" value="Creatures: Goblins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5615" value="Creatures: Monsters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48927" value="Game: Clank!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231506" value="Brettspiel Adventskalender 2017" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="315328" value="Clank! Adventuring Party: Lightning Reflexes Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257276" value="Clank! Expeditions: Gold and Silk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282426" value="Clank! Expeditions: Temple of the Ape Lords" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="290071" value="Clank! Legacy: Acquisitions Incorporated – Shadow Chancellor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289559" value="Clank! Legacy: Acquisitions Incorporated – The &quot;C&quot; Team Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275532" value="Clank! Legacy: Acquisitions Incorporated – Upper Management Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="308918" value="Clank!: Adventuring Party" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="214309" value="Clank!: Brawn vs. Boots Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="399093" value="Clank!: Bunny Mafia Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="206565" value="Clank!: Dire Wolf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="297933" value="Clank!: Door to Before" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233895" value="Clank!: Enchanted Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257694" value="Clank!: Expedition Leader" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233019" value="Clank!: Friendly Watcher" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233950" value="Clank!: Magic Spectacles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="286274" value="Clank!: Opal Apestone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="432738" value="Clank!: Patient Hero Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="382468" value="Clank!: Promo Pack 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234742" value="Clank!: Siren" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="223119" value="Clank!: Snack Table" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="218103" value="Clank!: Sunken Treasures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="245377" value="Clank!: The Mummy&#039;s Curse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="250994" value="Clank!: The Mummy&#039;s Curse – Mummy Hunters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="329967" value="Clank!: Tower of Babble" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="283292" value="Clank!: Trailblazer Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264712" value="Clank!: Wand of Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234131" value="Clank!: Wishing Wall" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368867" value="Dire Wolf Game Room" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="283282" value="Level Up Loot: One" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="215186" value="Santa&#039;s Renegades" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332158" value="Brzdęk!: Nie drażnij smoka – reDrewno Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="376860" value="Clank! and Clank! In Space!: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435093" value="Clank! Foil cards set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="350517" value="Clank!: A Deck-Building Adventure – Twinples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272081" value="Clank!: Clang Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435094" value="Clank!: Dual layered Health Track" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306293" value="Clank!: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="293518" value="Clank!: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="239699" value="Clank!: Golden Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="420119" value="Clank!: Laserox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428703" value="Clank!: Metallic Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428705" value="Clank!: Metallic Cubes – Part 2!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428706" value="Clank!: Metallic Cubes!" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="233371" value="Clank! In! Space!: A Deck-Building Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="266507" value="Clank! Legacy: Acquisitions Incorporated" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="365717" value="Clank!: Catacombs" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="92370" value="Paul Dennen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60376" value="Rayph Beisner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73773" value="Raul Ramos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="31001" value="Nate Storm" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33706" value="Dire Wolf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28072" value="Renegade Game Studios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11043" value="Conclave Editora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27470" value="Lucrum Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3242" value="Raven Distribution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="55404" value="Tabletop KZ" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="44886" />
+			<average value="7.76856" />
+			<bayesaverage value="7.60584" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="90" bayesaverage="7.60584" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="91" bayesaverage="7.59077" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="16" bayesaverage="7.61954" />
+												</ranks>
+
+			<stddev value="1.20732" />
+			<median value="0" />
+			<owned value="58909" />
+			<trading value="585" />
+			<wanting value="1138" />
+			<wishing value="12089" />
+			<numcomments value="5800" />
+			<numweights value="1013" />
+			<averageweight value="2.229" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="333373">
+         <thumbnail>https://cf.geekdo-images.com/AAMxkVG7esvt0EbQkN1zCw__thumb/img/pcvuBy22ds5n2aiPsEXqcZI6iSE=/fit-in/200x150/filters:strip_icc()/pic6702315.png</thumbnail>
+      <image>https://cf.geekdo-images.com/AAMxkVG7esvt0EbQkN1zCw__original/img/z0Pax6VC0uVJcM4QiqdmPy4L38U=/0x0/filters:format(png)/pic6702315.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tacocat Spelled Backwards" />
+			
+						                           
+						               													<description>Win duels by playing cards of matching or higher value to defend your hand or sacrifice your lowest card. When you're on your final card, lowest card wins the round bringing Tacocat closer to their side.&amp;#10;&amp;#10;Tacocat Spelled Backwards is a fun balance of strategy, luck and instinct! With its portable open-and-play design, it's a perfect two player anytime, anywhere game; the box is the board, just open and play!&amp;#10;&amp;#10;What's Included&amp;#10;7 colorful palindrome tiles.&amp;#10;38 delightful and hilariously illustrated palindrome cards with values from 1 to 12 for strategic card match ups.&amp;#10;1 adorable token of Tacocat, the ICONIC character from the Exploding Kittens game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="20" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2960" value="Map Reduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2888" value="Tug of War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2829" value="Turn Order: Claim Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80158" value="Elan Lee" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71478" value="Matthew Inman" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32307" value="Exploding Kittens" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="453" />
+			<average value="6.3365" />
+			<bayesaverage value="5.613" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8297" bayesaverage="5.613" />
+												</ranks>
+
+			<stddev value="1.65819" />
+			<median value="0" />
+			<owned value="2248" />
+			<trading value="37" />
+			<wanting value="0" />
+			<wishing value="71" />
+			<numcomments value="126" />
+			<numweights value="18" />
+			<averageweight value="1.2222" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="232078">
+         <thumbnail>https://cf.geekdo-images.com/wzMdXFLuax6Ia3Eu7J9qGg__thumb/img/0bt9VSAyRgdUEfciQeiuhtqEeJI=/fit-in/200x150/filters:strip_icc()/pic3677284.png</thumbnail>
+      <image>https://cf.geekdo-images.com/wzMdXFLuax6Ia3Eu7J9qGg__original/img/H76TJvy9jAl2R3szM5eNFLkAex4=/0x0/filters:format(png)/pic3677284.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pot de Vin" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Масти власти" />
+			
+						               													<description>Description from the publisher:&amp;#10;&amp;#10;These are uncertain times. There has been a power void since the coup. Everyone from the highest aristocrat to the lowliest gang boss strives to gain the support of the guilds &amp;mdash; but to get this means bribery, skullduggery, and knowledge of the four most powerful and influential figures in the city. Knowing when to strike requires cunning and prudence. News travels fast, and no guild wants to become infamous...unless of course they can profit from it!&amp;#10;&amp;#10;In Pot-de-Vin, the goal is to collect sets of different guild symbols by winning rounds and claiming the cards of your opponents. Gather the right amount of symbols to gain the most points. Jokers can be added to a guild of your choice, but watch out for the Pot-de-Vin (13); if you don't collect them all, then they will hurt you in the end.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1070" value="Renaissance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69651" value="Series: Play &amp; Go (Thundergryph)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="186089" value="Sapotagem" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="24232" value="Fel Barros" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="81610" value="Warny Marçano" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14650" value="Luis Francisco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72369" value="Weberson Santiago" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30155" value="GateOnGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35035" value="Mandala Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38448" value="TCG Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32922" value="ThunderGryph Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="442" />
+			<average value="6.22301" />
+			<bayesaverage value="5.60814" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8510" bayesaverage="5.60814" />
+												</ranks>
+
+			<stddev value="1.56443" />
+			<median value="0" />
+			<owned value="1348" />
+			<trading value="70" />
+			<wanting value="7" />
+			<wishing value="65" />
+			<numcomments value="116" />
+			<numweights value="7" />
+			<averageweight value="1.8571" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

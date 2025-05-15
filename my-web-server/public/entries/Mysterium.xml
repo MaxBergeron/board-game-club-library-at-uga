@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="181304">
+         <thumbnail>https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__thumb/img/sW38512N2r1ZuuPE2TUD2LNfoxM=/fit-in/200x150/filters:strip_icc()/pic8625343.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__original/img/6igmXolQesapNU9yEnexip6m9B8=/0x0/filters:format(jpeg)/pic8625343.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Mysterium" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="ミステリウム" />
+			    				
+				<name type="alternate" sortindex="1" value="詭祕莊園" />
+			
+						               													<description>In the 1920s, Mr. MacDowell, a gifted astrologer, immediately detected a supernatural being upon entering his new house in Scotland. He gathered eminent mediums of his time for an extraordinary s&amp;eacute;ance, and they have seven hours to make contact with the ghost and investigate any clues that it can provide to unlock an old mystery.&amp;#10;&amp;#10;Unable to talk, the amnesiac ghost communicates with the mediums through visions, which are represented in the game by illustrated cards. The mediums must decipher the images to help the ghost remember how he was murdered: Who did the crime? Where did it take place? Which weapon caused the death? The more the mediums cooperate and guess well, the easier it is to catch the right culprit.&amp;#10;&amp;#10;In Mysterium, a reworking of the game system present in Tajemnicze Domostwo, one player takes the role of ghost while everyone else represents a medium. To solve the crime, the ghost must first recall (with the aid of the mediums) all of the suspects present on the night of the murder. A number of suspect, location and murder weapon cards are placed on the table, and the ghost randomly assigns one of each of these in secret to a medium.&amp;#10;&amp;#10;Each hour (i.e., game turn), the ghost hands one or more vision cards face up to each medium, refilling their hand to seven each time they share vision cards. These vision cards present dreamlike images to the mediums, with each medium first needing to deduce which suspect corresponds to the vision cards received. Once the ghost has handed cards to the final medium, they start a two-minute sandtimer. Once a medium has placed their token on a suspect, they may also place clairvoyancy tokens on the guesses made by other mediums to show whether they agree or disagree with those guesses.&amp;#10;&amp;#10;After time runs out, the ghost reveals to each medium whether the guesses were correct or not. Mediums who guessed correctly move on to guess the location of the crime (and then the murder weapon), while those who didn't keep their vision cards and receive new ones next hour corresponding to the same suspect. Once a medium has correctly guessed the suspect, location and weapon, they move their token to the epilogue board and receive one clairvoyancy point for each hour remaining on the clock. They can still use their remaining clairvoyancy tokens to score additional points.&amp;#10;&amp;#10;If one or more mediums fail to identify their proper suspect, location and weapon before the end of the seventh hour, then the ghost has failed and dissipates, leaving the mystery unsolved. If, however, they have all succeeded, then the ghost has recovered enough of its memory to identify the culprit.&amp;#10;&amp;#10;Mediums then group their suspect, location and weapon cards on the table and place a number by each group. The ghost then selects one group, places the matching culprit number face down on the epilogue board, picks three vision cards &amp;mdash; one for the suspect, one for the location, and one for the weapon &amp;mdash; then shuffles these cards. Players who have achieved few clairvoyancy points flip over one vision card at random, then secretly vote on which suspect they think is guilty; players with more points then flip over a second vision card and vote; then those with the most points see the final card and vote.&amp;#10;&amp;#10;If a majority of the mediums have identified the proper suspect, with ties being broken by the vote of the most clairvoyant medium, then the killer has been identified and the ghost can now rest peacefully. If not, well, perhaps you can try again...&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="7" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="488">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="352" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="80" />
+					<result value="Not Recommended" numvotes="309" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="195" />
+					<result value="Not Recommended" numvotes="171" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="116" />
+					<result value="Recommended" numvotes="281" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="310" />
+					<result value="Recommended" numvotes="108" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="233" />
+					<result value="Recommended" numvotes="141" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="127" />
+					<result value="Recommended" numvotes="172" />
+					<result value="Not Recommended" numvotes="62" />
+				</results>					
+			
+		<results numplayers="7+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="243" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5–6 players" />
+  <result name="recommmendedwith" value="Recommended with 3–7 players" />
+</poll-summary> 			               				<playingtime value="42" />
+						               				<minplaytime value="42" />
+						               				<maxplaytime value="42" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="138">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="3" />
+					<result value="6" numvotes="21" />
+					<result value="8" numvotes="62" />
+					<result value="10" numvotes="39" />
+					<result value="12" numvotes="9" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="58">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="58" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1040" value="Murder / Mystery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2885" value="Finale Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2027" value="Storytelling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62884" value="Components: Official Music Soundtrack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104481" value="Components: Player Screens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75031" value="Components: Sand Timers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7479" value="Creatures: Ghosts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="34112" value="Game: Mysterium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19023" value="Holidays: Halloween" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66334" value="Mechanism: Give a Clue / Get a Clue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60651" value="Mechanism: Image Interpretation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61993" value="Theme: Spooky Old Houses" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204573" value="Brettspiel Adventskalender 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231506" value="Brettspiel Adventskalender 2017" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="259717" value="Mysterium: Blue Jay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="213223" value="Mysterium: Brettspiel Adventskalender 2016 Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234156" value="Mysterium: Brettspiel Adventskalender 2017 Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="214735" value="Mysterium: Game Day 2016 Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="192661" value="Mysterium: Hidden Signs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282537" value="Mysterium: Potions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186293" value="Mysterium: Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216465" value="Mysterium: Secrets &amp; Lies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202669" value="Mysterium: The Meeple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="179656" value="Tajemnicze Domostwo: Motive cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309461" value="Mysterium: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="267453" value="Mysterium: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271934" value="Mysterium: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="219565" value="Mysterium: Intuition Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="352673" value="Mysterium: Mask" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="270447" value="Mysterium: Mysterious Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348645" value="Mysterium: The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365833" value="Mysterium: Tower Rex Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="367206" value="Mysterium Kids: Captain Echo&#039;s Treasure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="301767" value="Mysterium Park" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="113997" value="Tajemnicze Domostwo" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="49695" value="Oleksandr Nevskiy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="51434" value="Oleg Sidorenko" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="68008" value="Igor Burlakov" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="41323" value="Xavier Collette" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49695" value="Oleksandr Nevskiy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="51434" value="Oleg Sidorenko" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9051" value="Libellud" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Enigma (Bergsala Enigma)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="531" value="Esdevium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25970" value="F2Z Digital Media Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5787" value="Morapiaf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="46617" />
+			<average value="7.20352" />
+			<bayesaverage value="7.0625" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="418" bayesaverage="7.0625" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="139" bayesaverage="7.04272" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="119" bayesaverage="7.05848" />
+												</ranks>
+
+			<stddev value="1.38821" />
+			<median value="0" />
+			<owned value="78413" />
+			<trading value="1212" />
+			<wanting value="585" />
+			<wishing value="8955" />
+			<numcomments value="6560" />
+			<numweights value="984" />
+			<averageweight value="1.8923" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

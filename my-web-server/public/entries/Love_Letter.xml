@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="277085">
+         <thumbnail>https://cf.geekdo-images.com/V7WQjhAh0AatPXTYOrXtCQ__thumb/img/PNp3MFmie6ffR5RtyNs7TsVV4wA=/fit-in/200x150/filters:strip_icc()/pic4766499.png</thumbnail>
+      <image>https://cf.geekdo-images.com/V7WQjhAh0AatPXTYOrXtCQ__original/img/peOFPtAkzWUSpOSVTJu3pTDv2ck=/0x0/filters:format(png)/pic4766499.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Love Letter" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="List miłosny (Edycja Premium)" />
+			    				
+				<name type="alternate" sortindex="1" value="Love Letter Classic" />
+			    				
+				<name type="alternate" sortindex="1" value="Love Letter: Segunda edição" />
+			    				
+				<name type="alternate" sortindex="1" value="Love Letter: Sender" />
+			    				
+				<name type="alternate" sortindex="1" value="Milostný dopis" />
+			    				
+				<name type="alternate" sortindex="1" value="Szerelmes Levél" />
+			    				
+				<name type="alternate" sortindex="1" value="Листи Закоханих" />
+			    				
+				<name type="alternate" sortindex="1" value="מכתב אהבה" />
+			    				
+				<name type="alternate" sortindex="1" value="رسالة الحب" />
+			    				
+				<name type="alternate" sortindex="1" value="จดหมายรัก" />
+			    				
+				<name type="alternate" sortindex="1" value="情书" />
+			    				
+				<name type="alternate" sortindex="1" value="情書" />
+			    				
+				<name type="alternate" sortindex="1" value="狐妖小红娘：情书" />
+			    				
+				<name type="alternate" sortindex="1" value="러브 레터" />
+			    				
+				<name type="alternate" sortindex="1" value="쿠키런 러브레터" />
+			
+						               													<description>The noble Princess is looking for an ideal partner and confidant to help with her royal duties when she one day assumes the throne. You must prove your worth and gain her trust by enlisting allies, friends, and family of the Princess to carry a letter of intent to her. Can you earn the Princess' trust and become her confidant?&amp;#10;&amp;#10;Playing cards one at a time, players in Love Letter use the abilities of these key people in the Princess' life to outwit their opponents and successfully deliver their letter and gain her favor. Players must utilize each character's special skill to avoid being caught and successfully deliver their letter to the Princess. Once a set number of favor tokens are acquired, that player wins and becomes the Princess' confidant.&amp;#10;&amp;#10;This 2019 edition of Love Letter features new artwork by Citadels artist Andrew Bosley, screen-printed tokens, and two new characters (five cards in total) that allow for games with up to six players. When played, the Chancellor (value 6) allows you to draw two new cards, add those to your hand, then place two cards of your choice on the bottom of the deck. The Spy (value 0) wins you a favor token if you were the only player to play or discard a spy during the round.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="220">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="161" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="79" />
+					<result value="Not Recommended" numvotes="105" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="34" />
+					<result value="Recommended" numvotes="145" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="159" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="66" />
+					<result value="Recommended" numvotes="93" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="93" />
+					<result value="Not Recommended" numvotes="52" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="123" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="47">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="6" />
+					<result value="8" numvotes="34" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="12" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1070" value="Renaissance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2823" value="Score-and-Reset Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24439" value="Card Games: Draw and Discard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73590" value="Containers: Drawstring Bag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27123" value="Game: Love Letter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61207" value="Theme: Love / Romance" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="379666" value="Love Letter: 10th Anniversary Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="406459" value="Love Letter: Bridgerton" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="129622" value="Love Letter" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9495" value="Seiji Kanai" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="72460" value="Justin Kemppainen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="85379" value="Alexandar Ortloff-Tang" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="78938" value="Samuel R. Shimota" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34501" value="Boardgame Space" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25074" value="BoardM Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19047" value="FoxMind Israel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46500" value="Lord of Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12765" />
+			<average value="7.51359" />
+			<bayesaverage value="7.15294" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="330" bayesaverage="7.15294" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="17" bayesaverage="7.24636" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="72" bayesaverage="7.21067" />
+												</ranks>
+
+			<stddev value="1.30281" />
+			<median value="0" />
+			<owned value="25558" />
+			<trading value="140" />
+			<wanting value="75" />
+			<wishing value="1523" />
+			<numcomments value="1382" />
+			<numweights value="264" />
+			<averageweight value="1.1174" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

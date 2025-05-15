@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="65244">
+         <thumbnail>https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__thumb/img/5aPR8-KMbgucI_XkPE2PJaMQQsg=/fit-in/200x150/filters:strip_icc()/pic646458.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__original/img/H5d4I5z_HSpPEu7EAl0DqLt9_pM=/0x0/filters:format(jpeg)/pic646458.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Forbidden Island" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Forbidden Island 禁忌之岛" />
+			    				
+				<name type="alternate" sortindex="1" value="Förbjudna ön" />
+			    				
+				<name type="alternate" sortindex="5" value="Den Forbudte Ø" />
+			    				
+				<name type="alternate" sortindex="5" value="Den Forbudte Øya" />
+			    				
+				<name type="alternate" sortindex="3" value="A Ilha Proibida" />
+			    				
+				<name type="alternate" sortindex="1" value="Insula Interzisa" />
+			    				
+				<name type="alternate" sortindex="4" value="La Isla Prohibida" />
+			    				
+				<name type="alternate" sortindex="1" value="L&#039;Île Interdite" />
+			    				
+				<name type="alternate" sortindex="1" value="L&#039;illa prohibida" />
+			    				
+				<name type="alternate" sortindex="1" value="L&#039;Isola Proibita" />
+			    				
+				<name type="alternate" sortindex="1" value="Lanetli Ada" />
+			    				
+				<name type="alternate" sortindex="1" value="Salaisuuksien saari" />
+			    				
+				<name type="alternate" sortindex="3" value="A Tiltott Sziget" />
+			    				
+				<name type="alternate" sortindex="5" value="Het Verboden Eiland" />
+			    				
+				<name type="alternate" sortindex="5" value="Die verbotene Insel" />
+			    				
+				<name type="alternate" sortindex="1" value="Zakazana Wyspa" />
+			    				
+				<name type="alternate" sortindex="1" value="Zakázaný ostrov" />
+			    				
+				<name type="alternate" sortindex="1" value="Η Απαγορευμένη Νήσος" />
+			    				
+				<name type="alternate" sortindex="1" value="Запретный остров" />
+			    				
+				<name type="alternate" sortindex="1" value="האי הנעלם" />
+			    				
+				<name type="alternate" sortindex="1" value="禁制之島" />
+			    				
+				<name type="alternate" sortindex="1" value="禁断の島" />
+			    				
+				<name type="alternate" sortindex="1" value="포비든 아일랜드" />
+			
+						               													<description>Forbidden Island is a visually stunning cooperative board game. Instead of winning by competing with other players like most games, everyone must work together to win the game. Players take turns moving their pawns around the 'island', which is built by arranging the many beautifully screen-printed tiles before play begins. As the game progresses, more and more island tiles sink, becoming unavailable, and the pace increases. Players use strategies to keep the island from sinking, while trying to collect treasures and items. As the water level rises, it gets more difficult- sacrifices must be made.&amp;#10;&amp;#10;What causes this game to truly stand out among co-op and competitive games alike is the extreme detail that has been paid to the physical components of the game. It comes in a sturdy and organized tin of good shelf storage size. The plastic treasure pieces and wooden pawns are well crafted and they fit just right into the box. The cards are durable, well printed, and easy to understand. The island tiles are the real gem: they are screen-printed with vibrant colors, each with a unique and pleasing image.&amp;#10;&amp;#10;With multiple levels of difficulty, different characters to choose from (each with a special ability of their own), many optional island formats and game variations available, Forbidden Island has huge replay value. The game can be played by as few as two players and up to four (though it can accommodate five). More players translates into a faster and more difficult game, though the extra help can make all the difference. This is a fun game, tricky for players of almost any age. Selling for under twenty dollars, oddly, Forbidden Island is a rare game of both quality and affordable price.&amp;#10; For those who enjoy Forbidden Island, a follow-up project by Gamewright titled Forbidden Desert was released in 2013.&amp;#10;&amp;#10;From the publisher's website:&amp;#10;&amp;#10;Dare to discover Forbidden Island! Join a team of fearless adventurers on a do-or-die mission to capture four sacred treasures from the ruins of this perilous paradise. Your team will have to work together and make some pulse-pounding maneuvers, as the island will sink beneath every step! Race to collect the treasures and make a triumphant escape before you are swallowed into the watery abyss!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="552">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="226" />
+					<result value="Not Recommended" numvotes="177" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="91" />
+					<result value="Recommended" numvotes="341" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="161" />
+					<result value="Recommended" numvotes="294" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="343" />
+					<result value="Recommended" numvotes="117" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="276" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="345">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="9" />
+					<result value="5" numvotes="19" />
+					<result value="6" numvotes="123" />
+					<result value="8" numvotes="161" />
+					<result value="10" numvotes="27" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="112">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="14" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="95" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2960" value="Map Reduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79006" value="Components:  Meeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68558" value="Components: Dynamic Event Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109935" value="Containers: Tin/Metal Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79690" value="Islands: Fictional" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39723" value="Series: Forbidden Games (Gamewright)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="169390" value="La Isla Prohibida: La Expansión Prohibida" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="156806" value="Forbidden Island: Character Meeples" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="136063" value="Forbidden Desert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="380226" value="Forbidden Jungle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="245271" value="Forbidden Sky" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="378" value="Matt Leacock" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="34356" value="C. B. Canga" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="108" value="Gamewright" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18856" value="AURUM, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46980" value="Brädspel.se" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2691" value="Cocktail Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19047" value="FoxMind Israel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9287" value="Kanga Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25203" value="Lex Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32395" value="NeoTroy Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44204" value="Spilbræt.dk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17786" value="uplay.it edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="52694" />
+			<average value="6.75422" />
+			<bayesaverage value="6.64682" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="978" bayesaverage="6.64682" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="342" bayesaverage="6.64018" />
+												</ranks>
+
+			<stddev value="1.22024" />
+			<median value="0" />
+			<owned value="96546" />
+			<trading value="2345" />
+			<wanting value="258" />
+			<wishing value="5031" />
+			<numcomments value="9852" />
+			<numweights value="2248" />
+			<averageweight value="1.738" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

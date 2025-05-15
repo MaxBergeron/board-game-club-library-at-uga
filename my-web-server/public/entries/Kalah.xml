@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2448">
+         <thumbnail>https://cf.geekdo-images.com/Rvu1UIrmRwpfA3TPB8gMQg__thumb/img/xzezJomWTN7zH-5672AX9d7C-9U=/fit-in/200x150/filters:strip_icc()/pic302117.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Rvu1UIrmRwpfA3TPB8gMQg__original/img/XtvUXTworDGm-D1HA9ubQPxullo=/0x0/filters:format(jpeg)/pic302117.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Kalah" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Arcana" />
+			    				
+				<name type="alternate" sortindex="1" value="Awélé" />
+			    				
+				<name type="alternate" sortindex="1" value="Badari" />
+			    				
+				<name type="alternate" sortindex="1" value="Bantumi" />
+			    				
+				<name type="alternate" sortindex="1" value="Carcara" />
+			    				
+				<name type="alternate" sortindex="1" value="Classic Mancala" />
+			    				
+				<name type="alternate" sortindex="1" value="Conference" />
+			    				
+				<name type="alternate" sortindex="1" value="Congklak" />
+			    				
+				<name type="alternate" sortindex="1" value="Folding Mancala The African Stone Game" />
+			    				
+				<name type="alternate" sortindex="4" value="El Glotón" />
+			    				
+				<name type="alternate" sortindex="1" value="Kalaha" />
+			    				
+				<name type="alternate" sortindex="1" value="Kalaha Spel" />
+			    				
+				<name type="alternate" sortindex="1" value="Kalahar" />
+			    				
+				<name type="alternate" sortindex="1" value="Kalahari" />
+			    				
+				<name type="alternate" sortindex="1" value="Kalahr" />
+			    				
+				<name type="alternate" sortindex="1" value="Mancala" />
+			    				
+				<name type="alternate" sortindex="1" value="Mancala for Kids" />
+			    				
+				<name type="alternate" sortindex="5" value="The Mancala Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Mancala Junior" />
+			    				
+				<name type="alternate" sortindex="1" value="Mandinka" />
+			    				
+				<name type="alternate" sortindex="1" value="Mankala" />
+			    				
+				<name type="alternate" sortindex="1" value="Maya 6x6" />
+			    				
+				<name type="alternate" sortindex="1" value="Mop-up" />
+			    				
+				<name type="alternate" sortindex="1" value="Parlor Mancala" />
+			    				
+				<name type="alternate" sortindex="1" value="Sabo" />
+			    				
+				<name type="alternate" sortindex="1" value="Sahara" />
+			    				
+				<name type="alternate" sortindex="1" value="Serata" />
+			    				
+				<name type="alternate" sortindex="1" value="Sungka" />
+			    				
+				<name type="alternate" sortindex="1" value="Teddy" />
+			    				
+				<name type="alternate" sortindex="1" value="Travel Mancala" />
+			    				
+				<name type="alternate" sortindex="1" value="Μανκάλα" />
+			    				
+				<name type="alternate" sortindex="1" value="マンカラ" />
+			    				
+				<name type="alternate" sortindex="1" value="만칼라" />
+			
+						               													<description>The most common rule set in games sold commercially as Mancala is for this game of Kalah. Mancala is actually a whole family of games. Kalah was invented in 1940 by an American, William Champion Jr..  He started selling the game in 1944, patented the rules in the 1950's, and founded the Kalah Game Co. in 1958.&amp;#10;&amp;#10;The game is played on a board of two rows, each consisting of six round pits. The rows have a large store at either end called the Kalah. A player owns the six pits closest to them and the Kalah on their right side.&amp;#10;&amp;#10;The game is started with four (4) seeds in each pit. A player takes all the seeds from one of their pits, and then they are distributed one by one, counterclockwise, in the pits and the player's own Kalah, but not into the opponent's store (Kalah). If the last seed is dropped into an opponent's pit or a non-empty pit of the player, the move ends without anything being captured. If the last seed falls into the player's Kalah, they must move again. If the last seed is put into an empty pit owned by the player, they capture all contents of the opposite pit together with the capturing piece and puts them in their Kalah. If the opposite pit is empty, nothing is captured. A capture ends the move.&amp;#10;&amp;#10;The game ends when one player no longer has any seeds in any of their holes. The remaining pieces are captured by their adversary. The player who has captured the most pieces is declared the winner.&amp;#10;&amp;#10;Variants:&amp;#10;&amp;#10;Beginners may start with 3 seeds in each pit, but the game can also be played with 5 or 6 seeds in each pit. William Champion Jr. recommended the expert game with 6 in each pit.&amp;#10;&amp;#10;In the Philippines Version (called Sungka locally) the game is often played with small shells, there are 7 pits on each side as well as the Home and the game is started with 7 shells in each pit.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="700" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="70">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="56" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="65" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="53" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="43">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="7" />
+					<result value="5" numvotes="8" />
+					<result value="6" numvotes="17" />
+					<result value="8" numvotes="9" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="27">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="25" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2955" value="Mancala" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27383" value="Continents: Africa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9" value="Traditional Games: Mancala" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73592" value="Components: Gems/Crystals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109935" value="Containers: Tin/Metal Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104952" value="Digital Implementations: Apple App Store" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70711" value="Digital Implementations: Triqqy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70354" value="Digital Implementations: Yucata" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11505" value="Promotional: Board Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="44842" value="10 Mighty Men" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2883" value="The Book of Classic Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="96628" value="Miscellaneous Game Compilation" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="98735" value="William Julius Champion Jr." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="22153" value="Frank Gerwin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1017" value="ABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6514" value="Adrenaline Brush Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="404" value="Alga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4922" value="Barnes &amp; Noble" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10992" value="Bohemia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30795" value="Brain Games Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="389" value="Brio AB" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6401" value="Brookstone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23762" value="The Canadian Group" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="225" value="Cardinal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5231" value="Carrom Art" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5314" value="Cayro, The Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2401" value="CHH Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="789" value="Classic Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17388" value="Creative Crafthouse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2590" value="Cylinder Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11081" value="Daddy-O Productions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="485" value="Dal Negro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="496" value="danspil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8234" value="DeAgostini" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11320" value="Dilemma Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8040" value="Domino-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3082" value="Dujardin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="64" value="E. S. Lowe Company Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11925" value="Elven Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="562" value="Endless Games (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1731" value="Estrela" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11188" value="Fame Products" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3115" value="Fratelli Fabbri Editori  (Fabbri Editore)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="200" value="Fundex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23160" value="Games &amp; Graphics Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46408" value="Gemini-Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="58248" value="Gener8 LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5085" value="Geoludie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39335" value="Gerd Koch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9386" value="Goki" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="124" value="Great American Trading Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5247" value="Hartung-Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="148" value="Holzinsel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4742" value="IKEA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6149" value="Intermón Oxfam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8905" value="Joen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3540" value="Joker" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50740" value="Juguetes del Puerto" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="335" value="Jumbo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8565" value="King International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="165" value="Kontrell Industries" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6266" value="L. P. Septímio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="327" value="Lagoon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="559" value="Lazy Days (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39958" value="Learningsmith" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7938" value="Ludens Spirit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3259" value="Maplegrove" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8760" value="Melissa &amp; Doug" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6261" value="Mitra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="58486" value="Moderne Spieltechnik Gatzweiler G.m.b.H." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16715" value="Monkey Pod Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22131" value="Müller Ltd. &amp; Co. KG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7791" value="Natural Wonders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="304" value="Noris Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23494" value="Oficina do Aprendiz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2432" value="Origem" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2188" value="Pavilion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="500" value="Pelikan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1530" value="Philos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28856" value="PICO PAO / Juegos de la Antigüedad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="54547" value="Piet Hein &amp; Skjøde" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5942" value="Piet Hein A/S" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1087" value="Pin International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45802" value="Planet Finska" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8989" value="Plasticart" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4388" value="Plastolus Szarvas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="115" value="Pressman Toy Corp." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14512" value="Profound" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47" value="Queen Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22546" value="Ramsons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17532" value="RCR Terry GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="875" value="Schylling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21333" value="Science4You" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="433" value="Skor-Mor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="288" value="Spear&#039;s Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="57523" value="Speedgame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1905" value="Spin Master Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4281" value="SPM: Syarikat Permainan Malaysia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2142" value="Square Root Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23462" value="Starbucks Coffee Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="964" value="Tactic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5808" value="Target" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27830" value="Top-Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5047" value="Top-Toy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="58324" value="Toy Place" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="254" value="University Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7652" value="VEB Plastspielwaren Berlin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="717" value="Whitman Golden Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7506" value="Wood Expressions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9301" value="Woodstock Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2274" value="Worldwide Games, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5491" value="WWF" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="13414" value="Yellow Mountain Imports" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7660" />
+			<average value="5.99656" />
+			<bayesaverage value="5.83608" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4208" bayesaverage="5.83608" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="413" bayesaverage="5.82127" />
+												</ranks>
+
+			<stddev value="1.44942" />
+			<median value="0" />
+			<owned value="16422" />
+			<trading value="137" />
+			<wanting value="11" />
+			<wishing value="292" />
+			<numcomments value="2015" />
+			<numweights value="475" />
+			<averageweight value="1.5979" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="149241">
+         <thumbnail>https://cf.geekdo-images.com/yMcWmW7Kaaeu0AeBLYTPnQ__thumb/img/ZbWpRKl4s3iJh_-kGW5SAlqDRpg=/fit-in/200x150/filters:strip_icc()/pic7012223.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yMcWmW7Kaaeu0AeBLYTPnQ__original/img/QGSfNAqVzHmuD3Ghynd8JKyI0hw=/0x0/filters:format(jpeg)/pic7012223.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Assault on Doomrock" />
+			
+						                           
+						               													<description>Assault on Doomrock is a co-operative adventure game set in a humorous fantasy world. Players start the adventure by generating random heroes from two cards. Combinations like sadistic paladin, stinky warrior, frustrated mage or impatient rogue are only few of the possibilities.&amp;#10;&amp;#10;The unique party of heroes will venture forth into a randomly assembled world map. While gaining crazy abilities, and searching for gold and ridiculous items, heroes must face three increasingly difficult encounters. These battles play out in a grid-free, highly tactical battle system that uses character positioning, dice and ability cards.&amp;#10;&amp;#10;The goal of the game is to defeat the third epic boss encounter. In order to do that, heroes must carefully exploit the map to grow as powerful as possible before they run out of time.&amp;#10;&amp;#10;Feature highlights:&amp;#10;&amp;#10;    Fully cooperative board game, with card driven artificial intelligence.&amp;#10;    Variable heroes and scenarios, generated from over 300 cards.&amp;#10;    Grid-free, highly tactical battle system, with dice allocation planning phase.&amp;#10;    Fully randomized adventure on the world map, with quests, events, shops and rewarding exploration.&amp;#10;    6 Heroes with 8 random traits. 74 unique ability cards. 70 item rewards.&amp;#10;    9 possible battle encounters, each with their unique artificial intelligence deck, which gives over 30 battle encounter combinations. &amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="42">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="150" />
+						               				<maxplaytime value="150" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="16">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="11" />
+					<result level="5" value="Unplayable in another language" numvotes="5" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2481" value="Zombies" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2853" value="Stat Check Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7005" value="Creatures: Dragons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22861" value="Creatures: Goblins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61897" value="Creatures: Zombies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="16972" value="Crowdfunding: Indiegogo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81575" value="Digital Implementations: VASSAL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73724" value="Theme: Boss Battle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="172365" value="Assault on Doomrock: Doompocalypse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186462" value="Assault on Doomrock: Doompocalypse – Kickstarter Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="170939" value="Assault on Doomrock: Indiegogo Promo Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="377419" value="Assault on Doomrock: Second Edition Upgrade Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="330116" value="Assault on Doomrock: Ultimate Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="313859" value="Napad na Doomrock" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="71089" value="Tom Stasiak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="106394" value="Christopher Niewiadomski" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80452" value="Tomasz Florkiewicz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80449" value="Przemysław Geremek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80453" value="Michał Grochalak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80450" value="Adam Kabalak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80448" value="Bartosz Pławecki" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80451" value="Marcin Rubinkowski" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71089" value="Tom Stasiak" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26034" value="Beautiful Disaster Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="984" />
+			<average value="6.92786" />
+			<bayesaverage value="5.93085" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3475" bayesaverage="5.93085" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="623" bayesaverage="6.18549" />
+												</ranks>
+
+			<stddev value="1.57508" />
+			<median value="0" />
+			<owned value="1641" />
+			<trading value="136" />
+			<wanting value="119" />
+			<wishing value="695" />
+			<numcomments value="431" />
+			<numweights value="58" />
+			<averageweight value="3.1552" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

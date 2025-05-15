@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1339">
+         <thumbnail>https://cf.geekdo-images.com/fvhkcw4s6Q4-nMwwok1J6A__thumb/img/zXW1s2ZXq1dZkvbAzYdr9o1xRNQ=/fit-in/200x150/filters:strip_icc()/pic6569894.png</thumbnail>
+      <image>https://cf.geekdo-images.com/fvhkcw4s6Q4-nMwwok1J6A__original/img/WJFmTRWQRzOInBnWAjH39F3RyMg=/0x0/filters:format(png)/pic6569894.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dungeon!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Calabozo" />
+			    				
+				<name type="alternate" sortindex="1" value="Im Drachen-Labyrinth" />
+			    				
+				<name type="alternate" sortindex="1" value="Verlies" />
+			
+						               													<description>In many ways &amp;quot;Dungeon!&amp;quot; is similar to Dungeons &amp;amp; Dragons, although much simplified and transformed into a board game. Players explore a dungeon that is divided into levels of increasing difficulty, fighting monsters for valuable treasure. As players venture deeper into the dungeon, the monsters become more difficult and the treasure more valuable. Several character classes each have slightly different fighting abilities &amp;ndash; most notably the wizard, who can cast spells. Combat is simulated using dice; players roll the dice to attack a monster, and if unsuccessful, the dice are rolled to determine the effect of the monster's counter-attack.&amp;#10;&amp;#10;The winner is the first player to bring a certain amount of treasure back to the Dungeon's entrance.&amp;#10;&amp;#10;Reimplemented by:&amp;#10;&amp;#10;&amp;#10;    The Classic Dungeon&amp;#10;    The New Dungeon&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1975" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="45">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–6 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="48">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="4" />
+					<result value="5" numvotes="8" />
+					<result value="6" numvotes="18" />
+					<result value="8" numvotes="13" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="3" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="18">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="13" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2854" value="Critical Hits and Failures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7005" value="Creatures: Dragons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22861" value="Creatures: Goblins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5615" value="Creatures: Monsters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6428" value="Creatures: Vampires" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81575" value="Digital Implementations: VASSAL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7307" value="Setting: Dungeons &amp; Dragons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7757" value="Versions &amp; Editions: Board Game Versions of Role-Playing Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="209812" value="Calabozo: La aventura de los anillos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1370" value="The Classic Dungeon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2301" value="The New Dungeon!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="135672" value="Star Wars: El Imperio Contraataca" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="574" value="David R. Megarry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14508" value="Daniel Gelon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="35461" value="Keith Hill" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="35462" value="Richard Hill" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11998" value="James Holloway (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="35460" value="Larry Kessling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12534" value="Michael Komarck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17899" value="Tracy Lesch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37518" value="Victoria Maderna" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13540" value="Erol Otus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13531" value="Harry Quinn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13528" value="Jim Roslof" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13765" value="Stephen Sullivan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16" value="Tactical Studies Rules (TSR)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1338" value="Jedko Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26547" value="Novedades Montecarlo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="13" value="Wizards of the Coast" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4432" />
+			<average value="5.99509" />
+			<bayesaverage value="5.75201" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5147" bayesaverage="5.75201" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1155" bayesaverage="5.71941" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1847" bayesaverage="5.72531" />
+												</ranks>
+
+			<stddev value="1.53587" />
+			<median value="0" />
+			<owned value="10327" />
+			<trading value="313" />
+			<wanting value="65" />
+			<wishing value="523" />
+			<numcomments value="1495" />
+			<numweights value="310" />
+			<averageweight value="1.5548" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

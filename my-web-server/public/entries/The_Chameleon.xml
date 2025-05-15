@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="227072">
+         <thumbnail>https://cf.geekdo-images.com/-uBkiypUVyRKxNuOI_-ZpQ__thumb/img/qv_sRsagG0xQzNxg4Ol_AgiR2SY=/fit-in/200x150/filters:strip_icc()/pic3552344.png</thumbnail>
+      <image>https://cf.geekdo-images.com/-uBkiypUVyRKxNuOI_-ZpQ__original/img/Y_12y74FIaAXMfiQ0tFhpfkrN1U=/0x0/filters:format(png)/pic3552344.png</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Chameleon" />
+			
+						                               				
+				<name type="alternate" sortindex="4" value="Il Camaleonte" />
+			    				
+				<name type="alternate" sortindex="4" value="Le Caméléon" />
+			    				
+				<name type="alternate" sortindex="1" value="Cameleonul" />
+			    				
+				<name type="alternate" sortindex="5" value="Das Chamäleon" />
+			    				
+				<name type="alternate" sortindex="1" value="Infiltrado" />
+			    				
+				<name type="alternate" sortindex="1" value="Kaméleon" />
+			    				
+				<name type="alternate" sortindex="1" value="Kameleon" />
+			    				
+				<name type="alternate" sortindex="1" value="Χαμαιλέων" />
+			    				
+				<name type="alternate" sortindex="1" value="Заяц" />
+			    				
+				<name type="alternate" sortindex="1" value="카멜레온" />
+			
+						               													<description>A bluffing deduction game for everyone.&amp;#10;&amp;#10;Each round involves two missions, depending on whether you&amp;rsquo;re the Chameleon or not.&amp;#10;&amp;#10;Mission 1: You are the Chameleon. No one knows your identity except you. Your mission is to blend in, not get caught and to work out the Secret Word.&amp;#10;&amp;#10;Mission 2: You are not the Chameleon. Try to work out who the Chameleon is without giving away the Secret Word.&amp;#10;&amp;#10;At the beginning of the round each player receives a card that tells them if they are the Chameleon or hunting the Chameleon. Two dice are rolled and this gives everyone (except the Chameleon) the coordinates to a specific word on a Topic Card &amp;ndash; this is the Secret Word for the round. Each Topic Card features 16 related words (e.g. countries, books, food, etc.)&amp;#10;&amp;#10;Each player must now say a word relating to the Secret Word. The Chameleon can only make an educated guess based on the 16 words in front of them.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="52">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="37" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6–7 players" />
+  <result name="recommmendedwith" value="Recommended with 4–8 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2866" value="Targeted Clues" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17676" value="Animals: Chameleons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="110262" value="Components: Scoring pad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="436091" value="The Chameleon: Booster Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="398059" value="The Chameleon: Picture Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="306745" value="El portero Baldomero" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="205420" value="Gooseberry" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="64108" value="Rikki Tahta" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="96101" value="Ben Drummond" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14650" value="Luis Francisco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="96100" value="Zoe Lee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="64108" value="Rikki Tahta" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30391" value="Big Potato Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38809" value="Angry Lion Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37575" value="Dal Tenda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2400" value="Desyllas Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47851" value="Gameology (Gameology Romania)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42325" value="Grok Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18021" value="HCM Kinzel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23031" value="Magellan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28648" value="Randolph" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5268" value="Trefl" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5606" />
+			<average value="6.52659" />
+			<bayesaverage value="6.16926" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2235" bayesaverage="6.16926" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="185" bayesaverage="6.28419" />
+												</ranks>
+
+			<stddev value="1.38849" />
+			<median value="0" />
+			<owned value="13126" />
+			<trading value="270" />
+			<wanting value="52" />
+			<wishing value="949" />
+			<numcomments value="1053" />
+			<numweights value="81" />
+			<averageweight value="1.0617" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

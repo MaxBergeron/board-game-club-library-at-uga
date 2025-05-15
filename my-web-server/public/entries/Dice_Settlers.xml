@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="230267">
+         <thumbnail>https://cf.geekdo-images.com/Rq78Zg67kx0Ay24kgNnx0Q__thumb/img/weF3RZ3u_waKER89aCEKW-ciQPc=/fit-in/200x150/filters:strip_icc()/pic4145901.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Rq78Zg67kx0Ay24kgNnx0Q__original/img/Bsg0JxFtvDlhn6zbuX0bpSbwV6k=/0x0/filters:format(jpeg)/pic4145901.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dice Settlers" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dados y Colonos" />
+			    				
+				<name type="alternate" sortindex="1" value="Dice Settlers: Osadnicy z krwi i kości" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Würfelsiedler" />
+			    				
+				<name type="alternate" sortindex="1" value="ダイスセトラーズ" />
+			
+						               													<description>With a piece of land to call your own, a handful of resources, a few families and a head full of dreams you embark on a journey of a lifetime. Beyond lies the New World full of opportunities to make your dreams of a new home a reality. But beware, other settlers have come here as well, and although their beginnings are as humble as yours, each of them will want to influence these new lands as much as you. Will you become the most powerful?&amp;#10;&amp;#10;Dice Settlers is a civilization dice game of pool building, resource gathering and area control. Each turn players reach into their bags of dice, roll and choose their own actions: from exploring new lands and building the board, through gathering resources and trading, to developing technologies which offer new abilities, each player chooses their own path to victory.&amp;#10;&amp;#10;A changing board, a set of different technologies every time you play, and a vast array of available strategies await!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="62">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2959" value="Map Addition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60544" value="Game: Dice Settlers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="12210" value="Mechanism: 4X" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21622" value="Theme: Colonial" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266239" value="Dice Settlers: Married Bliss Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="278399" value="Dice Settlers: Merchant Routes Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287109" value="Dice Settlers: Sierra West Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="262934" value="Dice Settlers: Teotihuacan Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="279162" value="Dice Settlers: Towers of Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="270624" value="Dice Settlers: Western Sea" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="376035" value="Dice Settlers: Go7 Gaming Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271971" value="Dice Settlers: Insert Here Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="76227" value="Dávid Turczi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70533" value="Mihajlo Dimitrievski" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18529" value="NSKN Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26630" value="Board&amp;Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25996" value="Jumping Turtle Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34778" value="Last Level" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27470" value="Lucrum Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30034" value="Pixie Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22609" value="テンデイズゲームズ (TendaysGames)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2963" />
+			<average value="6.88304" />
+			<bayesaverage value="6.2771" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1838" bayesaverage="6.2771" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="974" bayesaverage="6.39189" />
+												</ranks>
+
+			<stddev value="1.31991" />
+			<median value="0" />
+			<owned value="5499" />
+			<trading value="203" />
+			<wanting value="131" />
+			<wishing value="964" />
+			<numcomments value="692" />
+			<numweights value="93" />
+			<averageweight value="2.914" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

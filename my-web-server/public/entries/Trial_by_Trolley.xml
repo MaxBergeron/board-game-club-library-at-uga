@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="282171">
+         <thumbnail>https://cf.geekdo-images.com/r1GDaTzdNoSz2gcZELRFng__thumb/img/EHxVkr3rv0ag28bTD4nAzDgKklI=/fit-in/200x150/filters:strip_icc()/pic4835109.png</thumbnail>
+      <image>https://cf.geekdo-images.com/r1GDaTzdNoSz2gcZELRFng__original/img/hC1dBcEFFyDhxSqC45XjBV2nmHM=/0x0/filters:format(png)/pic4835109.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Trial by Trolley" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dilemme Express" />
+			    				
+				<name type="alternate" sortindex="1" value="Dodelijke Dilemma&#039;s" />
+			    				
+				<name type="alternate" sortindex="1" value="Dylemat wagonika" />
+			    				
+				<name type="alternate" sortindex="1" value="Komu zvoní tramvaj" />
+			    				
+				<name type="alternate" sortindex="1" value="Pazi tramvaj gazi" />
+			    				
+				<name type="alternate" sortindex="1" value="Scapă Cine Poate" />
+			    				
+				<name type="alternate" sortindex="1" value="Tranvía Mortal" />
+			    				
+				<name type="alternate" sortindex="4" value="Il Trauma del Tram" />
+			    				
+				<name type="alternate" sortindex="1" value="Villamos dilemma!" />
+			    				
+				<name type="alternate" sortindex="1" value="Пекельний трамвай" />
+			    				
+				<name type="alternate" sortindex="1" value="Трамвай смерти" />
+			
+						               													<description>In Trial by Trolley, one player acts as the Trolley Operator and must choose where to send a murderous, out of control, trolley. Every other player at the table plays cards and argues in order to convince the operator to spare their lives and condemn everyone on the other track to a gruesome death-by-trolley.&amp;#10;&amp;#10;Each round, one player will act as the trolley conductor. This person will be the judge, and will choose which track the trolley will murder.&amp;#10;&amp;#10;Each other player is divided evenly among teams, and each player(s) will have a role for the round.&amp;#10;&amp;#10;To begin, one player will draw 3 angelic tracks, choose one to play to the table, and then randomly reveal a 2nd angelic track from the deck to add to the track. Another player will draw 3 demonic tracks, and choose to add one to the opposing teams track, attempting to sabotage them, and spare their own tracks. Finally, player(s) will draw track modifiers to place on any track card on the table. They can play on their own tracks, to sway the judge, or they may play on their opponents, to further sway the judge into murdering their opponent's track.&amp;#10;&amp;#10;The judge will ponder this conundrum, and eventually decide to murder one track. The track that was spared is the winner for the round!&amp;#10;&amp;#10;Play continues for a number of rounds pre-determined by the number of players at the table.&amp;#10;&amp;#10;Trial by Trolley is a game for 3-13 players, and plays in about 30-90 minutes.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="13" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="46">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="37" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="11">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="12">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="13">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="13+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5, 7 players" />
+  <result name="recommmendedwith" value="Recommended with 3–10 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="21">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="7" />
+					<result value="16" numvotes="9" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="2" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="76" value="No necessary in-game text" numvotes="0" />
+					<result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="80" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1118" value="Mature / Adult" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2865" value="Player Judge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="108234" value="Webcomics: Cyanide &amp; Happiness" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="394980" value="Travel by Trolley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="295540" value="Trial by Trolley: Derailed Bonus Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="295539" value="Trial by Trolley: Kickstarter Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321875" value="Trial by Trolley: R-Rated Modifier Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321874" value="Trial by Trolley: R-Rated Track Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="300848" value="Trial by Trolley: Thank You Exclusive Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="440031" value="Trial By Trolley: Vacation Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="299815" value="Trial by Trolley: Derailed Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="125145" value="Scott Houser" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29307" value="Skybound Tabletop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50696" value="CoolPlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41211" value="Explosm Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47851" value="Gameology (Gameology Romania)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23031" value="Magellan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3924" />
+			<average value="6.02718" />
+			<bayesaverage value="5.78225" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4758" bayesaverage="5.78225" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="452" bayesaverage="5.8063" />
+												</ranks>
+
+			<stddev value="1.6629" />
+			<median value="0" />
+			<owned value="10295" />
+			<trading value="170" />
+			<wanting value="31" />
+			<wishing value="567" />
+			<numcomments value="641" />
+			<numweights value="72" />
+			<averageweight value="1.0278" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

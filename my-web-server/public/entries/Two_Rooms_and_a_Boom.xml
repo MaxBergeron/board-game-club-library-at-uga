@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="134352">
+         <thumbnail>https://cf.geekdo-images.com/jmf0M01DsReKLByori6OGg__thumb/img/L5WTzC1_QyuIddhi248RG5hYVvc=/fit-in/200x150/filters:strip_icc()/pic2335221.png</thumbnail>
+      <image>https://cf.geekdo-images.com/jmf0M01DsReKLByori6OGg__original/img/GwiB4vBd89GU_aF57BGP-QBnQQc=/0x0/filters:format(png)/pic2335221.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Two Rooms and a Boom" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="两室一弹" />
+			
+						               													<description>In Two Rooms and a Boom &amp;ndash; a social deduction/hidden role party game for six or more players &amp;ndash; there are two teams: the Red Team and the Blue Team. The Blue Team has a President. The Red Team has a Bomber. Players are equally distributed between two rooms (i.e., separate playing areas). The game consists of five timed rounds. At the end of each round, some players will be swapped into opposing rooms. If the Red Team's Bomber is in the same room as the President at the end of the game, then the Red Team wins; otherwise the Blue Team wins. Lying encouraged.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="6" />
+						               				<maxplayers value="30" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="74">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="54" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="54" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="54" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="54" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="54" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="40" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="11">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="12">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="13">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="14">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="15">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="16">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="17">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="18">		
+					<result value="Best" numvotes="39" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="19">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="20">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="21">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="22">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="23">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="24">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="25">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="26">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="27">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="28">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="29">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="30">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="30+">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 14, 16, 18, 20, 22 players" />
+  <result name="recommmendedwith" value="Recommended with 8–30+ players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="7" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2073" value="Acting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2882" value="Elapsed Real Time Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56318" value="Misc: No Table Needed" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="219444" value="Two Rooms and a Boom: Necroboomicon Expansion Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="65404" value="Alan Gerding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="65405" value="Sean McCoy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65405" value="Sean McCoy" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39755" value="17wanzy (Yihu BG)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24028" value="Tuesday Knight Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5840" />
+			<average value="6.98694" />
+			<bayesaverage value="6.54691" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1154" bayesaverage="6.54691" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="65" bayesaverage="6.74654" />
+												</ranks>
+
+			<stddev value="1.65845" />
+			<median value="0" />
+			<owned value="9864" />
+			<trading value="190" />
+			<wanting value="284" />
+			<wishing value="2577" />
+			<numcomments value="1345" />
+			<numweights value="151" />
+			<averageweight value="1.4768" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

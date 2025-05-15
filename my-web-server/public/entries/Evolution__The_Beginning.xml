@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="201248">
+         <thumbnail>https://cf.geekdo-images.com/1rvefz1PSj1c3wC1UIGgnQ__thumb/img/hEcG7RPDUc5M7VsZcOqUMJQaNhM=/fit-in/200x150/filters:strip_icc()/pic3042047.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/1rvefz1PSj1c3wC1UIGgnQ__original/img/oDJn48M5XslwbPb_Vdh5GWHYxGQ=/0x0/filters:format(jpeg)/pic3042047.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Evolution: The Beginning" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Evolution: Der Einstieg" />
+			    				
+				<name type="alternate" sortindex="1" value="Эволюция: Естественный отбор – Биология для начинающих" />
+			    				
+				<name type="alternate" sortindex="1" value="物种演化:起源" />
+			
+						               													<description>In Evolution: The Beginning, you'll adapt your species to succeed in a dynamic ecosystem where food is scarce and predators roam. Traits like Flight and Horns will protect your species from Carnivores while a Long Neck will help them get food that others cannot reach.  With hundreds of ways to evolve your species, every game unfolds in a beautifully unique way.&amp;#10;&amp;#10;Evolution: The Beginning borrows ideas and concepts from other games in the Evolution branded product line, but it is a stand-alone game that is not compatible with anything else in the Evolution product line. It is the most casual and quick playing adaptation of the Evolution concept, but it is highly strategic as a two-player game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="36">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="6" />
+					<result value="8" numvotes="8" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1094" value="Educational" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1036" value="Prehistoric" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48786" value="Series: Evolution (North Star Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59442" value="Theme: Biology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="16886" value="Theme: Evolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66167" value="Theme: Science" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3245" value="Dominic Crapuchettes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="88892" value="Ben Goldman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75342" value="Catherine Hamilton" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38209" value="Gameland 游戏大陆" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2164" value="NorthStar Game Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17748" value="Rightgames RBG SIA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9215" value="TWOPLUS Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2326" />
+			<average value="6.5784" />
+			<bayesaverage value="6.03019" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2865" bayesaverage="6.03019" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="960" bayesaverage="6.11761" />
+												</ranks>
+
+			<stddev value="1.31273" />
+			<median value="0" />
+			<owned value="5865" />
+			<trading value="397" />
+			<wanting value="38" />
+			<wishing value="364" />
+			<numcomments value="664" />
+			<numweights value="46" />
+			<averageweight value="1.8043" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="624">
+         <thumbnail>https://cf.geekdo-images.com/I1YNAhee09mryaqfEo8MwA__thumb/img/9TJaxgoMUkiMhAGSYM8-0o1ICpg=/fit-in/200x150/filters:strip_icc()/pic3488232.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/I1YNAhee09mryaqfEo8MwA__original/img/LUcYakoNVnYxjmpYRFA6HUpHWo4=/0x0/filters:format(jpeg)/pic3488232.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Quoridor" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Bloqueio" />
+			    				
+				<name type="alternate" sortindex="1" value="Bloqueio 4 cores" />
+			    				
+				<name type="alternate" sortindex="1" value="Mini Quoridor" />
+			    				
+				<name type="alternate" sortindex="1" value="Mini-Bloqueio 2 cores" />
+			    				
+				<name type="alternate" sortindex="1" value="Mini-Bloqueio 4 cores" />
+			    				
+				<name type="alternate" sortindex="1" value="Quoridor Classic" />
+			    				
+				<name type="alternate" sortindex="1" value="Quoridor Deluxe" />
+			    				
+				<name type="alternate" sortindex="1" value="Quoridor Géant" />
+			    				
+				<name type="alternate" sortindex="1" value="Quoridor Mini" />
+			    				
+				<name type="alternate" sortindex="1" value="Quoridor Pocket" />
+			    				
+				<name type="alternate" sortindex="1" value="Quoridor Travel" />
+			    				
+				<name type="alternate" sortindex="1" value="Коридор" />
+			    				
+				<name type="alternate" sortindex="1" value="Коридор Мини" />
+			    				
+				<name type="alternate" sortindex="1" value="קורידור" />
+			    				
+				<name type="alternate" sortindex="1" value="步步為營" />
+			    				
+				<name type="alternate" sortindex="1" value="쿼리도" />
+			    				
+				<name type="alternate" sortindex="1" value="쿼리도 미니" />
+			
+						               													<description>The abstract strategy game Quoridor is surprisingly deep for its simple rules. The object of the game is to advance your pawn to the opposite edge of the board. On your turn you may either move your pawn or place a wall. You may hinder your opponent with wall placement, but not completely block them off. Meanwhile, they are trying to do the same to you. The first pawn to reach the opposite side wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1997" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="165">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="112" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="138" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="98" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="67" />
+					<result value="Not Recommended" numvotes="47" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="104" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2, 4 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="55">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="3" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="19" />
+					<result value="8" numvotes="25" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="36">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="36" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children&#039;s Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1059" value="Maze" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78574" value="Components: 9 x 9 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5881" value="Game: Blockade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19100" value="Series: Classic (Gigamic)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="13875" value="Quoridor Junior" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="411617" value="Quoridor Pac-Man" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="7581" value="Pinko Pallino" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="281" value="Mirko Marchesi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="281" value="Mirko Marchesi" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="672" value="Family Games, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19047" value="FoxMind Israel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="200" value="Fundex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50993" value="Hachette Boardgames UK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7938" value="Ludens Spirit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6747" value="Marks &amp; Spencer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6261" value="Mitra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23494" value="Oficina do Aprendiz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9090" value="Smart Chick" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48279" value="SuperHeated Neurons" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9086" />
+			<average value="6.64918" />
+			<bayesaverage value="6.36538" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1585" bayesaverage="6.36538" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="112" bayesaverage="6.44967" />
+												</ranks>
+
+			<stddev value="1.40975" />
+			<median value="0" />
+			<owned value="14580" />
+			<trading value="368" />
+			<wanting value="152" />
+			<wishing value="1479" />
+			<numcomments value="1956" />
+			<numweights value="477" />
+			<averageweight value="1.8134" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

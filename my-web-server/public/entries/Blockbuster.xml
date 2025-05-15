@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="272438">
+         <thumbnail>https://cf.geekdo-images.com/OixUz80u_9uHo2cax1hjIw__thumb/img/6aulGtFoCmIauLJgwk9PI7pzhmY=/fit-in/200x150/filters:strip_icc()/pic6348636.png</thumbnail>
+      <image>https://cf.geekdo-images.com/OixUz80u_9uHo2cax1hjIw__original/img/B1kP8Yzu3tJtqf9FcSxW3cr1tPk=/0x0/filters:format(png)/pic6348636.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Blockbuster" />
+			
+						                           
+						               													<description>Blockbuster is a movie game for anyone who has seen a movie, and like all the best films it comes in two parts:&amp;#10;&amp;#10;In the Movie Buzzer Battle, both teams are given a topic, such as &amp;quot;Movies with dogs&amp;quot;. You start the 15-second timer, yell out a relevant movie, then whack the buzzer to reset the time. The other team is now in the hot seat and has to do the same. Whoever runs out of time hands the advantage to the other team, which takes control of the next round: Triple Charades Jeopardy.&amp;#10;&amp;#10;In this round, teams have to guess the movie, while you act it, use one word, or quote from it. There is all sorts of strategy and stealing, too.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6, 8 players" />
+  <result name="recommmendedwith" value="Recommended with 6–10 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1027" value="Trivia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2073" value="Acting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7395" value="Containers: Video Tape Boxes" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="313834" value="Blockbuster Returns" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="359894" value="Blockbuster Trilogy Box Set" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="356752" value="Blockbuster and Chill" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="436238" value="Blockbuster: New Movie Hero Round" />
+		
+									
+			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30391" value="Big Potato Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7772" value="Mercurio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1905" value="Spin Master Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1598" />
+			<average value="6.56116" />
+			<bayesaverage value="5.9047" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3656" bayesaverage="5.9047" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="249" bayesaverage="6.13183" />
+												</ranks>
+
+			<stddev value="1.50928" />
+			<median value="0" />
+			<owned value="5064" />
+			<trading value="80" />
+			<wanting value="20" />
+			<wishing value="269" />
+			<numcomments value="353" />
+			<numweights value="21" />
+			<averageweight value="1.0476" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
