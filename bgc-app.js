@@ -92,6 +92,33 @@
     gamesData.sort((a, b) => sortDescending ? b.rating - a.rating : a.rating - b.rating);
     renderEntries(gamesData);
   });
-
+   // sort by number of players
+  document.querySelector('.sorting-links .linkPlayers').addEventListener('click', e => {
+    e.preventDefault();
+    sortDescending = !sortDescending; // Toggle sorting order
+    gamesData.sort((a, b) => sortDescending ? b.maxPlayers - a.maxPlayers : b.minPlayers - a.minPlayers);
+    renderEntries(gamesData);
+  });
+ // sort by play time
+  document.querySelector('.sorting-links .linkTime').addEventListener('click', e => {
+    e.preventDefault();
+    sortDescending = !sortDescending; // Toggle sorting order
+    gamesData.sort((a, b) => sortDescending ? b.playTime - a.playTime : a.playTime - b.playTime);
+    renderEntries(gamesData);
+  });
+   // sort by weight
+  document.querySelector('.sorting-links .linkWeight').addEventListener('click', e => {
+    e.preventDefault();
+    sortDescending = !sortDescending; // Toggle sorting order
+    gamesData.sort((a, b) => sortDescending ? b.weight - a.weight : a.weight - b.weight);
+    renderEntries(gamesData);
+  });
+   // sort by rating
+  document.querySelector('.sorting-links .linkYear').addEventListener('click', e => {
+    e.preventDefault();
+    sortDescending = !sortDescending; // Toggle sorting order
+    gamesData.sort((a, b) => sortDescending ? b.yearReleased - a.yearReleased : a.yearReleased - b.yearReleased);
+    renderEntries(gamesData);
+  });
   });
 
