@@ -126,14 +126,19 @@
     renderEntries(gamesData);
   });
   // change the arrow pointing direction on click
-  document.querySelector('.link').addEventListener('click', function (e) {
-  e.preventDefault();
-  const currentText = e.target.textContent;
-  if (currentText.includes('↑')) {
-    e.target.textContent = currentText.replace('↑', '↓');
-  } else {
-    e.target.textContent = currentText.replace('↓', '↑');
-  }
+ document.querySelectorAll('.link').forEach(link => {
+  link.addEventListener('click', function (e) {
+    e.preventDefault();
+    const currentText = e.target.textContent;
+
+    // Toggle arrow direction
+    if (currentText.includes('↑')) {
+      e.target.textContent = currentText.replace('↑', '↓');
+    } else {
+      e.target.textContent = currentText.replace('↓', '↑');
+    }
   });
+});
+
   });
 
