@@ -4,6 +4,8 @@
   // Container where the entries will be appended
   const container = document.querySelector('.library');
   const entryTemplate = document.querySelector('.entry.template');
+  let sortDescending = false;
+
 
   const filenames = "5_Minute_Dungeon.xml,7_Wonders.xml,Afterworld.xml,Aggravation.xml,Anomia.xml,Bananagrams.xml,Battleship.xml,Betrayal_at_Baldur_s_Gate.xml,Betrayal_at_House_on_the_Hill.xml,Blockbuster.xml,Blokus.xml,Blood_on_the_Clocktower.xml,Boggle.xml,Candy_Land.xml,Carcassonne.xml,Cards_Against_Humanity.xml,CATAN.xml,Catan__Family_Edition.xml,Chutes_and_Ladders.xml,Circadians__First_Light.xml,Clank___A_Deck_Building_Adventure.xml,Checkers.xml,Chess.xml,Codenames.xml,Cockroach_Poker.xml,Coup.xml,Connect_Four.xml,Deadwood_1876.xml,Dice_Hospital.xml,Dice_Settlers.xml,Don_t_Mix_It_.xml,Donner_Dinner_Party.xml,Doomlings.xml,Double_Bananagrams.xml,Dragonwood.xml,Dungeon_.xml,Dutch_Blitz.xml,Escape_Room.xml,Evolution__The_Beginning.xml,Exploding_Kittens.xml,Fakin__It_.xml,Five_Crowns.xml,Forbidden_Island.xml,Galactiquest.xml,Gentes.xml,Guess_Who_.xml,Herbaceous.xml,Here_to_Slay.xml,High_Hand.xml,Hollywood_1947.xml,How_to_Rob_a_Bank.xml,Inis.xml,Jenga.xml,Kalah.xml,King_of_Tokyo.xml,Legendary__A_Marvel_Deck_Building_Game.xml,Love_Letter.xml,Magic__The_Gathering___Arena_of_the_Planeswalkers.xml,Minecraft_Card_Game_.xml,Monopoly.xml,Monopoly_Speed.xml,Munchkin_Apocalypse.xml,Mysterium.xml,One_Night_Ultimate_Werewolf.xml,Operation.xml,Phase_10.xml,Pictionary__2013_edition_.xml,Poetry_for_Neanderthals.xml,Pot_de_Vin.xml,Quoridor.xml,Risk.xml,Rummikub.xml,Root.xml,Salem_1692.xml,Scrabble.xml,Secret_Hitler.xml,Sequence.xml,Sorry_.xml,Sorry__Sliders.xml,Space_Gate_Odyssey.xml,Taboo.xml,Tacocat_Spelled_Backwards.xml,The_Chameleon.xml,The_Game_of_Life__2013__Editions_.xml,The_Oregon_Trail_Card_Game.xml,Throw_Throw_Burrito.xml,Ticket_to_Ride.xml,Trial_by_Trolley.xml,Trivial_Pursuit__Classic_Edition.xml,Tortuga_1667.xml,Trouble.xml,Two_Rooms_and_a_Boom.xml,UNO.xml,Yahtzee.xml";
   const filenamesArray = filenames.split(',');
@@ -85,13 +87,9 @@
   });
   // sort by rating
   document.querySelector('.sorting-links .linkRating').addEventListener('click', e => {
-    // e.preventDefault();
-    // sortDescending = !sortDescending; // Toggle sorting order
-    // gamesData.sort((a, b) => sortDescending ? b.rating - a.rating : a.rating - b.rating);
-    // renderEntries(gamesData);
     e.preventDefault();
-    // Sort descending by rating
-    gamesData.sort((a, b) => b.rating - a.rating);
+    sortDescending = !sortDescending; // Toggle sorting order
+    gamesData.sort((a, b) => sortDescending ? b.rating - a.rating : a.rating - b.rating);
     renderEntries(gamesData);
   });
 
