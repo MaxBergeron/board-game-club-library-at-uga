@@ -76,12 +76,20 @@
     });
   }
 
-  // Example: Add event listener to "Rating" link for sorting by rating descending
-  document.querySelector('.sorting-links .linkRating').addEventListener('click', e => {
+  // sort by name
+   document.querySelector('.sorting-links .linkName').addEventListener('click', e => {
     e.preventDefault();
-    // Sort descending by rating
-    gamesData.sort((a, b) => b.rating - a.rating);
+    sortDescending = !sortDescending; // Toggle sorting order
+    gamesData.sort((a, b) => sortDescending ? b.name - a.name : a.name - b.name);
     renderEntries(gamesData);
   });
+  // sort by rating
+  document.querySelector('.sorting-links .linkRating').addEventListener('click', e => {
+    e.preventDefault();
+    sortDescending = !sortDescending; // Toggle sorting order
+    gamesData.sort((a, b) => sortDescending ? b.rating - a.rating : a.rating - b.rating);
+    renderEntries(gamesData);
+  });
+
   });
 
