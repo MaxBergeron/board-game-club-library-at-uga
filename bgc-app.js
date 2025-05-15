@@ -85,9 +85,13 @@
   });
   // sort by rating
   document.querySelector('.sorting-links .linkRating').addEventListener('click', e => {
+    // e.preventDefault();
+    // sortDescending = !sortDescending; // Toggle sorting order
+    // gamesData.sort((a, b) => sortDescending ? b.rating - a.rating : a.rating - b.rating);
+    // renderEntries(gamesData);
     e.preventDefault();
-    sortDescending = !sortDescending; // Toggle sorting order
-    gamesData.sort((a, b) => sortDescending ? b.rating - a.rating : a.rating - b.rating);
+    // Sort descending by rating
+    gamesData.sort((a, b) => b.rating - a.rating);
     renderEntries(gamesData);
   });
 
