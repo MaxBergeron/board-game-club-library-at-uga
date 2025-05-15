@@ -77,7 +77,7 @@
   }
 
   // Example: Add event listener to "Rating" link for sorting by rating descending
-  document.querySelector('.sorting-links .link').addEventListener('click', e => {
+  document.querySelector('.sorting-links .linkRating').addEventListener('click', e => {
     e.preventDefault();
     // Sort descending by rating
     gamesData.sort((a, b) => b.rating - a.rating);
