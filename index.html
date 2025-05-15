@@ -9,121 +9,57 @@
     <style>
         h1 {
             font-family: Georgia, 'Times New Roman', Times, serif;
-            font-size: 1.8rem;
+            font-size: 2rem;
             text-align: center;
+        }
+        .apiCredit {
+            float: none;
+            text-align: right;
+            font-size: 0.9rem;
             margin: 1rem 0;
         }
-
-        .apiCredit {
-            float: right;
-            margin-top: -40px;
-            font-size: 0.9rem;
-            text-align: right;
-            margin-right: 1rem;
-        }
-
         .sorting-links {
             font-size: 1rem;
             text-align: center;
-            margin-bottom: 1rem;
+            gap: 0.5rem;
         }
-
         .link {
-            margin: 5px;
+            margin: 0.5rem;
             text-decoration: none;
-            color: #007BFF;
-            font-weight: bold;
+            color: blue;
         }
-
-        .link:hover {
-            text-decoration: underline;
+        .images {
+            height: 300px;
+            width: 300px;
+            margin-right: 10px;
         }
-
-        /* Library and Entry Styling */
-        .library {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center; /* Center align items */
-            padding: 1rem;
-            gap: 1rem; /* Add space between entries */
+        .template {
+            display: none;
         }
-
         .entry {
-            display: flex;
-            flex-direction: column; /* Stack content vertically */
-            align-items: center; /* Center align content */
-            padding: 1rem;
-            width: 100%; /* Full width for mobile */
-            max-width: 300px; /* Set a max width */
+            margin: 25px;
+            width: 300px; 
+            height: 550px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             border-radius: 10px;
-            background: #fff;
-            overflow: hidden;
         }
-
-        .entry img {
-            width: 100%; /* Ensure image fills the container */
-            max-width: 250px; /* Limit the maximum width */
-            height: auto; /* Maintain aspect ratio */
-            border-radius: 5px;
-            margin-bottom: 0.5rem;
-        }
-
         .boardGameName {
-            font-size: 1.2rem;
+            font-size: 30px;
             font-weight: bold;
-            text-align: center;
-            margin: 0.5rem 0;
+            margin-bottom: -8px;
+           
         }
-
         .boardGameDetails {
-            font-size: 0.9rem;
-            text-align: center;
-            margin: 0.3rem 0;
+            font-size: large;
+            margin-bottom: 17px;
+        }
+        .library {
+            display: flex;
+            flex-wrap: wrap; /* Allows the boxes to wrap to the next row if needed */
+            justify-content: space-evenly; /* Distribute items evenly across the container */
+
         }
 
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 1.5rem;
-            }
-
-            .apiCredit {
-                font-size: 0.8rem;
-                margin-top: -20px;
-            }
-
-            .entry {
-                width: 90%; /* Take up most of the screen width */
-            }
-
-            .library {
-                gap: 0.5rem;
-            }
-        }
-
-        @media (max-width: 480px) {
-            h1 {
-                font-size: 1.2rem;
-                margin: 0.8rem 0;
-            }
-
-            .sorting-links {
-                font-size: 0.9rem;
-            }
-
-            .entry img {
-                max-width: 200px;
-            }
-
-            .boardGameName {
-                font-size: 1rem;
-            }
-
-            .boardGameDetails {
-                font-size: 0.8rem;
-            }
-        }
     </style>
 </head>
 <body> 
