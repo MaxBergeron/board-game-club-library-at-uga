@@ -11,9 +11,9 @@ const PORT = 3000;
 // Middleware to serve static files
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Set up a route to serve the bgc-gui.html page
+// Set up a route to serve the index.html page
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, '..', 'my-web-server', 'public', 'bgc-gui.html'));
+    res.sendFile(path.join(__dirname, '..', 'my-web-server', 'public', 'index.html'));
 });
 
 // Start the server and listen for incoming requests
