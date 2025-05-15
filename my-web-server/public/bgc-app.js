@@ -19,7 +19,8 @@ const folderPath = 'entries\\';
     // Clone the entry element
     const clone = entry.cloneNode(true);
     clone.classList.remove('template'); // make clone visible
-    const fileUrl = `http://localhost:3000/entries/${filenamesArray[i]}`;
+    const fileUrl = `/entries/${filenamesArray[i]}`;
+    //const fileUrl = `http://localhost:3000/entries/${filenamesArray[i]}`;
     fetch(fileUrl)
       .then(response => {
         if(!response.ok) {
