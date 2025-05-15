@@ -80,7 +80,7 @@
    document.querySelector('.sorting-links .linkName').addEventListener('click', e => {
     e.preventDefault();
     sortDescending = !sortDescending; // Toggle sorting order
-    gamesData.sort((a, b) => sortDescending ? b.name - a.name : a.name - b.name);
+    gamesData.sort((a, b) => sortDescending ? b.name.localeCompare(a.name) :  a.name.localeCompare(b.name));
     renderEntries(gamesData);
   });
   // sort by rating
