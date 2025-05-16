@@ -139,22 +139,19 @@
     }
   });
 });
-// search bar
-  document.addEventListener('DOMContentLoaded', () => {
+  // search bar
   const searchBar = document.getElementById('search-bar');
-
   // Filter entries based on search input
   searchBar.addEventListener('input', () => {
-    const query = searchBar.value.toLowerCase();
+  const query = searchBar.value.toLowerCase();
 
-    // Filter gamesData for matching names
-    const filteredGames = gamesData.filter(game =>
-      game.name.toLowerCase().includes(query)
-    );
+  // Filter gamesData for matching names
+  const filteredGames = gamesData.filter(game =>
+  game.name.toLowerCase().includes(query)
+  );
 
-    // Re-render entries with the filtered list
-    renderEntries(filteredGames);
-    });
+  // Re-render entries with the filtered list
+  renderEntries(filteredGames);
   });
 });
 
