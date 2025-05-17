@@ -5,204 +5,241 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A library for the board games owned by the UGA Board Game Club">
-    <title>UGA BGC Library</title>
+    <title>BGC at UGA® Library</title>
     <style>
-        html, body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    background-color: #f6f6f6;
+    html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        background-color: #f6f6f6;
+        font-family: sans-serif;
+    }
+
+    *, *::before, *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
     }
 
     .page {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
     }
-        * {
-            margin: 0px;
-            padding: 0px;
-            box-sizing: border-box;
-        }
 
-        .container {
-            height: 100vh;
-            width: 100%;
-            background-image: url("./images/background1.jpg");
-            background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
-            padding-left: 5%;
-            padding-right: 5%;
-            box-sizing: border-box;
-        }
+    .container {
+        flex: 1;
+        width: 100%;
+        background-image: url("./images/background1.jpg");
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        padding: 0 5%;
+    }
 
-        header {
-            width: 100%;
-            max-width: 100%;
-            margin-bottom: 1rem;
-        }
+    header {
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 1rem;
+    }
 
-        .logo-bar {
-            position: relative; 
-            width: 100%;
-            overflow: hidden;
-            height: 150px; 
-        }       
+    .logo-bar {
+        position: relative; 
+        width: 100%;
+        overflow: hidden;
+        height: 150px;
+    }
 
-        .logo-bar img {
-            width: 100%;
-            height: 150px;
-            object-fit: cover;
-            display: block;
-        }
+    .logo-bar img.background-gif {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
 
-        .main-title {
-            background-color: #000;
-            color: white;
-            text-align: center;
-            padding: 1rem 1rem;
-            border-bottom: 5px solid red;
-        }
+    .overlay-logo-desktop,
+    .overlay-logo-mobile {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        max-width: 100%;
+        height: auto;
+        object-fit: contain;
+        z-index: 1;
+    }
 
-        .main-title sup {
-            font-size: 0.5em;
-        }
+    .overlay-logo-mobile {
+        display: none;
+    }
 
-        .main-title h1 {
-            margin: 0;
-            font-family: Georgia, 'Times New Roman', Times, serif;
-            font-size: clamp(1.5rem, 4vw, 2.5rem);
-            line-height: 1.2;
-        }
-
-        h1 {
-            font-family: Georgia, 'Times New Roman', Times, serif;
-            font-size: 2rem;
-            text-align: center;
-        }
-
-        .background-gif {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-
-        .overlay-logo {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            max-width: 100%;
-            height: auto;
-            object-fit: contain;
-            z-index: 1;
-        }
-
-        .apiCredit {
-            font-size: 0.9rem;
-            margin: 0;
-            white-space: nowrap;
-        }
-
-        .top-bar {
-            display: flex;
-            align-items: center;
-            padding: 0 1rem;
-            margin-bottom: 1rem;
-            justify-content: flex-start;
-            gap: 0.5rem;
-        }
-
-        .search-container {
-            display: flex;
-            align-items: center;
-        }
-
-        #search-bar {
-            height: 2.5rem;
-            width: 20rem;
-            padding: 0.5rem;
-            font-size: 1rem;
-            border: 3px solid #bcbec0;
-            border-radius: 5px;
-        }
-
-        .sort-container {
-            display: flex;
-            align-items: center;
-            margin-left: 0.5rem;
-        }
-
-        .sorting-links {
-            font-size: 1rem;
-            text-align: center;
-            margin: 1rem 0;
-        }
-
-        .sorting-links .link {
-            margin: 0.5rem;
-            text-decoration: none;
-            color: blue;
-            cursor: pointer;
-        }
-
-        .images {
-            height: 100%;
-            width: 100%;
-            max-width: 18.75rem;
-            max-height: 18.75rem;
-            margin-bottom: 1rem;
-            border-radius: 0.5rem;
-            object-fit: contain;
-        }
-
-        .template {
+    @media (max-width: 768px) {
+        .overlay-logo-desktop {
             display: none;
         }
 
+        .overlay-logo-mobile {
+            display: block;
+        }
+    }
+
+    .main-title {
+        background-color: #000;
+        color: white;
+        text-align: center;
+        padding: 1rem 1rem;
+        border-bottom: 5px solid red;
+    }
+
+    .main-title sup {
+        font-size: 0.5em;
+    }
+
+    .main-title h1 {
+        margin: 0;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: clamp(1.5rem, 4vw, 2.5rem);
+        line-height: 1.2;
+    }
+
+    h1 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .apiCredit {
+        font-size: 0.9rem;
+        margin: 0;
+        white-space: nowrap;
+    }
+
+    .top-bar {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 1rem;
+        padding: 1rem;
+    }
+
+    .search-container {
+        display: flex;
+        align-items: center;
+    }
+
+    #search-bar {
+        height: 2.5rem;
+        width: 100%;
+        max-width: 20rem;
+        padding: 0.5rem;
+        font-size: 1rem;
+        border: 3px solid #bcbec0;
+        border-radius: 5px;
+    }
+
+    .sort-container {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .sort-container label {
+        font-size: 1rem;
+        color: #757575;
+        font-family: Georgia, serif;
+    }
+
+    #sort-select {
+        font-size: 1rem;
+        padding: 0.5rem 1rem;
+        border: 3px solid #bcbec0;
+        border-radius: 5px;
+        background-color: #fff;
+        cursor: pointer;
+    }
+
+    .sorting-links {
+        display: none;
+    }
+
+    .images {
+        height: 100%;
+        width: 100%;
+        max-width: 18.75rem;
+        max-height: 18.75rem;
+        margin-bottom: 1rem;
+        border-radius: 0.5rem;
+        object-fit: contain;
+    }
+
+    .template {
+        display: none;
+    }
+
+    .entry {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0.875rem;
+        width: 18.75rem;
+        padding: 1.25rem;
+        box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.1);
+        border-radius: 0.625rem;
+        background-color: #fff;
+        text-align: center;
+    }
+
+    .boardGameName {
+        font-size: 1.5rem;
+        font-weight: bold;
+        margin-bottom: 0.25rem;
+        font-family: 'Georgia';
+    }
+
+    .boardGameDetails {
+        font-size: 1rem;
+        margin: 0.25rem 0;
+        font-family: 'Cambria';
+        color: #373737;
+    }
+
+    .library {
+        flex: 1;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        padding: 1rem;
+    }
+
+    .bottom-bar {
+        background-color: #000;
+        color: #fff;
+        text-align: center;
+        padding: 0.5rem 1rem;
+        font-size: 0.8rem;
+        box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.15);
+    }
+
+    @media (max-width: 768px) {
         .entry {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            margin: 0.875rem;
-            width: 18.75rem;
-            padding: 1.25rem;
-            box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.1);
-            border-radius: 0.625rem;
-            background-color: #fff;
-            text-align: center;
-        }
-
-        .boardGameName {
-            font-size: 1.5rem;
-            font-weight: bold;
-            margin-bottom: 0.25rem;
-            font-family: 'Georgia';
-        }
-
-        .boardGameDetails {
-            font-size: 1rem;
-            margin: 0.25rem 0;
-            font-family: 'Cambria';
-            color: #373737;
-        }
-
-        .library {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-evenly;
-        }
-
-        .bottom-bar {
             width: 100%;
-            background-color: #000;
-            color: #fff;
-            text-align: center;
-            padding: 0.5rem 1rem;
-            font-size: 0.8rem;
-            box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.15);
+            max-width: 90vw;
         }
+
+        .top-bar {
+            flex-direction: column;
+            align-items: stretch;
+        }
+
+        #search-bar, #sort-select {
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .main-title h1 {
+            font-size: 1.5rem;
+        }
+    }
     </style>
 </head>
 <body>
@@ -210,11 +247,12 @@
     <header>
         <div class="logo-bar">
             <img class="background-gif" src="./images/bgc-background.gif" alt="Header background animation">
-            <img class="overlay-logo" src="./images/bgc-header.png" alt="UGA Board Game Club Logo">
+            <img class="overlay-logo-desktop" src="./images/bgc-header.png" alt="UGA Board Game Club Desktop Logo">
+            <img class="overlay-logo-mobile" src="./images/bgc-header-mobile.png" alt="UGA Board Game Club Mobile Logo">
         </div>
 
         <div class="main-title">
-            <h1>University of Georgia<sup>®</sup> Board Game Club Library</h1>
+            <h1>Board Game Club at UGA<sup>®</sup> Game Library</h1>
         </div>
     </header>
 
@@ -225,13 +263,7 @@
 
         <div class="sort-container">
             <label for="sort-select" style="margin-right:8px; color: #757575; font-family: Georgia, sans-serif; font-size: 1rem;">Sort by:</label>
-            <select id="sort-select" style="
-                font-size: 1rem;
-                padding: 0.5rem 1rem;
-                border: 3px solid #bcbec0;
-                border-radius: 5px;
-                background-color: #fff;
-                cursor: pointer;">
+            <select id="sort-select" style="font-size: 1rem; padding: 0.5rem 1rem; border: 3px solid #bcbec0; border-radius: 5px; background-color: #fff; cursor: pointer;">
                 <option value="name">Name</option>
                 <option value="rating">Rating</option>
                 <option value="players">Number of Players</option>
@@ -242,7 +274,6 @@
         </div>
     </div>
 
-    <!-- This is just here because I literally can not figure out how to get it to work without the sorting links class :sob: -->
     <div class="sorting-links">
         <a href="#" class="link linkName"></a> 
         <a href="#" class="link linkRating"></a> 
@@ -265,10 +296,10 @@
     </div>
 </div>
 
-    <footer class="bottom-bar">
-        <p>Board Game Club at UGA®‎&#160&#160&#160●‎&#160&#160&#160Data provided by Board Game Geeks API</p>
-    </footer>
+<footer class="bottom-bar">
+    <p>Board Game Club at UGA®‎&#160&#160&#160●‎&#160&#160&#160Data provided by Board Game Geeks API</p>
+</footer>
 
-    <script src='bgc-app.js'></script>
+<script src='bgc-app.js'></script>
 </body>
 </html>
