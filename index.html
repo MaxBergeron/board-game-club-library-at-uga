@@ -1,107 +1,257 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="icon" href="/images/bgc-logo.png" type="image/x-icon">
+    <link rel="icon" href="images/bgc-logo.png" type="image/x-icon">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A library for the board games owned by the UGA Board Game Club">
     <title>UGA BGC Library</title>
     <style>
+        html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f6f6f6;
+    }
+
+    .page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    }
+        * {
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+
+        .container {
+            height: 100vh;
+            width: 100%;
+            background-image: url("./images/background1.jpg");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            padding-left: 5%;
+            padding-right: 5%;
+            box-sizing: border-box;
+        }
+
+        header {
+            width: 100%;
+            max-width: 100%;
+            margin-bottom: 1rem;
+        }
+
+        .logo-bar {
+            position: relative; 
+            width: 100%;
+            overflow: hidden;
+            height: 150px; 
+        }       
+
+        .logo-bar img {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+            display: block;
+        }
+
+        .main-title {
+            background-color: #000;
+            color: white;
+            text-align: center;
+            padding: 1rem 1rem;
+            border-bottom: 5px solid red;
+        }
+
+        .main-title sup {
+            font-size: 0.5em;
+        }
+
+        .main-title h1 {
+            margin: 0;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: clamp(1.5rem, 4vw, 2.5rem);
+            line-height: 1.2;
+        }
+
         h1 {
             font-family: Georgia, 'Times New Roman', Times, serif;
             font-size: 2rem;
             text-align: center;
         }
+
+        .background-gif {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .overlay-logo {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            max-width: 100%;
+            height: auto;
+            object-fit: contain;
+            z-index: 1;
+        }
+
         .apiCredit {
             font-size: 0.9rem;
-             margin: 0; /* Remove default margins for better alignment */
-             white-space: nowrap; /* Prevent text wrapping */
+            margin: 0;
+            white-space: nowrap;
+        }
 
-        }
         .top-bar {
-        display: flex;
-        align-items: center; /* Vertically align items */
-        padding: 0 1rem; /* Add some horizontal padding */
-        margin-bottom: 1rem; /* Space below the top bar */
+            display: flex;
+            align-items: center;
+            padding: 0 1rem;
+            margin-bottom: 1rem;
+            justify-content: flex-start;
+            gap: 0.5rem;
         }
+
         .search-container {
-        flex-grow: 1; /* Allow the search bar to take up remaining space */
-        margin-left: auto; /* Push search bar to the right */
-        text-align: right; /* Align content to the right within the container */
-        margin-left: 1rem; /* Add space between the API credit and the search bar */
+            display: flex;
+            align-items: center;
         }
+
         #search-bar {
-        height: 1.5rem; /* Adjust height for a larger search bar */
-        padding: 0.5rem; /* Add padding for better appearance */
-        font-size: 1rem; /* Adjust font size */
-        border: 1px solid #ccc; /* Add a border */
-        border-radius: 5px; /* Round the corners */
-        }   
+            height: 2.5rem;
+            width: 20rem;
+            padding: 0.5rem;
+            font-size: 1rem;
+            border: 3px solid #bcbec0;
+            border-radius: 5px;
+        }
+
+        .sort-container {
+            display: flex;
+            align-items: center;
+            margin-left: 0.5rem;
+        }
+
         .sorting-links {
             font-size: 1rem;
             text-align: center;
-            gap: 0.5rem;
+            margin: 1rem 0;
         }
-        .link {
+
+        .sorting-links .link {
             margin: 0.5rem;
             text-decoration: none;
             color: blue;
+            cursor: pointer;
         }
-        .images {
-            height: 18.75rem;
-            width: 18.75rem; 
-            margin-right: 0.625rem; 
 
+        .images {
+            height: 100%;
+            width: 100%;
+            max-width: 18.75rem;
+            max-height: 18.75rem;
+            margin-bottom: 1rem;
+            border-radius: 0.5rem;
+            object-fit: contain;
         }
+
         .template {
             display: none;
         }
+
         .entry {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
             margin: 0.875rem;
-            width: 18.75rem; 
-            padding: 1.25rem; 
+            width: 18.75rem;
+            padding: 1.25rem;
             box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.1);
             border-radius: 0.625rem;
             background-color: #fff;
+            text-align: center;
         }
+
         .boardGameName {
-            font-size: 1.875rem; 
+            font-size: 1.5rem;
             font-weight: bold;
-            margin-bottom: -0.5rem;
-           
+            margin-bottom: 0.25rem;
+            font-family: 'Georgia';
         }
+
         .boardGameDetails {
             font-size: 1rem;
-            margin-bottom: 1rem;
+            margin: 0.25rem 0;
+            font-family: 'Cambria';
+            color: #373737;
         }
+
         .library {
             display: flex;
-            flex-wrap: wrap; /* Allows the boxes to wrap to the next row if needed */
-            justify-content: space-evenly; /* Distribute items evenly across the container */
-
+            flex-wrap: wrap;
+            justify-content: space-evenly;
         }
 
+        .bottom-bar {
+            width: 100%;
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 0.5rem 1rem;
+            font-size: 0.8rem;
+            box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.15);
+        }
     </style>
 </head>
-<body> 
-    <script src='bgc-app.js'></script>
-    <h1>University of Georgia Board Game Club Library</h1>
-  <div class="top-bar">
-    <p class="apiCredit">Data provided by Board Game Geeks API</p>
-    <div class="search-container">
-     <input type="text" id="search-bar" placeholder="Search games by name..." />
+<body>
+<div class="page">
+    <header>
+        <div class="logo-bar">
+            <img class="background-gif" src="./images/bgc-background.gif" alt="Header background animation">
+            <img class="overlay-logo" src="./images/bgc-header.png" alt="UGA Board Game Club Logo">
+        </div>
+
+        <div class="main-title">
+            <h1>University of Georgia<sup>®</sup> Board Game Club Library</h1>
+        </div>
+    </header>
+
+    <div class="top-bar">
+        <div class="search-container">
+            <input type="text" id="search-bar" placeholder="Search games by name..." />
+        </div>
+
+        <div class="sort-container">
+            <label for="sort-select" style="margin-right:8px; color: #757575; font-family: Georgia, sans-serif; font-size: 1rem;">Sort by:</label>
+            <select id="sort-select" style="
+                font-size: 1rem;
+                padding: 0.5rem 1rem;
+                border: 3px solid #bcbec0;
+                border-radius: 5px;
+                background-color: #fff;
+                cursor: pointer;">
+                <option value="name">Name</option>
+                <option value="rating">Rating</option>
+                <option value="players">Number of Players</option>
+                <option value="time">Play Time</option>
+                <option value="weight">Weight</option>
+                <option value="year">Release Date</option>
+            </select>
+        </div>
     </div>
-  </div>
-    <hr>
+
+    <!-- This is just here because I literally can not figure out how to get it to work without the sorting links class :sob: -->
     <div class="sorting-links">
-    <a href="#" class="link linkName">Name↓</a>
-    <a href="#" class="link linkRating">Rating↓</a>
-    <a href="#" class="link linkPlayers">Number of Players↓</a>
-    <a href="#" class="link linkTime">Play Time↓</a>
-    <a href="#" class="link linkWeight">Weight↓</a>
-    <a href="#" class="link linkYear">Release Date↓</a>
+        <a href="#" class="link linkName"></a> 
+        <a href="#" class="link linkRating"></a> 
+        <a href="#" class="link linkPlayers"></a> 
+        <a href="#" class="link linkTime"></a> 
+        <a href="#" class="link linkWeight"></a> 
+        <a href="#" class="link linkYear"></a>
     </div>
-    <br>
+
     <div class="library">
         <div class="entry template">
             <img src="/images/defaultImage.jpg" alt="default image" class="images">
@@ -113,6 +263,12 @@
             <p class="boardGameDetails yearReleased">Year Released: N/A</p>
         </div>
     </div>
-    
+</div>
+
+    <footer class="bottom-bar">
+        <p>Board Game Club at UGA®‎&#160&#160&#160●‎&#160&#160&#160Data provided by Board Game Geeks API</p>
+    </footer>
+
+    <script src='bgc-app.js'></script>
 </body>
 </html>
