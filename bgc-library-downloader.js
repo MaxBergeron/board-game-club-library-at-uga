@@ -13,8 +13,8 @@ const baseUrl = "https://boardgamegeek.com/xmlapi2/thing?type=boardgame&stats=1&
 
 
 // The folder where you want to save the XML data
-const entriesFolder = path.join(__dirname, 'my-web-server', 'public', 'entries');
-
+const entriesFolder = path.join(__dirname, 'entries');
+console.log(entriesFolder);
 
 function createFolder() {
     const fs = require('fs');
@@ -92,7 +92,7 @@ const games = [
     "Two Rooms and a Boom", "Uno!", "Yahtzee"
 ];
 const gamesWithIDs = '207830,68448,22475,2272,67877,27225,2425,228660,10547,272438,2453,240980,1293,5048,822,50381,13,147240,227072,2083,171,5432,264052,201808,1294,11971,178900,2719,131357,245197,218121,230267,37196,354018,219638,324413,149241,76322,933,1339,148203,425677,201248,172225,432327,1472,65244,266079,217780,4143,195314,299252,3144,370621,232079,155821,2452,70323,129437,277085,167698,2448,186265,1406,295824,112869,181304,147949,3737,1258,197641,312786,232078,624,181,237182,811,175549,320,188834,2375,313121,37196,266179,1111,333373,172307,205322,274533,9209,218530,282171,248702,1410,134352,2223,2243';
-const smallGameWithIDs = '1339, 266079'
+const smallGameWithIDs = '149241,4103'
 saveBoardGameData(smallGameWithIDs);
 
 const outputFile = path.join(__dirname, 'game_ids.txt');

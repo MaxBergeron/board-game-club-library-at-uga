@@ -5,7 +5,7 @@
 				<name type="primary" sortindex="1" value="Assault on Doomrock" />
 			
 						                           
-						               													<description>Assault on Doomrock is a co-operative adventure game set in a humorous fantasy world. Players start the adventure by generating random heroes from two cards. Combinations like sadistic paladin, stinky warrior, frustrated mage or impatient rogue are only few of the possibilities.&amp;#10;&amp;#10;The unique party of heroes will venture forth into a randomly assembled world map. While gaining crazy abilities, and searching for gold and ridiculous items, heroes must face three increasingly difficult encounters. These battles play out in a grid-free, highly tactical battle system that uses character positioning, dice and ability cards.&amp;#10;&amp;#10;The goal of the game is to defeat the third epic boss encounter. In order to do that, heroes must carefully exploit the map to grow as powerful as possible before they run out of time.&amp;#10;&amp;#10;Feature highlights:&amp;#10;&amp;#10;    Fully cooperative board game, with card driven artificial intelligence.&amp;#10;    Variable heroes and scenarios, generated from over 300 cards.&amp;#10;    Grid-free, highly tactical battle system, with dice allocation planning phase.&amp;#10;    Fully randomized adventure on the world map, with quests, events, shops and rewarding exploration.&amp;#10;    6 Heroes with 8 random traits. 74 unique ability cards. 70 item rewards.&amp;#10;    9 possible battle encounters, each with their unique artificial intelligence deck, which gives over 30 battle encounter combinations. &amp;#10;&amp;#10;&amp;#10;</description>
+						               													<description>Assault on Doomrock is a fully cooperative adventure game for 1&amp;ndash;4 players, set in a chaotic and comedic fantasy world. Players create bizarre and unlikely heroes by combining randomized class and trait cards&amp;mdash;resulting in combinations like a sadistic paladin, a stinky warrior, or an impatient rogue.&amp;#10;&amp;#10;Over the course of a three-act campaign, the party ventures across a procedurally generated world map, searching strange locations, facing events, uncovering secrets, and collecting silver, gear, and powerful abilities. Each Act culminates in a tactical battle against increasingly challenging foes.&amp;#10;&amp;#10;Combat takes place without a grid, relying instead on abstract positioning, dice allocation, and ability activation. Players must manage resources, cooperate closely, and exploit card synergies to survive.&amp;#10;&amp;#10;To win, the party must defeat the third and final epic encounter. But time is limited, and poor choices&amp;mdash;or poor rolls&amp;mdash;can spell doom before you even reach the final battle.&amp;#10;&amp;#10;Feature Highlights:&amp;#10;&amp;#10;     Randomized heroes and scenarios built from over 300 cards  &amp;#10;     Grid-free, tactical battle system with dice allocation and abstract positioning  &amp;#10;     Card-driven AI for enemies, with unique decks for each encounter  &amp;#10;     Procedurally generated adventure map with quests, perils, shops, and secrets  &amp;#10;     6 Heroes, 8 Traits, 74 Abilities, 70 Items, 9 distinct enemy encounters  &amp;#10;&amp;#10;&amp;#10;Similar to:&amp;#10;&amp;#10;     One Deck Dungeon &amp;ndash; Randomized dungeons, escalating difficulty, and a dice-based resolution system.&amp;#10;     Pathfinder Adventure Card Game &amp;ndash; Modular co-op adventures with character development and card-driven encounters.&amp;#10;     Massive Darkness &amp;ndash; Scenario-driven co-op dungeon crawler with randomized enemy setups and loot.&amp;#10;&amp;#10;&amp;#10;</description>
 										      	               				<yearpublished value="2014" />
 						               				<minplayers value="1" />
 						               				<maxplayers value="4" />
@@ -414,21 +414,21 @@
 	
    		<statistics page="1">
 								<ratings >
-			<usersrated value="984" />
-			<average value="6.92786" />
-			<bayesaverage value="5.93085" />
+			<usersrated value="985" />
+			<average value="6.92032" />
+			<bayesaverage value="5.92511" />
 
 			<ranks>
-															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3475" bayesaverage="5.93085" />
-																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="623" bayesaverage="6.18549" />
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3565" bayesaverage="5.92511" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="643" bayesaverage="6.179" />
 												</ranks>
 
-			<stddev value="1.57508" />
+			<stddev value="1.5822" />
 			<median value="0" />
-			<owned value="1641" />
+			<owned value="1642" />
 			<trading value="136" />
-			<wanting value="119" />
-			<wishing value="695" />
+			<wanting value="114" />
+			<wishing value="694" />
 			<numcomments value="431" />
 			<numweights value="58" />
 			<averageweight value="3.1552" />

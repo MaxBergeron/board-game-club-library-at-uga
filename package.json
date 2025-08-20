@@ -1,6 +1,26 @@
 {
   "private": true,
   "dependencies": {
-    "@vercel/edge": "^0.1.2"
-  }
+    "@vercel/edge": "^0.1.2",
+    "axios": "^1.11.0",
+    "xml2js": "^0.6.2"
+  },
+  "name": "board-game-club-library-uga",
+  "description": "Welcome to the **University of Georgia Board Game Club Library**! This online library contains a comprehensive collection of all the board games owned by the UGA Board Game Club.",
+  "version": "1.0.0",
+  "main": "bgc-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxBergeron/board-game-club-library-at-uga.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxBergeron/board-game-club-library-at-uga/issues"
+  },
+  "homepage": "https://github.com/MaxBergeron/board-game-club-library-at-uga#readme"
 }
