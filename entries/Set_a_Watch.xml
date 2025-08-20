@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="228855">
+         <thumbnail>https://cf.geekdo-images.com/E_-9WT4_6-kABS796Q-piA__thumb/img/l-LKCyGEkwhPpyW2zQCyA9Kh1SY=/fit-in/200x150/filters:strip_icc()/pic4162054.png</thumbnail>
+      <image>https://cf.geekdo-images.com/E_-9WT4_6-kABS796Q-piA__original/img/b1r3xRKUZBJm7-NUjjdwcdKk2IE=/0x0/filters:format(png)/pic4162054.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Set a Watch" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Turno di Guardia" />
+			    				
+				<name type="alternate" sortindex="1" value="烽火" />
+			
+						               													<description>The Kingdom is in grave danger. Powerful enemies are conspiring to resurrect the vile and powerful Unhallowed that your party has just slain. Now you, the mighty adventurers of the land, must visit these summoning locations and defeat the hordes of creatures behind this evil plot. It falls to four mighty adventurers, each of whom has a unique set of skills, to band together once more to vanquish this evil before the Unhallowed consume the world in darkness.&amp;#10;&amp;#10;In Set a Watch, a cooperative game for 1-4 players, you must clear out nine locations to stop the acolytes from breaking the seals holding back the evil Unhallowed. Every round you will visit a new location and pick an adventurer to rest and take camp actions. The rest of the party will take watch and battle a line of monsters trying to make their way into camp using your dice and unique character abilities.  Manipulating the creature line is essential to solving each round&amp;rsquo;s combat puzzle.  It is a battle to stay alive and keep the campfire burning! Use your wits and skill to fight for the light&amp;hellip;or all will perish in the darkness.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="156">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="107" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="46" />
+					<result value="Recommended" numvotes="67" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="52" />
+					<result value="Not Recommended" numvotes="49" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="44" />
+					<result value="Not Recommended" numvotes="51" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="95" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="80" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="13" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39912" value="Category: Tower Defense" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68117" value="Components: Game Box Used In Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66140" value="Components: Polyhedral (not D6) dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68034" value="Mechanism: Card Line" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="99253" value="Series: Set a Watch (Rock Manor Games)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377534" value="Set a Watch: Doomed Run" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340483" value="Set a Watch: Hulking Amalgam promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="322601" value="Set a Watch: Outriders Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="322154" value="Set a Watch: The Few &amp; Cursed Promos" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="369419" value="Set a Watch: Upgrade Pack" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="367625" value="Set A Watch: Forsaken Isles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="307386" value="Set a Watch: Swords of the Coin" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="356587" value="Pocket Watch: Set a Watch in 18 Cards" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="84252" value="Mike Gnade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="102469" value="Todd Walsh" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17925" value="Andreas Rocha" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60252" value="Robert P. Schneider" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32996" value="Rock Manor Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40390" value="Boom Boom Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48072" value="Bumble3ee Interactive" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7251" value="Giochix.it" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42144" value="Grimspire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43864" value="Treetato Studio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3823" />
+			<average value="7.25252" />
+			<bayesaverage value="6.54438" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1178" bayesaverage="6.54438" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="251" bayesaverage="6.75931" />
+												</ranks>
+
+			<stddev value="1.30064" />
+			<median value="0" />
+			<owned value="8622" />
+			<trading value="218" />
+			<wanting value="215" />
+			<wishing value="1821" />
+			<numcomments value="822" />
+			<numweights value="124" />
+			<averageweight value="2.4194" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

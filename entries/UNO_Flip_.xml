@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="271460">
+         <thumbnail>https://cf.geekdo-images.com/8IO6sl0jN5IylDDRAOK8GQ__thumb/img/FNNjUKGi6KOAxkithC8seFipxPo=/fit-in/200x150/filters:strip_icc()/pic8214042.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8IO6sl0jN5IylDDRAOK8GQ__original/img/scsSPfbOuxIedcBNjC4EtGb_MEc=/0x0/filters:format(jpeg)/pic8214042.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="UNO Flip!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="UNO Flip Splash" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Flip! Marvel" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Flip! Minute" />
+			
+						               													<description>UNO gets a brand new twist in the new UNO Flip! card game. It essentially plays like regular UNO but with the addition of Flip cards. This UNO card deck is double-sided with a &amp;quot;light&amp;quot; side and a &amp;quot;dark&amp;quot; side. You start off playing with the light side, but if someone plays a Flip card, you have to switch to playing the dark side. And on the dark side, there are different action cards with stiffer penalties. Instead of a Draw One card, the dark side has a Draw Five card. Instead of a Skip Card, the dark side has a Skip Everyone card. You have to continue playing with the dark side until another Flip card is played.&amp;#10;&amp;#10;If you don't know how to play UNO, each player takes a turn matching a card from their hand to the card on the top of the discard pile, either by number, color, or symbol. If you don't have a match, you must draw a card from the draw pile.&amp;#10;&amp;#10;The symbols represent the action cards, such as Wild, Skip, Wild Draw 2, Draw One, and Reverse. This version also includes a Flip card that turns the cards to the dark side, which has the following actions: Draw Five, Reverse, Skip Everyone, Wild, Wild Draw Color, and Flip.&amp;#10;&amp;#10;When you play your next-to-last card, you must yell &amp;quot;UNO!&amp;quot; to indicate you only have one card left. If you don't yell &amp;quot;UNO&amp;quot; and someone catches you, you must draw two cards. Once a player runs out of cards, the round is over, and that player receives points for all of the cards left in their opponents' hands. Play until one player reaches 500 points.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="27">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–7 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="6" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="423154" value="UNO Flip Attack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="380156" value="UNO Flip: Marvel Super Heroes or Villains" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="419698" value="UNO Flip! Stranger Things" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="419968" value="Uno Flip! Transformers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1933" value="McDonald&#039;s Corporation" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3378" />
+			<average value="6.27687" />
+			<bayesaverage value="5.85554" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4082" bayesaverage="5.85554" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="434" bayesaverage="5.83623" />
+												</ranks>
+
+			<stddev value="1.60809" />
+			<median value="0" />
+			<owned value="12205" />
+			<trading value="57" />
+			<wanting value="6" />
+			<wishing value="160" />
+			<numcomments value="548" />
+			<numweights value="66" />
+			<averageweight value="1.2727" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

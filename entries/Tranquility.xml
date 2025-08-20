@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="288513">
+         <thumbnail>https://cf.geekdo-images.com/nQJ9Kr9BP7zdm__rSvrx3w__thumb/img/8YdbYqiyOw64OzqvXpWGzHb2Xr0=/fit-in/200x150/filters:strip_icc()/pic6152802.png</thumbnail>
+      <image>https://cf.geekdo-images.com/nQJ9Kr9BP7zdm__rSvrx3w__original/img/ryAqjh1RzofMQXC77hyqMFVpNV8=/0x0/filters:format(png)/pic6152802.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tranquility" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="In aller Ruhe" />
+			    				
+				<name type="alternate" sortindex="3" value="A nyugalom tengere" />
+			    				
+				<name type="alternate" sortindex="1" value="Poklidná plavba" />
+			    				
+				<name type="alternate" sortindex="1" value="Tranquilidad" />
+			    				
+				<name type="alternate" sortindex="1" value="Tranquility" />
+			    				
+				<name type="alternate" sortindex="1" value="Tranquillité" />
+			    				
+				<name type="alternate" sortindex="1" value="Море спокою" />
+			    				
+				<name type="alternate" sortindex="1" value="Штиль" />
+			
+						               													<description>Jump on board the good ship Tranquility and set sail for paradise. Take care, though, because in a land where the day blends into night it's easy to lose track of time and you still need to find that special little island to call home.&amp;#10;&amp;#10;Tranquility is a co-operative card game in which players must fill the sea with islands &amp;mdash; specifically island cards with numbers on them &amp;mdash; and guide the ship home before any player runs out of cards. Note that in the world of Tranquility, the only way to play is in silence.&amp;#10;&amp;#10;---&amp;#10;&amp;#10;The goal of the game is for the team to complete the grid before any player runs out of available actions. Cards must be placed so that the grid ascends in numerical order from bottom left to top right. All the players win if they manage to complete the grid and have placed a Start and Finish card. All players lose if a single player can no longer play or discard any cards legally following the instructions given below. The players may not, however, communicate.&amp;#10;&amp;#10;Play is taken in turns moving clockwise with the quietest player going first. On a player&amp;rsquo;s turn they must do one of the following: 1. Play a card or 2. Discard two cards. Then they must draw back up to a hand of five cards. Cards must be placed so that the grid ascends in numerical order from bottom left to top right. If the card is placed next to an existing card in the sequence then they must discard cards from their hand equal to the difference between the numbers face down in front of them e.g. placing a 5 next to a 3 will require two cards to be discarded from their hand. This applies even if the cards are on different rows.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="84">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="11" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="8" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73589" value="Containers: Cubes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79690" value="Islands: Fictional" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109982" value="Series: Tranquility (James Emmerson)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304914" value="Tranquility: Stormy Seas" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="301998" value="Tranquility: Deluxe Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="334717" value="Tranquility: The Ascent" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="440447" value="Tranquility: The Descent" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="120660" value="James Emmerson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="113914" value="Tristam Rossin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43400" value="Board Game Hub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53490" value="Rozum" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3745" />
+			<average value="6.9455" />
+			<bayesaverage value="6.37222" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1596" bayesaverage="6.37222" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="482" bayesaverage="6.48408" />
+												</ranks>
+
+			<stddev value="1.27655" />
+			<median value="0" />
+			<owned value="7336" />
+			<trading value="84" />
+			<wanting value="104" />
+			<wishing value="1253" />
+			<numcomments value="710" />
+			<numweights value="96" />
+			<averageweight value="1.3438" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

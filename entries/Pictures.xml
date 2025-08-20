@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="284108">
+         <thumbnail>https://cf.geekdo-images.com/pR7dcr6bs5TIOHOhKIoe_A__thumb/img/YYa8rvA3RgJS6aT-HT2NRegGmuA=/fit-in/200x150/filters:strip_icc()/pic4946885.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/pR7dcr6bs5TIOHOhKIoe_A__original/img/YGaDDOA-Jtr9eS60TNUx51J36Ds=/0x0/filters:format(jpeg)/pic4946885.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pictures" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Képérzék" />
+			    				
+				<name type="alternate" sortindex="1" value="Obrazki" />
+			    				
+				<name type="alternate" sortindex="1" value="Obrázky" />
+			    				
+				<name type="alternate" sortindex="1" value="Ілюстрації" />
+			    				
+				<name type="alternate" sortindex="1" value="Картинки" />
+			    				
+				<name type="alternate" sortindex="1" value="صور" />
+			    				
+				<name type="alternate" sortindex="1" value="ピクチャーズ" />
+			    				
+				<name type="alternate" sortindex="1" value="巧手猜圖" />
+			    				
+				<name type="alternate" sortindex="1" value="픽처스" />
+			
+						               													<description>Pictures is a quick-playing family game with very simple rules. Form the image on your secret picture card with one set of components, either shoelaces, color cubes, icon cards, sticks and stones or building blocks in such a way that the other players guess what image you have pictured:&amp;#10;&amp;#10;&amp;#10;     Pull out a marker from the bag that determines your secret picture card.&amp;#10;     Then form that image with your components in such a way that it is recognizable.&amp;#10;     And finally guess what image each other player has pictured.&amp;#10;&amp;#10;&amp;#10;The players get points for correctly guessing other players images and for other players guessing their image. The most points wins!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="52">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="38" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="9" />
+					<result value="8" numvotes="6" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="8" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73591" value="Components: Rocks/Stones" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11331" value="Components: String" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="110804" value="Components: Unique Items" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72929" value="Game: Pictures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="348331" value="Pictures: Orange" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="316970" value="Pictures: Photo cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="324332" value="Pictures: Spielbox 2020 Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="400317" value="Pictures: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368930" value="Pictures: X-mas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372572" value="Pictures: X-mas – Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="335989" value="Pictures: XL Fotos" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="60694" value="Christian Stöhr" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="119515" value="Daniela Stöhr" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="103476" value="Dominik Mayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119515" value="Daniela Stöhr" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60694" value="Christian Stöhr" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8401" value="PD-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="56105" value="Fun Games Shop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48279" value="SuperHeated Neurons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36763" value="Surfin&#039; Meeple China" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3638" />
+			<average value="7.22911" />
+			<bayesaverage value="6.56098" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1148" bayesaverage="6.56098" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="44" bayesaverage="6.90695" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="293" bayesaverage="6.70533" />
+												</ranks>
+
+			<stddev value="1.31471" />
+			<median value="0" />
+			<owned value="6212" />
+			<trading value="49" />
+			<wanting value="94" />
+			<wishing value="881" />
+			<numcomments value="587" />
+			<numweights value="80" />
+			<averageweight value="1.0375" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -91,8 +91,14 @@ const games = [
     "Ticket to Ride", "Tortuga 1667", "Trial By Trolley", "Trivial Pursuit: Classic Edition", "Trouble",
     "Two Rooms and a Boom", "Uno!", "Yahtzee"
 ];
+
+/* HOW TO DOWNLOAD NEW ENTRIES
+* Place the bgg game ids of the new games into a const with a "," in between each entry. Place that const
+* into the saveBoardGameData method using node bgc-library-downloader.js in the terminal. Make sure to 
+* add the file name into the const fileNames found in bgc-app.js
+*/
 const gamesWithIDs = '207830,68448,22475,2272,67877,27225,2425,228660,10547,272438,2453,240980,1293,5048,822,50381,13,147240,227072,2083,171,5432,264052,201808,1294,11971,178900,2719,131357,245197,218121,230267,37196,354018,219638,324413,149241,76322,933,1339,148203,425677,201248,172225,432327,1472,65244,266079,217780,4143,195314,299252,3144,370621,232079,155821,2452,70323,129437,277085,167698,2448,186265,1406,295824,112869,181304,147949,3737,1258,197641,312786,232078,624,181,237182,811,175549,320,188834,2375,313121,37196,266179,1111,333373,172307,205322,274533,9209,218530,282171,248702,1410,134352,2223,2243';
-const smallGameWithIDs = '149241,4103'
+const smallGameWithIDs = '149241,4103,148228,228855,356838,266192,382169,256804,288513,34941,348250,166384,199792,2381,39856,284108,14996,271460'
 saveBoardGameData(smallGameWithIDs);
 
 const outputFile = path.join(__dirname, 'game_ids.txt');

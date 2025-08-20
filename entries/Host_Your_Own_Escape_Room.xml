@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="425677">
-         <thumbnail>https://cf.geekdo-images.com/BlGahuEjVZQa8YzD14xn4w__thumb/img/g650iynj-ilzZOsDmsG4ftcKp3U=/fit-in/200x150/filters:strip_icc()/pic8336114.jpg</thumbnail>
-      <image>https://cf.geekdo-images.com/BlGahuEjVZQa8YzD14xn4w__original/img/hJC_581IGLnFsoK532pCMF24pao=/0x0/filters:format(jpeg)/pic8336114.jpg</image>
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="356838">
+         <thumbnail>https://cf.geekdo-images.com/es5YebnxBiCmPW054LOz4g__thumb/img/LmAjcJqeBMqtFGLhSsMlhGBeHpM=/fit-in/200x150/filters:strip_icc()/pic6955775.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/es5YebnxBiCmPW054LOz4g__original/img/3XXaSVp66CatowDULXDbdh7YANY=/0x0/filters:format(jpeg)/pic6955775.jpg</image>
                                      				
-				<name type="primary" sortindex="1" value="Escape Room" />
+				<name type="primary" sortindex="1" value="Host Your Own Escape Room" />
 			
 						                           
-						               													<description>Trapped together inside a movie studio in the heart of Kyoto, you have 60 minutes to use your lateral thinking skills to work your way out before the time is up.  Solve the sequence of riddles, clues and conundrums, then input your answers in the unique interactive ending to find out whether you have cracked the codes and escaped the room.&amp;#10;&amp;#10;</description>
-										      	               				<yearpublished value="0" />
+						               													<description>Are you ready to embark on a code-cracking challenge? You and your guests have been invited to an exclusive launch party at the London art gallery Grafix. As you admire the artwork, the lights suddenly go off and you find yourself mysteriously trapped inside with no way out. One of the galleries most celebrated artists has been taken hostage and you have just 60 minutes to identify their location and rescue them before it's too late. Ideal for escape room novices, the difficulty level of this escape room game is moderate. Great for families or groups of friends looking for a fun evening of entertainment- no knowledge of London needed!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
 						               				<minplayers value="2" />
 						               				<maxplayers value="6" />
 						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
@@ -89,12 +89,44 @@
 
 			
 		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1040" value="Murder / Mystery" />
+		
+									
+				
+		 			
+
+			
+		
 					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
 		
 									
 			
 
-			      			
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+			
 
 			      				
 		 			
@@ -109,7 +141,7 @@
 
 			
 		
-					<link type="boardgamefamily" id="18616" value="Cities: Tokyo (Japan)" />
+					<link type="boardgamefamily" id="17446" value="Cities: London (England, UK)" />
 		
 									
 			
@@ -139,7 +171,7 @@
 
 			
 		
-					<link type="boardgamepublisher" id="57290" value="The Games Lounge" />
+					<link type="boardgamepublisher" id="29299" value="Talking Tables" />
 		
 									
 			
@@ -154,21 +186,21 @@
 	
    		<statistics page="1">
 								<ratings >
-			<usersrated value="2" />
-			<average value="7.25" />
+			<usersrated value="8" />
+			<average value="3.25" />
 			<bayesaverage value="0" />
 
 			<ranks>
 															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
 												</ranks>
 
-			<stddev value="0.25" />
+			<stddev value="1.06066" />
 			<median value="0" />
-			<owned value="23" />
-			<trading value="0" />
+			<owned value="20" />
+			<trading value="1" />
 			<wanting value="0" />
-			<wishing value="0" />
-			<numcomments value="6" />
+			<wishing value="1" />
+			<numcomments value="4" />
 			<numweights value="0" />
 			<averageweight value="0" />
 			</ratings>

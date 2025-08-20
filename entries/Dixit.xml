@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="39856">
+         <thumbnail>https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__thumb/img/QVwPXskFikQwBQlrdLJBAiRGgdg=/fit-in/200x150/filters:strip_icc()/pic6738336.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__original/img/jt3kFCHJ3HJ2079dMLwipFZqdQg=/0x0/filters:format(jpeg)/pic6738336.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dixit" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dixit ديكست" />
+			    				
+				<name type="alternate" sortindex="1" value="Диксит" />
+			    				
+				<name type="alternate" sortindex="1" value="Діксіт" />
+			    				
+				<name type="alternate" sortindex="1" value="ディクシット" />
+			    				
+				<name type="alternate" sortindex="1" value="妙不可言" />
+			    				
+				<name type="alternate" sortindex="1" value="妙語說書人" />
+			    				
+				<name type="alternate" sortindex="1" value="画物语" />
+			    				
+				<name type="alternate" sortindex="1" value="言不達意" />
+			    				
+				<name type="alternate" sortindex="1" value="隻字片語" />
+			    				
+				<name type="alternate" sortindex="1" value="隻言片語" />
+			    				
+				<name type="alternate" sortindex="1" value="딕싯" />
+			
+						               													<description>Each turn in Dixit, one player is the storyteller who chooses one of the six cards in their hand, then expresses an idea, with sounds or words, that is reflected on that card's image, and places the card face down on the playing surface. Each other player then selects the card that best matches that expression, and passes the selected card to the storyteller, face down.&amp;#10;&amp;#10;The storyteller shuffles all the cards together, then turns them over to reveal them. Each player other than the storyteller then secretly guesses which card belongs to the storyteller. If nobody or everybody guesses the correct card, the storyteller scores 0 points, and each other player scores 2 points. Otherwise, the storyteller and whoever found the correct answer score 3 points. Additionally, the non-storyteller players score 1 point for every vote received by their card.&amp;#10;&amp;#10;The game ends when the deck is empty or if a player has scored at least 30 points. In either case, the player with the most points wins.&amp;#10;&amp;#10;The Dixit base game and each expansion contain 84 cards, and the cards can be mixed together as desired.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="898">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="652" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="660" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="169" />
+					<result value="Not Recommended" numvotes="553" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="136" />
+					<result value="Recommended" numvotes="584" />
+					<result value="Not Recommended" numvotes="75" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="544" />
+					<result value="Recommended" numvotes="278" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="670" />
+					<result value="Recommended" numvotes="152" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="118" />
+					<result value="Recommended" numvotes="197" />
+					<result value="Not Recommended" numvotes="218" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="50" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="78" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5–6 players" />
+  <result name="recommmendedwith" value="Recommended with 4–8 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="303">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="2" />
+					<result value="4" numvotes="10" />
+					<result value="5" numvotes="23" />
+					<result value="6" numvotes="101" />
+					<result value="8" numvotes="121" />
+					<result value="10" numvotes="33" />
+					<result value="12" numvotes="8" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="186">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="184" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2038" value="Singing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2027" value="Storytelling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2866" value="Targeted Clues" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70361" value="Digital Implementations: Boiteajeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81575" value="Digital Implementations: VASSAL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9644" value="Game: Dixit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66334" value="Mechanism: Give a Clue / Get a Clue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60651" value="Mechanism: Image Interpretation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46175" value="Mechanism: Judging Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256951" value="Brettspiel Adventskalender 2018" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="309231" value="Dixit 2: &quot;Dice Tower&quot; Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="78773" value="Dixit 2: &quot;Gift&quot; Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="75313" value="Dixit 2: &quot;The American&quot; Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="119657" value="Dixit 3: Journey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="237502" value="Dixit 8: &quot;Cocktail&quot; Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="303677" value="Dixit AsmoPlay Ingenuity Promos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="415362" value="Dixit Cards with Original Pocket Vinyl Paintings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="212802" value="Dixit: &quot;Magic Bunny&quot; Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="261027" value="Dixit: &quot;Merry Christmas&quot; Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="263998" value="Dixit: &quot;Pink Bunny&quot; Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="169639" value="Dixit: &quot;Pumpkinhead&quot; and &quot;Santa&quot; Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="126164" value="Dixit: &quot;The Dragon&quot; Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="261025" value="Dixit: &quot;The Elephants&quot; Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="151552" value="Dixit: &quot;The Inheritors&quot; Promo Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="299797" value="Dixit: &quot;The Princess and the Pea&quot; Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209291" value="Dixit: &quot;The Werewolves of Miller&#039;s Hollow: The Pact&quot; Promo Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="170169" value="Dixit: &quot;Werewolves&quot; Promo Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="132022" value="Dixit: 2012 Asmodee Special Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374404" value="Dixit: Adventure Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256237" value="Dixit: Anniversary" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="174089" value="Dixit: Anniversary Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374403" value="Dixit: Blue Mishmash Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="261026" value="Dixit: Candide Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374401" value="Dixit: Chameleon Night Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287250" value="Dixit: Chilean Way" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="333835" value="Dixit: Chilean Way" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="156189" value="Dixit: Daydreams" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374399" value="Dixit: Deliveries Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374397" value="Dixit: Detours Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="404832" value="Dixit: Disney Edition – Chip &#039;n Dale Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="404835" value="Dixit: Disney Edition – Olaf Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="404833" value="Dixit: Disney Edition – Princess Dress Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="401498" value="Dixit: Disney Edition – Standard Characters 100 Years Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="404834" value="Dixit: Disney Edition – Villain Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374388" value="Dixit: Escape Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374387" value="Dixit: Family Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234553" value="Dixit: Harmonies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="174090" value="Dixit: Memories" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="243310" value="Dixit: Memories – Promo card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374386" value="Dixit: Mermaid in Love Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="301112" value="Dixit: Mirrors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="395883" value="Dixit: MNK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332087" value="Dixit: Obscurio&#039;s Library Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="99134" value="Dixit: Odyssey – &quot;Bunny&quot; Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="138547" value="Dixit: Odyssey (expansion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="145325" value="Dixit: Origins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="150795" value="Dixit: Origins – &quot;La Machine à rêves&quot; Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374385" value="Dixit: Point of View Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374384" value="Dixit: Queen of Owls Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="55660" value="Dixit: Quest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374383" value="Dixit: Red Mishmash Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374381" value="Dixit: Resonance Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205761" value="Dixit: Revelations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374379" value="Dixit: Richness Puzzle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="179060" value="Dixit: Spielbox 03/15 Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="176329" value="Dixit: Tabletop Day 2015 Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374378" value="Dixit: Telekenesis Puzzle Promo Card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="181591" value="Dixit: GameGuard organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="253955" value="Dixit: Golden Rabbit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="300064" value="Dixit: Piece Haven Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272264" value="Dixit: Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306288" value="Dixit: WarBox Organizer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="415714" value="Dixit Cérémonie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="381308" value="Dixit: Disney Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="121288" value="Dixit: Journey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="92828" value="Dixit: Odyssey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="329845" value="Stella: Dixit Universe" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="284007" value="Dixit Demo Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="427810" value="Dixit Universe Access+" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="307090" value="Dixit: Print &amp; Play" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11547" value="Jean-Louis Roubira" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12691" value="Marie Cardouat" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9051" value="Libellud" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="57381" value="Anne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34501" value="Boardgame Space" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10562" value="hobbity.eu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9634" value="KADABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9960" value="Maldón" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5787" value="Morapiaf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44407" value="Nordic Games ehf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29085" value="Paladium Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="68732" />
+			<average value="7.18934" />
+			<bayesaverage value="7.07408" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="412" bayesaverage="7.07408" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="26" bayesaverage="7.07064" />
+												</ranks>
+
+			<stddev value="1.39005" />
+			<median value="0" />
+			<owned value="103228" />
+			<trading value="1136" />
+			<wanting value="459" />
+			<wishing value="7063" />
+			<numcomments value="10409" />
+			<numweights value="2470" />
+			<averageweight value="1.1923" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

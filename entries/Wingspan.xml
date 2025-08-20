@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="266192">
+         <thumbnail>https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__thumb/img/VNToqgS2-pOGU6MuvIkMPKn_y-s=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__original/img/cI782Zis9cT66j2MjSHKJGnFPNw=/0x0/filters:format(jpeg)/pic4458123.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Wingspan" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Fesztáv" />
+			    				
+				<name type="alternate" sortindex="1" value="Flügelschlag" />
+			    				
+				<name type="alternate" sortindex="1" value="Na křídlech" />
+			    				
+				<name type="alternate" sortindex="1" value="Na skrzydłach" />
+			    				
+				<name type="alternate" sortindex="1" value="Spārnotie" />
+			    				
+				<name type="alternate" sortindex="1" value="Sparnuotieji" />
+			    				
+				<name type="alternate" sortindex="1" value="Tiivulised" />
+			    				
+				<name type="alternate" sortindex="1" value="Wingspan srpsko izdanje" />
+			    				
+				<name type="alternate" sortindex="1" value="Wingspan: Lumea păsărilor" />
+			    				
+				<name type="alternate" sortindex="1" value="Άνοιγμα φτερών" />
+			    				
+				<name type="alternate" sortindex="1" value="Крила" />
+			    				
+				<name type="alternate" sortindex="1" value="Криле" />
+			    				
+				<name type="alternate" sortindex="1" value="Крылья" />
+			    				
+				<name type="alternate" sortindex="1" value="ปีกปักษา" />
+			    				
+				<name type="alternate" sortindex="1" value="ウイングスパン" />
+			    				
+				<name type="alternate" sortindex="1" value="展翅翱翔" />
+			    				
+				<name type="alternate" sortindex="1" value="윙스팬" />
+			
+						               													<description>Wingspan is&amp;nbsp;a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features 180 birds illustrated by Natalia Rojas and Ana Maria Martinez.&amp;#10;&amp;#10;You are bird enthusiasts&amp;mdash;researchers, bird watchers, ornithologists, and collectors&amp;mdash;seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats (actions). These habitats  focus on several key aspects of growth:&amp;#10;&amp;#10;&amp;#10;     Gain food tokens via custom dice in a birdfeeder dice tower&amp;#10;     Lay eggs using egg miniatures in a variety of colors&amp;#10;     Draw from hundreds of unique bird cards and play them&amp;#10;&amp;#10;&amp;#10;The winner is the player with the most points after 4 rounds.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;From the 7th printing on, the base game box includes Wingspan: Swift-Start Promo Pack.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2030">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="110" />
+					<result value="Recommended" numvotes="791" />
+					<result value="Not Recommended" numvotes="372" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="593" />
+					<result value="Recommended" numvotes="1093" />
+					<result value="Not Recommended" numvotes="98" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1159" />
+					<result value="Recommended" numvotes="575" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="531" />
+					<result value="Recommended" numvotes="885" />
+					<result value="Not Recommended" numvotes="220" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="53" />
+					<result value="Recommended" numvotes="526" />
+					<result value="Not Recommended" numvotes="816" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="974" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="70" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="70" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="465">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="13" />
+					<result value="8" numvotes="161" />
+					<result value="10" numvotes="209" />
+					<result value="12" numvotes="74" />
+					<result value="14" numvotes="7" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="105">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="27" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="74" />
+					<result level="5" value="Unplayable in another language" numvotes="4" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1094" value="Educational" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2846" value="Once-Per-Game Abilities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="45672" value="Animals: Birds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7657" value="Animals: Crows / Ravens / Magpies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7306" value="Animals: Ducks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63073" value="Animals: Eagles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18887" value="Animals: Geese" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18588" value="Animals: Owls" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17963" value="Animals: Turkeys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66553" value="Components: Control Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66772" value="Components: Drop Tower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48877" value="Components: Game Trayz Inside" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104952" value="Digital Implementations: Apple App Store" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58267" value="Game: Wingspan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78680" value="Misc: Made by Panda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72487" value="Organizations: Automa Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59442" value="Theme: Biology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68335" value="Theme: Ecology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339017" value="Frogmouth Fan Pack (fan expansion for Wingspan)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="290448" value="Wingspan: European Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368895" value="Wingspan: Grus Japonensis Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="300580" value="Wingspan: Oceania Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="290837" value="Wingspan: Swift-Start Promo Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419414" value="Na křídlech: Dřevěná házecí budka" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="337694" value="Na skrzydłach: reDrewno Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="385692" value="Wingspan (+Europa +Oceania +Asia): The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="382383" value="Wingspan (+European and Oceania): Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="347405" value="Wingspan + European and Oceania expansion: Game Tamer Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="400722" value="Wingspan: BGExpansions Upgrade Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="279529" value="Wingspan: Birdhouse Upgrade Kit (40 pcs)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="288012" value="Wingspan: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="319459" value="Wingspan: Card Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="369406" value="Wingspan: Crocheted Egg &amp; Food Token Nests" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="321747" value="Wingspan: Double-Sided Wrapped-Edge Goal Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309487" value="Wingspan: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306762" value="Wingspan: Egg Miniatures (75 pcs)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="402091" value="Wingspan: European Expansion – Vision-Friendly Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="402724" value="Wingspan: Fan Art Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="393448" value="Wingspan: Feldherr Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="315526" value="Wingspan: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="330947" value="Wingspan: Folded Space Insert (Second edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291710" value="Wingspan: GeekUp Bit Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308310" value="Wingspan: GeekUp Mini 1st Player Figure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="393955" value="Wingspan: Go7 Gaming insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="405113" value="Wingspan: Golden Eggs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="328253" value="Wingspan: Holy Tokens Realistic Food Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271952" value="Wingspan: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="406412" value="Wingspan: Matagot Wooden Food Upgrade Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365511" value="Wingspan: Meeple Source 3D Printed Nests" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="279528" value="Wingspan: Meeple Source Bird Food Upgrade Kit (105 pcs)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="279530" value="Wingspan: Meeple Source Deluxe Bird Upgrade Set (81 pcs)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="430965" value="Wingspan: Meeple Source Large Scissor-Tailed Flycatcher First Player Token" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="326043" value="Wingspan: Mini Dice Tower Kit – Birdhouse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="366362" value="Wingspan: Momo Monster Action Bird Pieces Upgrade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308098" value="Wingspan: Momo Monster Food Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="299030" value="Wingspan: Mücke Spiele Wooden Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="316489" value="Wingspan: Neoprene Player Mat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="372068" value="Wingspan: Nesting Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="400380" value="Wingspan: Oceania Expansion – BGExpansions Nectar Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="346690" value="Wingspan: Oceania Expansion – GeekUp Bit Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="336149" value="Wingspan: Oceania Expansion – Meeple Source Nectar tokens (69 pcs)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="366363" value="Wingspan: Oceania Expansion – Momo Monster 70-Piece Nectar Upgrade Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365816" value="Wingspan: Oceania Expansion – Tower Rex 48-Piece Wooden Nectar Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="331898" value="Wingspan: Pair of Single-Sided Neoprene Goal Mats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308103" value="Wingspan: Shipshape Game Box Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="343462" value="Wingspan: Shipshape Gamer Owl Player Markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="339260" value="Wingspan: Speckled Eggs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="305000" value="Wingspan: The Game Doctors Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="385710" value="Wingspan: The GiftForge Bird house dice tower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348603" value="Wingspan: The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365817" value="Wingspan: Tower Rex 105-Piece Wooden Food Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365812" value="Wingspan: Tower Rex 40-Piece Player Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="294178" value="Wingspan: Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365803" value="Wingspan: Tower Rex Playerboard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365802" value="Wingspan: Tower Rex Scoreboard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="382600" value="Wingspan: TowerRex Duel Player&#039;s Birds Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="393808" value="Wingspan: Vision-Friendly Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="292334" value="Wingspan: WingMate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="284961" value="Wingspan: Wooden Dice Tower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="432830" value="Wyrmspan/Wingspan: Stone Eggs" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="366161" value="Wingspan Asia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="436126" value="Finspan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="410201" value="Wyrmspan" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="111338" value="Elizabeth Hargrave" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="113749" value="Ana Maria Martinez Jaramillo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="113748" value="Natalia Rojas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="111338" value="Elizabeth Hargrave" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="41862" value="Greg May" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71164" value="Beth Sobel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23202" value="Stonemaier Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38809" value="Angry Lion Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="57596" value="Automa Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50565" value="Bluebird Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40415" value="Divercentro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22380" value="Feuerland Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46884" value="Green Elephant Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42325" value="Grok Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29242" value="Ludofy Creative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32395" value="NeoTroy Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44241" value="Regatul Jocurilor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36763" value="Surfin&#039; Meeple China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="105632" />
+			<average value="8.01414" />
+			<bayesaverage value="7.86258" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="35" bayesaverage="7.86258" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="46" bayesaverage="7.79542" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="4" bayesaverage="7.87352" />
+												</ranks>
+
+			<stddev value="1.36974" />
+			<median value="0" />
+			<owned value="167048" />
+			<trading value="885" />
+			<wanting value="1277" />
+			<wishing value="20692" />
+			<numcomments value="14057" />
+			<numweights value="3502" />
+			<averageweight value="2.4737" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

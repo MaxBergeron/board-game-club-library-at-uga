@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="14996">
+         <thumbnail>https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__thumb/img/RDvu2FvsYVVH8icp1VsilUlqUGI=/fit-in/200x150/filters:strip_icc()/pic66668.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__original/img/O37sCRSJLq4S8EpCxFDNVsNBuxE=/0x0/filters:format(jpeg)/pic66668.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ticket to Ride: Europe" />
+			
+						                               				
+				<name type="alternate" sortindex="2" value="¡Aventureros al Tren! Europa" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: Europe" />
+			    				
+				<name type="alternate" sortindex="1" value="Jízdenky, prosím! Evropa" />
+			    				
+				<name type="alternate" sortindex="1" value="Menolippu Eurooppa" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride אירופה" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Europa" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Európa" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Evrópa" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Evropa" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Ευρώπη" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Европа" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Європа" />
+			    				
+				<name type="alternate" sortindex="1" value="Wsiąść do Pociągu: Europa" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: Europa" />
+			    				
+				<name type="alternate" sortindex="1" value="سكة سفر: أوروبا" />
+			    				
+				<name type="alternate" sortindex="1" value="チケット・トゥ・ライド・ヨーロッパ" />
+			    				
+				<name type="alternate" sortindex="1" value="鐵道任務-歐洲篇" />
+			    				
+				<name type="alternate" sortindex="1" value="铁路环游：欧洲篇" />
+			    				
+				<name type="alternate" sortindex="1" value="티켓 투 라이드: 유럽" />
+			
+						               													<description>Ticket to Ride: Europe takes you on a new train adventure across Europe. From Edinburgh to Constantinople and from Lisbon to Moscow, you'll visit great cities of turn-of-the-century Europe. Like the original Ticket to Ride, the game remains elegantly simple, can be learned in 5 minutes, and appeals to both families and experienced gamers. Ticket to Ride: Europe is a complete, new game and does not require the original version.&amp;#10;&amp;#10;More than just a new map, Ticket to Ride: Europe features brand new gameplay elements. Tunnels may require you to pay extra cards to build on them, Ferries require locomotive cards in order to claim them, and Stations allow you to sacrifice a few points in order to use an opponent's route to connect yours. The game also includes larger format cards and Train Station game pieces.&amp;#10;&amp;#10;The overall goal remains the same: collect and play train cards in order to place your pieces on the board, attempting to connect cities on your ticket cards. Points are earned both from placing trains and completing tickets but uncompleted tickets lose you points. The player who has the most points at the end of the game wins.&amp;#10;&amp;#10;Copyright 2002-2014 Days of Wonder, inc.&amp;#10;&amp;#10;Part of the Ticket to Ride series.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2005" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1147">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="738" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="46" />
+					<result value="Recommended" numvotes="615" />
+					<result value="Not Recommended" numvotes="329" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="296" />
+					<result value="Recommended" numvotes="688" />
+					<result value="Not Recommended" numvotes="34" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="811" />
+					<result value="Recommended" numvotes="230" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="326" />
+					<result value="Recommended" numvotes="544" />
+					<result value="Not Recommended" numvotes="75" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="571" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="315">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="6" />
+					<result value="6" numvotes="56" />
+					<result value="8" numvotes="181" />
+					<result value="10" numvotes="57" />
+					<result value="12" numvotes="10" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="177">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="168" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50153" value="Continents: Europe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="12226" value="Country: Belgium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10643" value="Country: Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10309" value="Country: Netherlands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11966" value="Country: Russia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10310" value="Country: Spain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17056" value="Country: United Kingdom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="120037" value="Alsace (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130397" value="Austria (fan expansion of Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="108422" value="Les Aventuriers du Rail: à Lyon (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="120034" value="Les Aventuriers du Rail: en Belgique (fan expansion to Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402987" value="Baltic Sea (Östersjön) (fan expansion for Ticket to Ride: Rails &amp; Sails)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130427" value="Bretagne (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363049" value="Bretagne TT Version (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="114528" value="Britain &amp; Ireland (fan expansion for Ticket to Ride: Europe)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="70712" value="Castilla y León (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339897" value="Eurasia (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="123217" value="Extension France (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289599" value="Göteborg (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130183" value="Holland (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130483" value="Holland Express (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="416872" value="Hungarian Kingdom 1899 (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130399" value="Italy (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130484" value="Italy (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130485" value="Italy (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="127364" value="Komorów (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="134118" value="Lietuva (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="140727" value="London Underground (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="406550" value="Mexico (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130424" value="New destination tickets (fan expansion for Ticket to Ride Europe)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339602" value="Norrköping/Linköping (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130421" value="North-Africa (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="406558" value="Øresund Runt (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402985" value="Östergötland (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="134079" value="Östergötland in the 1930&#039;s (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130423" value="Portugal (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="139110" value="România (fan expansion for Ticket to Ride: Europe)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="153997" value="Russian Empire 1912 (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="324464" value="Sardinia (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130422" value="Scandinavia (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="345789" value="Skåne (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="159347" value="South-East Sweden 1925 (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130182" value="Sweden (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360563" value="Tåg till Rydsgård (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="419536" value="Tåg till Rydsgård: andra upplagan (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130398" value="Ticket to Finland (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="106637" value="Ticket to Ride Map Collection 1: Asia + Legendary Asia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="106645" value="Ticket to Ride Map Collection 2: India &amp; Switzerland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="131188" value="Ticket to Ride Map Collection 3: The Heart of Africa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="147938" value="Ticket to Ride Map Collection 4: Nederland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182078" value="Ticket to Ride Map Collection 5: United Kingdom &amp; Pennsylvania" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233891" value="Ticket to Ride Map Collection 6: France &amp; Old West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="283595" value="Ticket to Ride Map Collection 6½: Poland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="288679" value="Ticket to Ride Map Collection 7: Japan &amp; Italy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="414268" value="Ticket to Ride Map Collection 8: Iberia &amp; South Korea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="420717" value="Ticket to Ride Syria (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="89848" value="Ticket to Ride: Alvin &amp; Dexter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="53383" value="Ticket to Ride: Europa 1912" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="243684" value="Ticket to Ride: Europe – London/København" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="185306" value="Ticket to Ride: Europe – Orient Express" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360549" value="Ticket To Ride: Italia – Commemorazione Per il Centenario del Milite Ignoto 1921 - 2021" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310711" value="Ticket to Ride: Stay at Home" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="30746" value="Ticket to Ride: Switzerland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="38454" value="Ticket to Ride: The Dice Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347217" value="Triveneto (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="119897" value="UK (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130481" value="UK (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130482" value="UK Cynical Edition (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="137427" value="UK version 2.0 (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142110" value="Ukraine (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="115070" value="USSR (fan expansion for Ticket to Ride)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139598" value="Miscellaneous: Premium Wooden Train Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139656" value="Miscellaneous: Wooden Train Token Set (50 Pack)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="286313" value="Ticket to Ride: Custom Trainset" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="427113" value="Ticket to Ride: Deluxe Train Set – 20th Anniversary" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="238031" value="Ticket to Ride: Deluxe Train Set – Milk Tanker Cars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="347777" value="Ticket to Ride: Europe – Art Sleeves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309367" value="Ticket to Ride: Europe – e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="397244" value="Ticket to Ride: First Player Coin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138370" value="Ticket to Ride: Halloween Freighter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="421965" value="Ticket to Ride: Hobby Next Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="346380" value="Ticket to Ride: Play Pink" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="329841" value="Ticket to Ride: Europe – 15th Anniversary" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="218208" value="Ticket to Ride: First Journey (Europe)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34501" value="Boardgame Space" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14813" value="Compaya.hu: Gamer Café Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Enigma (Bergsala Enigma)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23382" value="HaKubia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8439" value="Happy Baobab" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9634" value="KADABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3668" value="KDS Distribuzione" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46500" value="Lord of Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31904" value="Ponva d.o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7581" value="Runadrake" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8313" value="Smart Ltd" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="82031" />
+			<average value="7.52687" />
+			<bayesaverage value="7.40044" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="174" bayesaverage="7.40044" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="33" bayesaverage="7.40928" />
+												</ranks>
+
+			<stddev value="1.19558" />
+			<median value="0" />
+			<owned value="130234" />
+			<trading value="908" />
+			<wanting value="701" />
+			<wishing value="7109" />
+			<numcomments value="11267" />
+			<numweights value="4130" />
+			<averageweight value="1.9169" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

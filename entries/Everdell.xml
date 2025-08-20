@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="199792">
+         <thumbnail>https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__thumb/img/Cf_mYxR_VvdjTEPXseSurni2JNI=/fit-in/200x150/filters:strip_icc()/pic3918905.png</thumbnail>
+      <image>https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__original/img/HQ1ti16wT9lqja5_h3gUfHUIcVI=/0x0/filters:format(png)/pic3918905.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Everdell" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Divukraj" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdel" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell, H Εύφορη Κοιλάδα" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Az Örökfa Árnyékában" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Essentials Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Valea de Smarald" />
+			    				
+				<name type="alternate" sortindex="1" value="Евердел" />
+			    				
+				<name type="alternate" sortindex="1" value="Евърдел" />
+			    				
+				<name type="alternate" sortindex="1" value="Эверделл" />
+			    				
+				<name type="alternate" sortindex="1" value="ดินแดนแห่งมนต์เสน่ห์" />
+			    				
+				<name type="alternate" sortindex="1" value="エバーデール" />
+			    				
+				<name type="alternate" sortindex="1" value="仙境幽谷" />
+			    				
+				<name type="alternate" sortindex="1" value="에버델" />
+			
+						               													<description>Within the charming valley of Everdell, beneath the boughs of towering trees, among meandering streams and mossy hollows, a civilization of forest critters is thriving and expanding. From Everfrost to Bellsong, many a year have come and gone, but the time has come for new territories to be settled and new cities established. You will be the leader of a group of critters intent on just such a task. There are buildings to construct, lively characters to meet, events to host&amp;mdash;you have a busy year ahead of yourself. Will the sun shine brightest on your city before the winter moon rises?&amp;#10;&amp;#10;Everdell is a game of dynamic tableau building and worker placement.&amp;#10;&amp;#10;On their turn a player can take one of three actions:&amp;#10;&amp;#10;a) Place a Worker: Each player has a collection of Worker pieces. These are placed on the board locations, events, and on Destination cards. Workers perform various actions to further the development of a player's tableau: gathering resources, drawing cards, and taking other special actions.&amp;#10;&amp;#10;b) Play a Card: Each player is building and populating a city; a tableau of up to 15 Construction and Critter cards. There are five types of cards: Travelers, Production, Destination, Governance, and Prosperity. Cards generate resources (twigs, resin, pebbles, and berries), grant abilities, and ultimately score points. The interactions of the cards reveal numerous strategies and a near infinite variety of working cities.&amp;#10;&amp;#10;c) Prepare for the next Season: Workers are returned to the players supply and new workers are added. The game is played from Winter through to the onset of the following winter, at which point the player with the city with the most points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1048">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="367" />
+					<result value="Not Recommended" numvotes="212" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="303" />
+					<result value="Recommended" numvotes="562" />
+					<result value="Not Recommended" numvotes="52" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="549" />
+					<result value="Recommended" numvotes="298" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="181" />
+					<result value="Recommended" numvotes="461" />
+					<result value="Not Recommended" numvotes="158" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="478" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="80" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="245">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="50" />
+					<result value="10" numvotes="81" />
+					<result value="12" numvotes="90" />
+					<result value="14" numvotes="19" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="50">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="9" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="39" />
+					<result level="5" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3100" value="Tags" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18983" value="Animals: Badgers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19070" value="Animals: Bats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="45672" value="Animals: Birds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7544" value="Animals: Foxes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7760" value="Animals: Hedgehogs / Porcupines" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21462" value="Animals: Lizards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7269" value="Animals: Mice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7835" value="Animals: Moles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18588" value="Animals: Owls" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17168" value="Animals: Skunks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7668" value="Animals: Squirrels / Chipmunks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7366" value="Animals: Turtles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77906" value="Category: Dized Tutorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="112176" value="Digital Implementations: Dire Wolf Game Room" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57181" value="Theme: Trees and Forests" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289057" value="Everdell: Bellfaire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="297973" value="Everdell: Extra! Extra!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289405" value="Everdell: Glimmergold Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="382190" value="Everdell: Kindergarten Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="297972" value="Everdell: Legends" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332397" value="Everdell: Mistwood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332390" value="Everdell: Newleaf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="259996" value="Everdell: Pearlbrook" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319420" value="Everdell: Pearlbrook – Collector&#039;s Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292794" value="Everdell: Pearlbrook – Freshwater Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="437203" value="Everdell: Promo Compilation Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="261142" value="Everdell: Rugwort Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289056" value="Everdell: Spirecrest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319419" value="Everdell: Spirecrest – Collector&#039;s Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="334946" value="Everdell: Spirecrest – Trailblazers Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="449902" value="Everdell: Borthos the Blowan Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="357969" value="Everdell: 3 Minute Library Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="359324" value="Everdell: Berlin Brettspiel Con Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332119" value="Everdell: BGInserts Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="336655" value="Everdell: Big Ol&#039; Box of Storage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367828" value="Everdell: Card Sleeve Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="336653" value="Everdell: Click Clack&#039;s Upgrade Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="357725" value="Everdell: Court of Approval Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="296433" value="Everdell: Deluxe Occupied Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="333825" value="Everdell: Deluxe Resource Vessels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309259" value="Everdell: Dice Tower Alternate Art Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309496" value="Everdell: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="432924" value="Everdell: Essentials Edition – Upgrade Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391158" value="Everdell: Eurohell 3D golden occupied Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391159" value="Everdell: Eurohell 3D open/closed signs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391160" value="Everdell: Eurohell 3D spiderwebs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391156" value="Everdell: Eurohell 3D-Token Point-Markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391157" value="Everdell: Eurohell occupied Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271285" value="Everdell: Ever Tree" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348633" value="Everdell: Everdell &amp; Spirecrest GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="353226" value="Everdell: Everdell for Everyone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="347397" value="Everdell: Expo Hall" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312895" value="Everdell: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348594" value="Everdell: Game Boy Geek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="352844" value="Everdell: House of Peace Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="378870" value="Everdell: Internationale Spieltage SPIEL Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="446739" value="Everdell: Jeremy Howard Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306518" value="Everdell: LaserLand Event Card Holders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306519" value="Everdell: Laserland Walnut Resource Holders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="353225" value="Everdell: Lincoln and Nikki Alternate Art Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="330418" value="Everdell: Man vs Meeple Alternate Art Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271839" value="Everdell: Metal Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="434245" value="Everdell: Moedas &amp; Co. Metal Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428097" value="Everdell: Oversized Cards for all Everdell Expansions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="432111" value="Everdell: Oversized Cards for Collector&#039;s Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435724" value="Everdell: PolandGames Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435721" value="Everdell: PolandGames Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="433888" value="Everdell: Ryan Schoon Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="370718" value="Everdell: Tantrum House Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348549" value="Everdell: The GiftForge Base Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="385699" value="Everdell: The GiftForge Open sign" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="385706" value="Everdell: The GiftForge Season board with small Ever Tree" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="385707" value="Everdell: The GiftForge Special event card holder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="325823" value="Everdell: The Wanderer&#039;s Guide Alternate Art Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365825" value="Everdell: Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271840" value="Everdell: Wooden Twigs" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="319422" value="Everdell: Collector&#039;s Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="425005" value="Everdell Duo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="394106" value="Everdell Farshore" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="436821" value="Everdell Silverfrost" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="375852" value="Welcome to Everdell" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="63969" value="Cody Jones" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="23943" value="Dann May" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42875" value="Abraxas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47851" value="Gameology (Gameology Romania)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44204" value="Spilbræt.dk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51375" value="Tabletop Tycoon Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59869" value="Tycoon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8147" value="YOKA Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="63460" />
+			<average value="7.99684" />
+			<bayesaverage value="7.82118" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="42" bayesaverage="7.82118" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="49" bayesaverage="7.78222" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="6" bayesaverage="7.8266" />
+												</ranks>
+
+			<stddev value="1.30388" />
+			<median value="0" />
+			<owned value="96733" />
+			<trading value="637" />
+			<wanting value="1416" />
+			<wishing value="22050" />
+			<numcomments value="8011" />
+			<numweights value="1884" />
+			<averageweight value="2.8259" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
