@@ -1,11 +1,14 @@
 5 Minute Dungeon: 207830
+7 Wonders Duel: 173346
 Afterworld: 22475
 Aggravation: 2272
 Anomia: 67877
+Azul: 230802
 Banagrams: 27225
 Battleship: 2425
 Betrayal at Baldur's Gate: 228660
 Betrayal at House on the Hill: 10547
+Betrayal: Deck of Lost Souls: 415508
 Blockbuster: 272438
 Blokus: 2453
 Blood On The Clocktower: 240980
@@ -15,13 +18,16 @@ Carcassone: 822
 Cards Against Humanity: 50381
 Catan: 13
 Catan: Family Edition: 147240
+Catan: Seafarers: 325
 Chameleon: 227072
+Cheating Moth: 105593
 Checkers: 2083
 Chesscan: 171
 Chutes and Ladders: 5432
 Circadians- First Light: 264052
 Clank!: 201808
 Clue: 1294
+Clue: Scooby-Doo 50th Anniversary Edition: 318074
 Cockroach Poker: 11971
 Codenames: 178900
 Connect 4: 2719
@@ -30,6 +36,7 @@ Deadwood 1876: 245197
 Dice Hospital: 218121
 Dice Settlers: 230267
 Dixit: 39856
+Dominion: 36218
 Don’t Mix It: 354018
 Donner Dinner Party: 219638
 Doomlings: 324413
@@ -43,15 +50,20 @@ Evolution- The Beginning: 201248
 Exploding Kittens: 172225
 Fakin' It: 432327
 Five Crowns: 1472
+Flip 7: 420087
 Forbidden Island: 65244
+Full Throttle!: 344408
 Galactic Quest: 266079
 Gentes: 217780
+Giant UNO: 218460
 Guess Who: 4143
+Head Trip: 402150
 Herbaceous: 195314
 Here To Slay: 299252
 High Hand: 3144
 Hollywood 1947: 370621
 How to Rob a Bank: 232079
+Hungry Hungry Hippos: 5895
 Inis: 155821
 Jenga: 2452
 King of Tokyo: 70323
@@ -64,13 +76,19 @@ Monopoly: 1406
 Monopoly Speed: 295824
 Munchkin Apocalypse: 112869
 Mysterium: 181304
+Neighborhoodies: 426916
 One Night Ultimate Werewolf: 147949
 Operation: 3737
+Outburst!: 4862
+Pachisi: 2136
+Pandemic: 30549
 Phase 10: 1258
 Pictionary: 197641
 Poetry for Neanderthals: 312786
 Pot de Vin: 232078
+Quacks: 244521
 Quoridor: 624
+Riichi Mahjong: 108018
 Risk: 181
 Root: 237182
 Rummy-O: 811
@@ -78,19 +96,29 @@ Salem 1692: 175549
 Scrabble: 320
 Secret Hitler: 188834
 Sequence: 2375
+Sheriff of Nottingham: 157969
+Skull: 92415
 Sorry: 313121
 Sorry! Sliders: 37196
 Space Gate Odyssey: 266179
 Taboo: 1111
 Tacocat Spelled Backwards: 333373
+Tapple: 129556
+Telestrations: 46213
 The Game Of Life: 172307
 The Oregon Trail: 205322
 Throw Throw Burrito: 274533
 Ticket to Ride: 9209
+Time's Up!: 1353
 Tortuga 1667: 218530
 Trial By Trolley: 282171
 Trivial Pursuit: Classic Edition: 248702
 Trouble: 1410
+Twister: 5894
 Two Rooms and a Boom: 134352
+Ultimate Werewolf: Extreme: 311920
 Uno!: 2223
+Wallet: 232300
+Wavelength: 262543
+Werewords: 219215
 Yahtzee: 2243

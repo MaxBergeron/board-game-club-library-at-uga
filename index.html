@@ -162,6 +162,48 @@
         display: none;
     }
 
+    .sort-direction-container {
+    display: flex;
+    align-items: center;
+    }
+
+    #sort-direction {
+        height: 2.5rem;
+        min-width: 2.5rem;
+        padding: 0.5rem;
+        font-size: 1rem;
+        color: #757575;
+        background-color: #fff;
+        border: 3px solid #bcbec0;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    #im-feeling-lucky:hover {
+        background-color: #f3f3f3;
+        border-color: #999;
+    }
+        .im-feeling-lucky-container {
+    display: flex;
+    align-items: center;
+    }
+
+    #im-feeling-lucky {
+        height: 2.5rem;
+        padding: 0.5rem 1rem;
+        margin-left: 4rem;
+        font-size: 1rem;
+        background-color: #fff;
+        border: 3px solid #bcbec0;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    #sort-direction:hover {
+        background-color: #f3f3f3;
+        border-color: #999;
+    }
+
     .images {
         height: 100%;
         width: 100%;
@@ -284,6 +326,14 @@
                 <option value="weight">Weight</option>
                 <option value="year">Release Date</option>
             </select>
+        </div>
+
+        <div class="sort-direction-container">
+            <button id="sort-direction" type="button">▲</button>
+        </div>
+
+        <div class="im-feeling-lucky-container">
+            <button id="im-feeling-lucky" type="button">I'm Feeling Lucky</button>
         </div>
     </div>
 
