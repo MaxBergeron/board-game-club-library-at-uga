@@ -42,7 +42,11 @@ if (!fs.existsSync(folderPath)) {
             const apiUrl = `${baseUrl}${id}`;
 
             // Fetch XML data from the API
-            const response = await axios.get(apiUrl);
+            const response = await axios.get(apiUrl, {
+            headers: {
+                'Authorization': 'Bearer apitoken'
+            }
+        });
 
             // Parse XML data into a JavaScript object
             const parser = new xml2js.Parser();
@@ -71,25 +75,135 @@ if (!fs.existsSync(folderPath)) {
 }
 
 const games = [
-    "5 Minute Dungeon", "Afterworld", "Aggravation", "Anomia", "Banagrams", "Battleship",
-    "Betrayal at Baldur's Gate", "Betrayal at House on the Hill", "Blockbuster", "Blokus",
-    "Blood On The Clocktower", "Boggle", "Candyland", "Carcassonne", "Cards Against Humanity",
-    "Catan", "Catan (5-6 Player Expansion)", "Catan- Family Edition", "Chameleon", "Checkers",
-    "Chess", "Chutes and Ladders", "Circadians- First Light", "Clank!", "Clue", "Cockroach Poker",
-    "Codenames", "Connect 4", "Coup", "Deadwood 1876", "Dice Hospital", "Dice Hospital- Deluxe Add Ons",
-    "Dice Settlers", "Dixit", "Don’t Mix It", "Donner Dinner Party", "Doomlings", "Doomlings",
-    "Doomrock", "Double Bananagrams", "Double Bananagrams", "Dragonwood", "Dungeon!", "Dutch Blitz",
-    "Escape Room", "Evolution- The Beginning", "Exploding Kittens", "Fakin' It", "Five Crowns",
-    "Forbidden Island", "Galactic Quest", "Game of Life", "Gentes", "Guess Who", "Herbaceous",
-    "Here To Slay", "High Hand", "Hollywood 1947", "How to Rob a Bank", "Inis", "Jenga", "King of Tokyo",
-    "Legendary", "Love Letter", "Magic the Gathering- Planeswalkers", "Mancala", "Marvel- Champions",
-    "Minecraft- Card Game", "Monopoly", "Monopoly Speed", "Munchkin Apocalypse", "Mysterium",
-    "Nuke Your Friends", "One Night Ultimate Werewolf", "Operation", "Phase 10", "Pictionary",
-    "Poetry for Neanderthals", "Pot de Vin", "Quoridor", "Risk", "Root", "Rummy-O", "Salem 1692",
-    "Scrabble", "Secret Hitler", "Sequence", "Sorry", "Sorry! Sliders", "Space Gate Odyssey", "Taboo",
-    "Tacocat Spelled Backwards", "The Game Of Life", "The Oregon Trail", "Throw Throw Burrito",
-    "Ticket to Ride", "Tortuga 1667", "Trial By Trolley", "Trivial Pursuit: Classic Edition", "Trouble",
-    "Two Rooms and a Boom", "Uno!", "Yahtzee"
+  "5 Minute Dungeon",
+  "7 wonders duel",
+  "Afterworld",
+  "Aggravation",
+  "Anomia",
+  "Azul",
+  "Bananagrams",
+  "Battleship",
+  "Betrayal at Baldur s Gate",
+  "Betrayal at House on the Hill",
+  "Betrayal: Deck of Lost Souls",
+  "Blockbuster",
+  "Blokus",
+  "Blood On The Clocktower",
+  "Boggle",
+  "Candyland",
+  "Carcassonne",
+  "Cards Against Humanity",
+  "Catan",
+  "Catan (5-6 Player Expansion)",
+  "Catan- Family Edition",
+  "Catan: Seafarers",
+  "Chameleon",
+  "Cheating Moth",
+  "Checkers",
+  "Chess",
+  "Chutes and Ladders",
+  "Circadians- First Light",
+  "Clank!",
+  "Clue",
+  "Clue: Scooby-Doo 50th Anniversary Edition",
+  "Cockroach Poker",
+  "Codenames",
+  "Connect 4",
+  "Coup",
+  "Deadwood 1876",
+  "Dice Hospital",
+  "Dice Hospital- Deluxe Add Ons",
+  "Dice Settlers",
+  "Dixit",
+  "Dominion",
+  "Don t Mix It",
+  "Donner Dinner Party",
+  "Doomlings",
+  "Doomrock",
+  "Double Bananagrams",
+  "Dragonwood",
+  "Dungeon!",
+  "Dutch Blitz",
+  "Escape Room",
+  "Evolution- The Beginning",
+  "Exploding Kittens",
+  "Fakin It",
+  "Five Crowns",
+  "Flip 7",
+  "Forbidden Island",
+  "Full Throttle!",
+  "Galactic Quest",
+  "Game of Life",
+  "Gentes",
+  "Giant UNO",
+  "Guess Who",
+  "Head Trip",
+  "Herbaceous",
+  "Here To Slay",
+  "High Hand",
+  "Hollywood 1947",
+  "How to Rob a Bank",
+  "Hungry Hungry Hippos",
+  "Inis",
+  "Jenga",
+  "King of Tokyo",
+  "Legendary",
+  "Love Letter",
+  "Magic the Gathering- Planeswalkers",
+  "Mancala",
+  "Marvel- Champions",
+  "Minecraft- Card Game",
+  "Monopoly",
+  "Monopoly Speed",
+  "Munchkin Apocalypse",
+  "Mysterium",
+  "Neighborhoodies",
+  "Nuke Your Friends",
+  "One Night Ultimate Werewolf",
+  "Operation",
+  "Outburst!",
+  "Pachisi",
+  "Pandemic",
+  "Phase 10",
+  "Pictionary",
+  "Poetry for Neanderthals",
+  "Pot de Vin",
+  "Quacks",
+  "Quoridor",
+  "Riichi Mahjong",
+  "Risk",
+  "Root",
+  "Rummy-O",
+  "Salem 1692",
+  "Scrabble",
+  "Secret Hitler",
+  "Sequence",
+  "Sheriff of Nottingham",
+  "Skull",
+  "Sorry",
+  "Sorry! Sliders",
+  "Space Gate Odyssey",
+  "Taboo",
+  "Tacocat Spelled Backwards",
+  "Tapple",
+  "Telestrations",
+  "The Game Of Life",
+  "The Oregon Trail",
+  "Throw Throw Burrito",
+  "Ticket to Ride",
+  "Time s Up!",
+  "Tortuga 1667",
+  "Trial By Trolley",
+  "Trivial Pursuit: Classic Edition",
+  "Trouble",
+  "Twister",
+  "Two Rooms and a Boom",
+  "Ultimate Werewolf: Extreme",
+  "Uno!",
+  "Wallet",
+  "Wavelength",
+  "Werewords",
+  "Yahtzee"
 ];
 
 /* HOW TO DOWNLOAD NEW ENTRIES
@@ -98,13 +212,18 @@ const games = [
 * add the file name into the const fileNames found in bgc-app.js
 */
 const gamesWithIDs = '207830,68448,22475,2272,67877,27225,2425,228660,10547,272438,2453,240980,1293,5048,822,50381,13,147240,227072,2083,171,5432,264052,201808,1294,11971,178900,2719,131357,245197,218121,230267,37196,354018,219638,324413,149241,76322,933,1339,148203,425677,201248,172225,432327,1472,65244,266079,217780,4143,195314,299252,3144,370621,232079,155821,2452,70323,129437,277085,167698,2448,186265,1406,295824,112869,181304,147949,3737,1258,197641,312786,232078,624,181,237182,811,175549,320,188834,2375,313121,37196,266179,1111,333373,172307,205322,274533,9209,218530,282171,248702,1410,134352,2223,2243';
-saveBoardGameData(gamesWithIDs);
+const newGamesWithIDS = '426916,105593,262543,219215,4862,108018,244521,2136,1353,92415,218460,318074,157969,344408,46213,325,230802,5895,415508,36218,5894,173346,420087,232300,311920,129556,402150,30549';
+
+saveBoardGameData(newGamesWithIDS);
 
 const outputFile = path.join(__dirname, 'game_ids.txt');
 
 async function fetchGameID(gameName) {
     try {
         const response = await axios.get(`https://boardgamegeek.com/xmlapi2/search`, {
+            headers: {
+                'Authorization': 'Bearer apitoken'
+            },
             params: { query: gameName, type: 'boardgame' }
         });
         const xml = response.data;

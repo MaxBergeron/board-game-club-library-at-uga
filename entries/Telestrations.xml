@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="46213">
+         <thumbnail>https://cf.geekdo-images.com/Dd94J37Oi1tgL7HAAaOfAQ__small/img/CcgassIExgVh2dwANVY_Srp6be0=/fit-in/200x150/filters:strip_icc()/pic8855812.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Dd94J37Oi1tgL7HAAaOfAQ__original/img/SAMxnv21q2rwvViEOu2nti4H0Is=/0x0/filters:format(jpeg)/pic8855812.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Telestrations" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Esquissé?" />
+			    				
+				<name type="alternate" sortindex="1" value="Huhupuheita" />
+			    				
+				<name type="alternate" sortindex="1" value="Huhupuheita 2.0" />
+			    				
+				<name type="alternate" sortindex="1" value="Interferencias" />
+			    				
+				<name type="alternate" sortindex="1" value="Képzavar" />
+			    				
+				<name type="alternate" sortindex="1" value="Passa o Desenho" />
+			    				
+				<name type="alternate" sortindex="1" value="Podaj dalej!" />
+			    				
+				<name type="alternate" sortindex="1" value="Pošli to dál" />
+			    				
+				<name type="alternate" sortindex="1" value="Ryktet går" />
+			    				
+				<name type="alternate" sortindex="1" value="Ryktet går 2.0" />
+			    				
+				<name type="alternate" sortindex="1" value="Sig det videre" />
+			    				
+				<name type="alternate" sortindex="1" value="Stille Post Extrem" />
+			    				
+				<name type="alternate" sortindex="1" value="TeleSketch" />
+			    				
+				<name type="alternate" sortindex="1" value="Telestrations El Original" />
+			    				
+				<name type="alternate" sortindex="1" value="Wat schets je me nou?!" />
+			    				
+				<name type="alternate" sortindex="1" value="Σκιτσομπερδέματα" />
+			    				
+				<name type="alternate" sortindex="1" value="Испорченный телефон" />
+			    				
+				<name type="alternate" sortindex="1" value="วาด วาด ทาย ทาย" />
+			    				
+				<name type="alternate" sortindex="1" value="テレストレーション" />
+			    				
+				<name type="alternate" sortindex="1" value="傳情畫意" />
+			    				
+				<name type="alternate" sortindex="1" value="텔레스트레이션" />
+			
+						               													<description>The award-winning party game Telestrations will get your family and friends laughing as they draw what they see, then guess what they saw for hours of hilarious miscommunication. All players simultaneously sketch, pass, and guess while revealing laugh-out-loud and unpredictable outcomes!
+
+</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="244">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="180" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="180" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="174" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="70" />
+					<result value="Not Recommended" numvotes="120" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="126" />
+					<result value="Not Recommended" numvotes="63" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="66" />
+					<result value="Recommended" numvotes="148" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="75" />
+					<result value="Recommended" numvotes="118" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="192" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="42" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="69" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 8 players" />
+  <result name="recommmendedwith" value="Recommended with 5–8+ players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="64">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="11" />
+					<result value="8" numvotes="34" />
+					<result value="10" numvotes="13" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="29">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="16" />
+					<result level="5" value="Unplayable in another language" numvotes="3" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3096" value="Drawing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63161" value="Components: Dry Erase Markers / Dry Erase Surfaces" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75031" value="Components: Sand Timers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="49650" value="Game: Telestrations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48868" value="Mechanism: Drawing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66334" value="Mechanism: Give a Clue / Get a Clue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="350518" value="Telestrations: 80s &amp; 90s Expansion Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="316848" value="Telestrations: Twist Gaming Promo Card" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="460891" value="Esquissé ?: Édition Adultes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="153016" value="Telestrations: 12 Player Party Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="216798" value="Telestrations: 6 Player Party Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="173761" value="Telestrations: After Dark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="302463" value="Telestrations: Upside Drawn" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="403" value="Användbart Litet Företag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="792" value="Crown &amp; Andrews Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2400" value="Desyllas Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="454" value="Goliath Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="153" value="Ideal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23031" value="Magellan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10970" value="MESAboardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31036" value="Plasto" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28648" value="Randolph" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="Rexhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22609" value="テンデイズゲームズ (TendaysGames)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37800" value="WOW! (Plasto World of Entertainment AB)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27490" value="WOW! (What a World of Entertainment AB)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="21069" />
+			<average value="7.37703" />
+			<bayesaverage value="7.14553" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="354" bayesaverage="7.14553" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="20" bayesaverage="7.22945" />
+												</ranks>
+
+			<stddev value="1.39341" />
+			<median value="0" />
+			<owned value="33052" />
+			<trading value="361" />
+			<wanting value="185" />
+			<wishing value="2690" />
+			<numcomments value="3370" />
+			<numweights value="507" />
+			<averageweight value="1.069" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

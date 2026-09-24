@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="230802">
+         <thumbnail>https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__small/img/ccsXKrdGJw-YSClWwzVUwk5Nh9Y=/fit-in/200x150/filters:strip_icc()/pic6973671.png</thumbnail>
+      <image>https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__original/img/AkbtYVc6xXJF3c9EUrakklcclKw=/0x0/filters:format(png)/pic6973671.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Azul Mini" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul Міні" />
+			    				
+				<name type="alternate" sortindex="1" value="アズール" />
+			    				
+				<name type="alternate" sortindex="1" value="アズール ミニ" />
+			    				
+				<name type="alternate" sortindex="1" value="花磚物語" />
+			    				
+				<name type="alternate" sortindex="1" value="아줄" />
+			    				
+				<name type="alternate" sortindex="1" value="아줄 미니" />
+			
+						               													<description>Introduced by the Moors, azulejos (originally white and blue ceramic tiles) were fully embraced by the Portuguese when their king Manuel I, on a visit to the Alhambra palace in Southern Spain, was mesmerized by the stunning beauty of the Moorish decorative tiles. The king, awestruck by the interior beauty of the Alhambra, immediately ordered that his own palace in Portugal be decorated with similar wall tiles. As a tile-laying artist, you have been challenged to embellish the walls of the Royal Palace of Evora.
+
+In the game Azul, players take turns drafting colored tiles from suppliers to their player board. Later in the round, players score points based on how they've placed their tiles to decorate the palace. Extra points are scored for specific patterns and completing sets; wasted supplies harm the player's score. The player with the most points at the end of the game wins.
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1901">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="1223" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1103" />
+					<result value="Recommended" numvotes="639" />
+					<result value="Not Recommended" numvotes="55" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="721" />
+					<result value="Recommended" numvotes="919" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="426" />
+					<result value="Recommended" numvotes="1047" />
+					<result value="Not Recommended" numvotes="162" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="1028" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="446">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="5" />
+					<result value="5" numvotes="20" />
+					<result value="6" numvotes="101" />
+					<result value="8" numvotes="234" />
+					<result value="10" numvotes="72" />
+					<result value="12" numvotes="12" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="106">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="106" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1070" value="Renaissance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2829" value="Turn Order: Claim Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5614" value="Country: Portugal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104952" value="Digital Implementations: Apple App Store" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56419" value="Theme: Art" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62270" value="Versions &amp; Editions: Travel Versions of Non-Travel Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="294345" value="Azul: Crystal Mosaic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235739" value="Azul: Joker Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="466334" value="Azul: Promo Collection 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264017" value="Azul: Special Factories Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257590" value="Deutscher Spielepreis 2018 Goodie Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293240" value="Super Power" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="475614" value="Azul:  Colorblind Friendly Boards Sticker Upgrade Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="294888" value="Azul: 2 Player Gaming Mat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="437892" value="Azul: Braille Accessibility Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="248957" value="Azul: Collector&#039;s Tile Set 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="248958" value="Azul: Collector&#039;s Tile Set 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="330388" value="Azul: Collector&#039;s Tile Set 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="347428" value="Azul: Collector&#039;s Tile Set 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="347429" value="Azul: Collector&#039;s Tile Set 5" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="330387" value="Azul: Collector&#039;s Tile Set 6" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="256366" value="Azul: Factory Layout Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="248959" value="Azul: First Player Tile" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="474313" value="Azul: Hobby Next Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="366334" value="Azul: Momo Monster Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="250753" value="Azul: Overlays" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="431038" value="Azul Duel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="473359" value="Azul Kids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="363247" value="Azul: Master Chocolatier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="346965" value="Azul: Queen&#039;s Garden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="256226" value="Azul: Stained Glass of Sintra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="287954" value="Azul: Summer Pavilion" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74074" value="Philippe Guérin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38363" value="Next Move Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34188" value="Plan B Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50230" value="Belleville (Бельвіль)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40415" value="Divercentro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46884" value="Green Elephant Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9634" value="KADABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9960" value="Maldón" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40462" value="Orangutan Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39774" value="Tower Tactic Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9215" value="TWOPLUS Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="111025" />
+			<average value="7.71124" />
+			<bayesaverage value="7.60225" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="99" bayesaverage="7.60225" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="3" bayesaverage="7.62688" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="16" bayesaverage="7.61022" />
+												</ranks>
+
+			<stddev value="1.17036" />
+			<median value="0" />
+			<owned value="189108" />
+			<trading value="1099" />
+			<wanting value="948" />
+			<wishing value="16512" />
+			<numcomments value="13749" />
+			<numweights value="2982" />
+			<averageweight value="1.7733" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

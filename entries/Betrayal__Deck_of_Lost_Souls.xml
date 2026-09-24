@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="415508">
+         <thumbnail>https://cf.geekdo-images.com/FKY2-nhXAEaI6h3EDm4a0A__small/img/JyjJc4NqUa4RKTF94oPyUmqBYwI=/fit-in/200x150/filters:strip_icc()/pic9051672.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/FKY2-nhXAEaI6h3EDm4a0A__original/img/WvyyK72IQ4JIJPdBB8lAfgbqxeg=/0x0/filters:format(jpeg)/pic9051672.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Betrayal: Deck of Lost Souls" />
+			
+						                           
+						               													<description>Many lost souls have been lured by the secrets hidden within the House on the Hill. Now an ancient relic&amp;mdash;a cursed deck of cards&amp;mdash;from the darkest reaches of the attic has entrapped you as well! In the Betrayal: Deck of Lost Souls standalone game, a player and their fellow explorers must race to defeat the many horrors lurking within the deck. Play Item cards to defeat Omens and Curses, but beware! There may be a traitor in the group, working against the others to unleash the one true Curse.
+
+Take on Secret Roles
+Everyone is assigned a secret role: play as one of several explorers working together to defeat Omens and Curses. But beware, someone might be the traitor trying to stop the others from defeating the true Curse.
+
+Use Items to Defeat Omens and Curses
+Each Omen and Curse requires different Item cards to defeat it, so explorers strategize to help each other get the Items they need.
+
+How to Win
+If the explorers have the Items needed to defeat the true Curse at the end of the game, they win! If they don&amp;rsquo;t, the traitor wins.
+
+</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2814" value="Traitor Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77906" value="Misc: DIZED Tutorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54060" value="Series: Betrayal (Avalon Hill)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62258" value="Versions &amp; Editions: Card Versions of Non-Card Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3440" value="Bruce Glassco" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4871" value="Avalon Hill" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="192" />
+			<average value="5.49766" />
+			<bayesaverage value="5.49154" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="28300" bayesaverage="5.49154" />
+												</ranks>
+
+			<stddev value="2.05281" />
+			<median value="0" />
+			<owned value="1574" />
+			<trading value="28" />
+			<wanting value="5" />
+			<wishing value="109" />
+			<numcomments value="75" />
+			<numweights value="6" />
+			<averageweight value="2.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

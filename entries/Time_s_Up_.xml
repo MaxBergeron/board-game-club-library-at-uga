@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1353">
+         <thumbnail>https://cf.geekdo-images.com/eXgj9wE-fRfd4ZfW6PcjIw__small/img/-eVeJ2xAfaLeEtO5EutEIi1Ce5M=/fit-in/200x150/filters:strip_icc()/pic3690440.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/eXgj9wE-fRfd4ZfW6PcjIw__original/img/0MM3j-vUQmrabkHVSC0m49cH4TQ=/0x0/filters:format(jpeg)/pic3690440.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Time&#039;s Up!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Fíaskó" />
+			    				
+				<name type="alternate" sortindex="1" value="Time&#039;s Up" />
+			    				
+				<name type="alternate" sortindex="1" value="Time&#039;s Up! Celebrity 1" />
+			    				
+				<name type="alternate" sortindex="1" value="Time&#039;s Up! Celebrity 2" />
+			
+						               													<description>Time's Up! is a charades-based party game for teams of two or more players (and is best with teams of two). Before the game begins, each player looks at several cards featuring famous historical or fictional characters and chooses some of them. Each player's cards are shuffled to form a deck, and this deck of famous names is used for each of the game's three rounds.
+
+In each round, team members take turns trying to get their teammates to guess as many names as possible in 30 seconds. In round 1, almost any kind of clue is allowed, and the cluegiver cannot pass on a card. In round 2, no more than one word can be used in each clue (but unlimited sounds and gestures are permitted); the cluegiver can pass on any card he likes, and the teammates can give only a single answer. In round 3, the cluegiver can use no words at all and can pass as often as he likes; again, teammates are allowed only a single guess. Give good physical clues in round 1, and they'll pay dividends down the road when you need to keep your mouth shut and gesture like a maniac before time's up!
+
+Time's Up! is based on the public domain game known as Celebrities.  Also known as Salad Bowl or Fish Bowl.
+
+</description>
+										      	               				<yearpublished value="1999" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="18" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="73">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="52" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="52" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="49" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="53" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="34" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="39" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="11">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+			
+		<results numplayers="12">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="13">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="42" />
+				</results>					
+			
+		<results numplayers="14">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="34" />
+				</results>					
+			
+		<results numplayers="15">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="16">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+			
+		<results numplayers="17">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="44" />
+				</results>					
+			
+		<results numplayers="18">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+			
+		<results numplayers="18+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="40" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6, 8 players" />
+  <result name="recommmendedwith" value="Recommended with 4, 6, 8–10, 12 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="22">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="11" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="24">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="14" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2073" value="Acting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75031" value="Components: Sand Timers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8878" value="Game: Time&#039;s Up!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6042" value="Traditional Games: Charades" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="14536" value="Time&#039;s Up! Expansion set #1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="14537" value="Time&#039;s Up! Expansion set #2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="60165" value="Time&#039;s Up! Game Geek Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204243" value="Time&#039;s Up! Limited Edition Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="101701" value="Time&#039;s Up!: de Troy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264311" value="Time&#039;s Up!: Dice Tower Expansion Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="376630" value="Time&#039;s Up!: Game Boy Geek 2022 Promo Card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="188689" value="Time&#039;s Up: Blank Cards" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="320582" value="Bob&#039;s Your Uncle" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="447391" value="Teams by EXIN Fiesta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="462134" value="Time&#039;s Up Express" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="46158" value="Time&#039;s Up! Academy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="37141" value="Time&#039;s Up! Deluxe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="57660" value="Time&#039;s Up! Edición Azul" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="400733" value="Time&#039;s Up! Family Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="174219" value="Time&#039;s Up! Kids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="38713" value="Time&#039;s Up! Party" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="230262" value="Time&#039;s Up! Party Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="36553" value="Time&#039;s Up! Title Recall!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="376700" value="Time&#039;s Up!: 21st Anniversary Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="427179" value="Time&#039;s Up!: Festival International des Jeux" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="567" value="Peter Sarrett" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28191" value="Jennifer Vargas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20048" value="John Vetter" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="105" value="R&amp;R Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5787" value="Morapiaf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2778" value="Pro Ludo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4384" value="Repos Production" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26421" value="Tíkallinn" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6317" />
+			<average value="7.27798" />
+			<bayesaverage value="6.77563" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="801" bayesaverage="6.77563" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="32" bayesaverage="7.04462" />
+												</ranks>
+
+			<stddev value="1.61612" />
+			<median value="0" />
+			<owned value="6916" />
+			<trading value="135" />
+			<wanting value="101" />
+			<wishing value="1044" />
+			<numcomments value="1268" />
+			<numweights value="343" />
+			<averageweight value="1.2012" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

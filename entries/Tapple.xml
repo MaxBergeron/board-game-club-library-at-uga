@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="129556">
+         <thumbnail>https://cf.geekdo-images.com/ug2wHUhS3E-LA_lmLQYyNQ__small/img/oRSQkTP3qWvIF8b1ssOdesOxUmM=/fit-in/200x150/filters:strip_icc()/pic6650117.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ug2wHUhS3E-LA_lmLQYyNQ__original/img/Z3Gm2AVnrwffFW2LU10hg5k9Pt8=/0x0/filters:format(jpeg)/pic6650117.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Tapple" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="¡Basta! El Original" />
+			    				
+				<name type="alternate" sortindex="1" value="Last Letter Standing" />
+			    				
+				<name type="alternate" sortindex="5" value="The Original Tapple: Mini" />
+			    				
+				<name type="alternate" sortindex="1" value="Pim Pam Pet: Revanche" />
+			    				
+				<name type="alternate" sortindex="1" value="Pim Pam Pet: The Battle" />
+			    				
+				<name type="alternate" sortindex="1" value="Pulsa el primero: New Generation" />
+			    				
+				<name type="alternate" sortindex="1" value="Tapple: Disney Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Think! Words" />
+			    				
+				<name type="alternate" sortindex="1" value="Too Late... ¡Pulsa Rápido!" />
+			    				
+				<name type="alternate" sortindex="1" value="Villámválasz" />
+			    				
+				<name type="alternate" sortindex="1" value="تحدي الحروف" />
+			    				
+				<name type="alternate" sortindex="1" value="แท็ปเปิล" />
+			    				
+				<name type="alternate" sortindex="1" value="字母瘋火輪" />
+			
+						               													<description>Each round in Tapple, one player draws a topic card, then starts the timer. In the next ten seconds, that player must give a single word answer that fits within the topic, press down the letter key in a special electronic device that corresponds to the first letter of that word, and restart the timer. The next player must then think of a word for the topic that starts with a different letter, press down that starting letter, and restart the timer.
+
+If a player runs out of time, they're out for the round. If only one player remains in a round, they collect the topic card. If players manage to press down all of the letters before knocking all but one player out of a round, the players reset the device, draw a new topic card, then start the timer again, this time needing to give two answers for the topic &amp;ndash; each starting with a different letter &amp;mdash; within the allotted time. Whoever collects the most topic cards wins!
+
+</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="26">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4–6 players" />
+  <result name="recommmendedwith" value="Recommended with 2–8 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="3" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1072" value="Electronic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3007" value="Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3113" value="Spelling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19408" value="Series: Pim Pam Pet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8041" value="Traditional Games: Categories / Guggenheim" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62862" value="Word Games: First Letter Given" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="422395" value="Tapple: After Dark" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="65396" value="NPD Partnership Ltd. (NPD Toys)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2907" value="Bizak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34501" value="Boardgame Space" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="496" value="danspil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50296" value="Formatex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47284" value="Fotorama de México" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3490" value="HUCH!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="153" value="Ideal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="335" value="Jumbo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36210" value="Lanlalen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2993" />
+			<average value="6.43574" />
+			<bayesaverage value="5.98154" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3341" bayesaverage="5.98154" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="227" bayesaverage="6.18437" />
+												</ranks>
+
+			<stddev value="1.26083" />
+			<median value="0" />
+			<owned value="8077" />
+			<trading value="89" />
+			<wanting value="40" />
+			<wishing value="495" />
+			<numcomments value="547" />
+			<numweights value="51" />
+			<averageweight value="1.0196" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

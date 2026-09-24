@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="92415">
+         <thumbnail>https://cf.geekdo-images.com/GVbKORueiHezUaLfVZKlfQ__small/img/SYBZPyB6pEutOcrTDg1KHhjFPR8=/fit-in/200x150/filters:strip_icc()/pic9315848.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/GVbKORueiHezUaLfVZKlfQ__original/img/_IQj5yyk9dqRo1x15a9u4qoMDGE=/0x0/filters:format(jpeg)/pic9315848.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Skull" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Gringo" />
+			    				
+				<name type="alternate" sortindex="1" value="Skull &amp; Roses" />
+			    				
+				<name type="alternate" sortindex="1" value="Skull &amp; Roses Black" />
+			    				
+				<name type="alternate" sortindex="1" value="Skull &amp; Roses Red" />
+			    				
+				<name type="alternate" sortindex="1" value="Skull: Koponyák játéka" />
+			    				
+				<name type="alternate" sortindex="1" value="Череп" />
+			    				
+				<name type="alternate" sortindex="1" value="جمجمة" />
+			    				
+				<name type="alternate" sortindex="1" value="สกัล" />
+			    				
+				<name type="alternate" sortindex="1" value="スカル" />
+			    				
+				<name type="alternate" sortindex="1" value="骷髅牌" />
+			    				
+				<name type="alternate" sortindex="1" value="스컬" />
+			
+						               													<description>Edited description from Bruno Faidutti's write-up of the game in his Ideal Game Library:
+
+Skull &amp; Roses is the quintessence of bluffing, a game in which everything is played in the players' heads. Each player plays a face-down card, then each player in turn adds one more card &amp;ndash; until someone feels safe enough to state that they can turn a number of cards face up and get only roses. Other players can then overbid them, saying they can turn even more cards face up. The highest bidder must then turn that number of cards face up, starting with their own. If they show only roses, they win; if they reveal a skull, they lose, placing one of their cards out of play. Two successful challenges wins the game. Skull &amp; Roses is not a game of luck; it's a game of poker face and meeting eyes.
+
+Skull &amp; Roses Red features the same gameplay as Skull &amp; Roses, with the only change being alternate rules that allow each player to control two biker gangs. Both Skull &amp; Roses Red and Skull are playable on their own, with each game containing six different biker gangs. Each Skull or Skull &amp; Roses set can be combined with another to allow for games with more than six players.
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="343">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="249" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="252" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="136" />
+					<result value="Not Recommended" numvotes="124" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="96" />
+					<result value="Recommended" numvotes="200" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="228" />
+					<result value="Recommended" numvotes="73" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="187" />
+					<result value="Recommended" numvotes="96" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="46" />
+					<result value="Not Recommended" numvotes="138" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5–6 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="79">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="4" />
+					<result value="6" numvotes="9" />
+					<result value="8" numvotes="44" />
+					<result value="10" numvotes="14" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="46">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="46" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2919" value="Auction: Turn Order Until Pass" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3097" value="Bids As Wagers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3006" value="Predictive Bid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="113298" value="Components: Drink Coasters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64385" value="Holidays: Day of the Dead" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="148615" value="Gringo: Polar Bear" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="346093" value="Skull: Aztec" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1318" value="Hervé Marly" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="44887" value="Rose Kipik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="213" value="Thomas Vuarchex" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2024" value="Lui-même" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34501" value="Boardgame Space" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23205" value="DiceTree Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="58739" value="Geekach LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5350" value="Granna" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44407" value="Nordic Games ehf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25842" value="Space Cowboys" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="29287" />
+			<average value="7.16583" />
+			<bayesaverage value="7.00755" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="503" bayesaverage="7.00755" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="36" bayesaverage="7.02596" />
+												</ranks>
+
+			<stddev value="1.40044" />
+			<median value="0" />
+			<owned value="48541" />
+			<trading value="361" />
+			<wanting value="422" />
+			<wishing value="5204" />
+			<numcomments value="4462" />
+			<numweights value="698" />
+			<averageweight value="1.1175" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="108018">
+         <thumbnail>https://cf.geekdo-images.com/62j0mEWiwuyZixScOzwEnA__small/img/momsWLUZJUTVdxpNbJaCqu-Rxak=/fit-in/200x150/filters:strip_icc()/pic4667546.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/62j0mEWiwuyZixScOzwEnA__original/img/sx6PwhoQPB7ltdxFhtK42Gzq9tE=/0x0/filters:format(jpeg)/pic4667546.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Riichi Mahjong" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Japanese Mahjong" />
+			    				
+				<name type="alternate" sortindex="1" value="Reach Mahjong" />
+			    				
+				<name type="alternate" sortindex="1" value="리치마작" />
+			
+						               													<description>Japanese Mahjong, especially called Riichi Mahjong (リーチ・マージャン）, is a very specific remake from Japan of the traditional Chinese Mahjong. It is as close and yet far from Chinese Mahjong as Sh&amp;ocirc;gi (Japanese Chess) can be the same and yet different from original Chess. Mahjong was brought to Japan in 1904, but the Riichi form that is used in modern times probably originated from the 1920s. Today, the worldwide famous Mahjong Association officially recognized the complete rules of Riichi Mahjong for Tournaments.
+
+The main differences are :
+1) The 1-Yaku minimum: In order to win a hand, it can only be validated when your hand has at least one of the Yaku (specific hand combinations) in it.
+2) Dora: A specific bonus tiles are indicated by the flipped tile from the dead wall and providing other possible Han bonus.
+3) Riichi: When a player is Tenpai (one tile away from having a Mahjong hand, valid or not), he can bet a 1000 points chip to add one Yaku to his hand (thus validating a possible invalid hand).  Winning with a Riichi hand allows access to the hidden ura-dora, which is an added dora indicator located underneath the revealed dora tile.
+4) Abortive draws: Specific conditions, which ends a hand without winning prior to the drawing of all tiles, aside from the dead wall.
+5) Scoring system: Much more complex than in Chinese Mahjong, it is based on hand combinations (Yaku) providing multipliers (Han) that combine with some other circumstantial points like the type of tiles in the hand (Fu) for any 4 han or less.  The combination of Han and Fu correspond to a chart (and even an equation) to finally produce the hand's scoring points (Ten).
+
+Some other minor elements in the Riichi Mahjong differ from the original Mahjong but are not important enough to be fully mentioned, like the Red 5 tiles (a non-official variant sometimes used which gives bonus like the Dora) or the validation of some Yaku (when the hand must be kept hidden or not, depending on the Japanese region where the game is played).
+
+</description>
+										      	               				<yearpublished value="1920" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="32">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="8" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13437" value="Traditional Games: Mahjong" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2093" value="Mahjong" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="866" />
+			<average value="8.30838" />
+			<bayesaverage value="6.15403" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2435" bayesaverage="6.15403" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="49" bayesaverage="6.85984" />
+												</ranks>
+
+			<stddev value="1.71245" />
+			<median value="0" />
+			<owned value="964" />
+			<trading value="5" />
+			<wanting value="9" />
+			<wishing value="121" />
+			<numcomments value="167" />
+			<numweights value="64" />
+			<averageweight value="3.6406" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

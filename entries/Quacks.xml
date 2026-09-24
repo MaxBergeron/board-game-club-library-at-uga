@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="244521">
+         <thumbnail>https://cf.geekdo-images.com/B1bLRWzTASZ-xx9NoAE79A__small/img/deG3pr-ORZ3JrGvQA-oQNrwh0l0=/fit-in/200x150/filters:strip_icc()/pic8780293.png</thumbnail>
+      <image>https://cf.geekdo-images.com/B1bLRWzTASZ-xx9NoAE79A__original/img/HulJk6gFzp_bxl0wzc2XEMq8NLM=/0x0/filters:format(png)/pic8780293.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Quacks" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Les Charlatans de Belcastel" />
+			    				
+				<name type="alternate" sortindex="1" value="Ciarlatani di Quedlinburgo" />
+			    				
+				<name type="alternate" sortindex="1" value="Kuruzslók Quedlinburgban" />
+			    				
+				<name type="alternate" sortindex="1" value="Kvacksalvare" />
+			    				
+				<name type="alternate" sortindex="1" value="Kvakksalver" />
+			    				
+				<name type="alternate" sortindex="1" value="Kvaksalver" />
+			    				
+				<name type="alternate" sortindex="1" value="Kvedlalové z Kvedlinburku" />
+			    				
+				<name type="alternate" sortindex="1" value="Kvedlinburgas pūšļotāji" />
+			    				
+				<name type="alternate" sortindex="1" value="Kvedlinburgi soolapuhujad" />
+			    				
+				<name type="alternate" sortindex="4" value="De Kwakzalvers van Kakelenburg" />
+			    				
+				<name type="alternate" sortindex="1" value="Pócimas y Brebajes" />
+			    				
+				<name type="alternate" sortindex="5" value="The Quacks of Quedlinburg" />
+			    				
+				<name type="alternate" sortindex="1" value="Quacks: Deluxe Edition" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Quacksalber von Quedlinburg" />
+			    				
+				<name type="alternate" sortindex="1" value="Räävelin Rohtotohtorit" />
+			    				
+				<name type="alternate" sortindex="1" value="Szarlatani z Pasikurowic" />
+			    				
+				<name type="alternate" sortindex="1" value="Οι Τσαρλατάνοι του Κουέντλινμπουργκ" />
+			    				
+				<name type="alternate" sortindex="1" value="Пройдисвіти Кведлінбурга" />
+			    				
+				<name type="alternate" sortindex="1" value="Шарлатаны из Кведлинбурга" />
+			    				
+				<name type="alternate" sortindex="1" value="שוק השיקויים" />
+			    				
+				<name type="alternate" sortindex="1" value="جادوگران" />
+			    				
+				<name type="alternate" sortindex="1" value="クアックサルバー" />
+			    				
+				<name type="alternate" sortindex="1" value="郎中闖江湖" />
+			    				
+				<name type="alternate" sortindex="1" value="郎中闖江湖Q版" />
+			    				
+				<name type="alternate" sortindex="1" value="크베들린부르크의 돌팔이 약장수" />
+			
+						               													<description>In Quacks, which was first released as The Quacks of Quedlinburg, players are charlatans &amp;mdash; or quack doctors &amp;mdash; each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!
+
+Each player has their own bag of ingredient chips. During each round, they simultaneously draw chips from their bags and add them to their pots. The higher the face value of the drawn chip, the further it is placed in the pot's swirling pattern, increasing how much the potion will be worth. Push your luck as far as you can, but if you add too many cherry bombs, your pot will explode!
+
+At the end of each round, players gain victory points and coins to spend on new ingredients, depending on how well they managed to fill up their pots. But players whose pots have exploded must choose points or coins &amp;mdash; not both! The player with the most victory points at the end of nine rounds wins the game.
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="816">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="487" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="129" />
+					<result value="Recommended" numvotes="526" />
+					<result value="Not Recommended" numvotes="72" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="312" />
+					<result value="Recommended" numvotes="390" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="575" />
+					<result value="Recommended" numvotes="137" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="51" />
+					<result value="Recommended" numvotes="89" />
+					<result value="Not Recommended" numvotes="308" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="249">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="3" />
+					<result value="5" numvotes="7" />
+					<result value="6" numvotes="64" />
+					<result value="8" numvotes="129" />
+					<result value="10" numvotes="42" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="45">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="10" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="35" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2887" value="Catch the Leader" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2856" value="Die Icon Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3104" value="Neighbor Scope" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2823" value="Score-and-Reset Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73592" value="Components: Gems/Crystals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10643" value="Country: Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57057" value="Game: The Quacks of Quedlinburg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="113768" value="Players: Games with expansions that change player count" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28880" value="Theme: Witches" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257590" value="Deutscher Spielepreis 2018 Goodie Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="333108" value="Extra Loco (fan expansion for The Quacks of Quedlinburg)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="316597" value="The Quacks of Quedlinburg: The Alchemists" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269259" value="The Quacks of Quedlinburg: The Herb Witches" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264019" value="The Quacks of Quedlinburg: Wolfgang&#039;s Exchange Office" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="386375" value="Le Sorcier met la Zizanie (fan expansion for Les Charlatans de Belcastel)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334817" value="The Quacks of Quedlinburg: Laserox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="384007" value="The Quacks of Quedlinburg: Board Bento Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="376859" value="The Quacks of Quedlinburg: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="380643" value="The Quacks of Quedlinburg: Custard Kraken Gem Trays" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="379809" value="The Quacks of Quedlinburg: Custard Kraken Player Piece Upgrade Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="362911" value="The Quacks of Quedlinburg: e-Raptor UV Print Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="415264" value="The Quacks of Quedlinburg: First player token" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="310080" value="The Quacks of Quedlinburg: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="325280" value="The Quacks of Quedlinburg: Folded Space Insert (Second edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="475693" value="The Quacks of Quedlinburg: Fortune Teller Card Tray" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="295956" value="The Quacks of Quedlinburg: GeekUp Bag Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="285658" value="The Quacks of Quedlinburg: GeekUp Bit Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="355068" value="The Quacks of Quedlinburg: GeekUp Bit Set – White Chip Booster Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="355067" value="The Quacks of Quedlinburg: GeekUp Box Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="327770" value="The Quacks of Quedlinburg: Ingredient Cases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="329179" value="The Quacks of Quedlinburg: Insert Cherry Bomb" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="473706" value="The Quacks of Quedlinburg: PolandGames Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="302675" value="The Quacks of Quedlinburg: Quacks&#039; Market – Meeple Realty Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="304995" value="The Quacks of Quedlinburg: The Game Doctors Inlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348627" value="The Quacks of Quedlinburg: The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365782" value="The Quacks of Quedlinburg: Tower Rex Chest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="364902" value="The Quacks of Quedlinburg: WarBox Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="393267" value="The Quacks of Quedlinburg: ZV3DCreations Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="326869" value="The Quacks of Quedlinburg: Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="349955" value="The Quacks of Quedlinburg: MegaBox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="441706" value="Quacks: All-In Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="354886" value="Quacks &amp; Co.: Quedlinburg Dash" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="409496" value="The Quacks of Quedlinburg: The Duel" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80162" value="Wolfgang Warsch" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12484" value="Dennis Lohausen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="167642" value="Ryogo Toyoda" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46474" value="CMYK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14813" value="Compaya.hu: Gamer Café Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52408" value="Games4you" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23382" value="HaKubia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49615" value="Meeple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2164" value="North Star Games, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44340" value="YellowBOX" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="60269" />
+			<average value="7.80066" />
+			<bayesaverage value="7.66417" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="81" bayesaverage="7.66417" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="11" bayesaverage="7.68912" />
+												</ranks>
+
+			<stddev value="1.25429" />
+			<median value="0" />
+			<owned value="96172" />
+			<trading value="537" />
+			<wanting value="1197" />
+			<wishing value="13279" />
+			<numcomments value="7951" />
+			<numweights value="1440" />
+			<averageweight value="1.9431" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

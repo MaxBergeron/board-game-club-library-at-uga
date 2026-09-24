@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="173346">
+         <thumbnail>https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__small/img/gV1-ckZSIC-dCxxpq1Y7GmPITzQ=/fit-in/200x150/filters:strip_icc()/pic2576399.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__original/img/Ju836WNSaW7Mab9Vjq2TJ_FqhWQ=/0x0/filters:format(jpeg)/pic2576399.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="7 Wonders Duel" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="7 Csoda Párbaj" />
+			    				
+				<name type="alternate" sortindex="1" value="7 Cudów Świata: Pojedynek" />
+			    				
+				<name type="alternate" sortindex="1" value="7 Divů světa: Duel" />
+			    				
+				<name type="alternate" sortindex="1" value="7 Чудес: Дуэль" />
+			    				
+				<name type="alternate" sortindex="1" value="7 สิ่งมหัศจรรย์ ดวล" />
+			    				
+				<name type="alternate" sortindex="1" value="7 원더스 대결" />
+			    				
+				<name type="alternate" sortindex="1" value="لعبة مبارزة العجائب السبعة" />
+			    				
+				<name type="alternate" sortindex="1" value="七大奇蹟 對決" />
+			    				
+				<name type="alternate" sortindex="1" value="七大奇迹:对决" />
+			    				
+				<name type="alternate" sortindex="1" value="七大奇迹：对决" />
+			    				
+				<name type="alternate" sortindex="1" value="七大对决" />
+			    				
+				<name type="alternate" sortindex="1" value="世界の七不思議:デュエル" />
+			
+						               													<description>In many ways 7 Wonders Duel resembles its parent game 7 Wonders. Over three ages, players acquire cards that provide resources or advance their military or scientific development in order to develop a civilization and complete wonders. What's different about 7 Wonders Duel is that, as the title suggests, the game is solely for two players.
+
+Players do not draft cards simultaneously from decks of cards, but from a display of face-down and face-up cards arranged at the start of a round. A player can take a card only if it's not covered by any others, so timing comes into play, as it can with bonus moves that allow the player to take a second card immediately. As in the original game, each acquired card can be built, discarded for coins, or used to construct a wonder. Each player also starts with four wonder cards, and the construction of a wonder provides its owner with a special ability. Only seven wonders can be built, though, so one player will end up short.
+
+Players can purchase resources at any time from the bank, or they can gain cards during the game that provide them with resources for future building; as they are acquired, the cost for those resources increases for the opponent, representing the owner's dominance in this area.
+
+You can win 7 Wonders Duel in one of three ways: each time you acquire a military card, you advance the military marker toward your opponent's capital (also giving you a bonus at certain positions). If you reach the opponent's capital, you win the game immediately. Or if you acquire six of seven different scientific symbols, you achieve scientific dominance and win immediately. If none of these situations occurs, then the player with the most points at the end of the game wins.
+
+</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1544">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="110" />
+					<result value="Not Recommended" numvotes="1111" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1493" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1185" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="425">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="10" />
+					<result value="8" numvotes="117" />
+					<result value="10" numvotes="194" />
+					<result value="12" numvotes="88" />
+					<result value="14" numvotes="12" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="132">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="123" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2981" value="Melding and Splaying" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3099" value="Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2846" value="Once-Per-Game Abilities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2823" value="Score-and-Reset Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2884" value="Sudden Death Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3100" value="Tags" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2888" value="Tug of War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27524" value="Ancient: Babylon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72535" value="Ancient: Egypt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="52373" value="Ancient: Greece" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5606" value="Ancient: Rome" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="117160" value="Constructions: Lighthouses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77012" value="Constructions: Pyramids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104952" value="Digital Implementations: Apple App Store" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17552" value="Game: 7 Wonders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39540" value="Game: 7 Wonders Duel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65851" value="Players: Games with expansions that add solo play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62276" value="Versions &amp; Editions: Two-Player Versions of More-Player Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="309116" value="7 Wonders Duel: Agora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="348601" value="7 Wonders Duel: Agora – Tu Quoque Fili Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202976" value="7 Wonders Duel: Pantheon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310215" value="7 Wonders Duel: Solo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="196339" value="7 Wonders Duel: Statue of Liberty Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186069" value="7 Wonders Duel: The Messe Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="274383" value="Leaders (fan expansion for 7 Wonders Duel)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334636" value="7 Cudów Świata: Pojedynek – reDrewno Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="333853" value="7 Wonders Duel + Pantheon + Agora: Eurohell Design Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="354399" value="7 Wonders Duel + Pantheon + Agora: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="347408" value="7 Wonders Duel + Pantheon + Agora: Game Tamer organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="457325" value="7 Wonders Duel + Pantheon + Agora: LaserOx Dueling Wonders Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="333852" value="7 Wonders Duel + Pantheon: Eurohell Design Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291721" value="7 Wonders Duel + Pantheon: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="437379" value="7 Wonders Duel: Braille Accessibility Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="207907" value="7 Wonders Duel: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309490" value="7 Wonders Duel: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="336659" value="7 Wonders Duel: Eurohell Design Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="347023" value="7 Wonders Duel: Gold, silver and bronze Conflict pawns" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428448" value="7 Wonders Duel: Hobby Next Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271935" value="7 Wonders Duel: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306199" value="7 Wonders Duel: Laserox Dueling Wonders Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="219880" value="7 Wonders Duel: Metal Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="186070" value="7 Wonders Duel: Metal Conflict Pawn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="369236" value="7 Wonders Duel: Moedas &amp; Co. Metal Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="212289" value="7 Wonders Duel: Pantheon – Metal Minerva Pawn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="255878" value="7 Wonders Duel: Sagrada Familia Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="373836" value="7 Wonders Duel: Spike Craft Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="228690" value="7 Wonders Duel: Stonehenge Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="448975" value="7 Wonders Duel: The Dicetroyers Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348618" value="7 Wonders Duel: The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="444758" value="7 Wonders Duel: Tokens Garden Metal Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272265" value="7 Wonders Duel: Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="400962" value="7 Wonders: Duel – Playmaty Rubber Mat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="421006" value="The Lord of the Rings: Duel for Middle-earth" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="68448" value="7 Wonders" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9714" value="Antoine Bauza" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1727" value="Bruno Cathala" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12016" value="Miguel Coimbra" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4384" value="Repos Production" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34501" value="Boardgame Space" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50696" value="CoolPlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9634" value="KADABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30399" value="Ludicus Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31904" value="Ponva d.o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36366" value="Pridemage Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32645" value="Sombreros Production" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="110658" />
+			<average value="8.07416" />
+			<bayesaverage value="7.94919" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24" bayesaverage="7.94919" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="27" bayesaverage="7.9138" />
+												</ranks>
+
+			<stddev value="1.20155" />
+			<median value="0" />
+			<owned value="187551" />
+			<trading value="1474" />
+			<wanting value="851" />
+			<wishing value="12415" />
+			<numcomments value="14449" />
+			<numweights value="3466" />
+			<averageweight value="2.2271" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

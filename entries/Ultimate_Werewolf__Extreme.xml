@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="311920">
+         <thumbnail>https://cf.geekdo-images.com/GH3EEJAY-dqzUW9szzlTQQ__small/img/z6LI9OLUw_pnmX_cJM1BSpdGA94=/fit-in/200x150/filters:strip_icc()/pic5478856.png</thumbnail>
+      <image>https://cf.geekdo-images.com/GH3EEJAY-dqzUW9szzlTQQ__original/img/ap80l3gG4_U9OQZZdGBQjPkCwL4=/0x0/filters:format(png)/pic5478856.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ultimate Werewolf: Extreme" />
+			
+						                           
+						               													<description>In Ultimate Werewolf Extreme, 3-25 players will use their wits to deceive and uncover deception by fellow players as they attempt to discover who among them is a werewolf. Like traditional werewolf games, Ultimate Werewolf Extreme has all sorts of roles and a moderator to run the game, but Extreme reworks this in several ways:
+
+
+     A free, moderator assisting app that helps create and execute games with ease - automatically scanning each player's face and role using micro QR code technology
+    An abundance of information on each card: role name, role description, role art, team, traditional balance value, info value, moderator difficulty, wake order, wake frequency, game length impact, and special considerations.
+     A new role-balancing system based on information vs. the number of werewolves in any size game.
+     Optional rules to increase difficulty, such as invisible Lycans, alternate nominees, celebrations after werewolf elimination that reduce village abilities, and elected judges that determine whether a nominated player is eliminated or not.
+     Enough cards in the base game to play three simultaneous games of Ultimate Werewolf Extreme.
+
+
+Most importantly, the game is integrated with a new app that makes moderating easier than ever before. No more writing down all of the roles and who is assigned to them, or trying to remember some of the complex interactions that happen when using multiple special abilities. The app has two major parts: A deck configuration tool, and a game moderator assistant. The deck configuration tool creates a deck based on user-set parameters, such as number of players, moderator difficulty, info value, or traditional role balance.
+
+The game moderator assistant automatically scans cards, player names, and player faces, placing them into the app and using that information to run the game. While a moderator is still required to run the game and monitor the app, much of the critical bookkeeping, such as tracking the players who are still in the game, which actions should happen in what order at night, and timing each of the games all happen automatically. This app is not needed to play, but it will make moderating a breeze with a timer, turn order, and loads of special features!
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="25" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="11">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="12">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="13">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="14">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="15">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="16">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="17">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="18">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="19">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="20">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="21">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="22">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="23">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="24">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="25">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="25+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 10–15 players" />
+  <result name="recommmendedwith" value="Recommended with 7–25+ players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1040" value="Murder / Mystery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2814" value="Traitor Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48877" value="Components: Game Trayz Inside" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76693" value="Creatures: Chupacabras" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6428" value="Creatures: Vampires" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62254" value="Creatures: Werewolves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2989" value="Game: Werewolf / Mafia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="102745" value="Ultimate Werewolf: Artifacts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="346935" value="Ultimate Werewolf: Bonus Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="346936" value="Ultimate Werewolf: Pro" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="369190" value="Ultimate Werewolf: Extreme – Collector&#039;s Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="369195" value="Ultimate Werewolf: Extreme – Super Collector&#039;s Edition" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="152241" value="Ultimate Werewolf" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="152242" value="Ultimate Werewolf: Deluxe Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="38159" value="Ultimate Werewolf: Ultimate Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="27682" value="Ultimate Werewolf: Whitebox Edition" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6046" value="Ted Alspach" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="129336" value="Aaron Newman" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="99147" value="Simon Aan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="6046" value="Ted Alspach" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75524" value="Christine Mitzuk" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5774" value="Bézier Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="185" />
+			<average value="7.84892" />
+			<bayesaverage value="5.64989" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7613" bayesaverage="5.64989" />
+												</ranks>
+
+			<stddev value="1.65467" />
+			<median value="0" />
+			<owned value="769" />
+			<trading value="11" />
+			<wanting value="10" />
+			<wishing value="98" />
+			<numcomments value="63" />
+			<numweights value="5" />
+			<averageweight value="2.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

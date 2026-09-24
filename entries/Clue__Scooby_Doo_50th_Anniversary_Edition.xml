@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="318074">
+         <thumbnail>https://cf.geekdo-images.com/1Y38WZfwUxsdycygkNwHRg__small/img/98E5_qXZYFAg_h_ULQ5_pqejqKM=/fit-in/200x150/filters:strip_icc()/pic8425749.png</thumbnail>
+      <image>https://cf.geekdo-images.com/1Y38WZfwUxsdycygkNwHRg__original/img/OYO0V-YxOdusK54ZfwpsfHqG3Xc=/0x0/filters:format(png)/pic8425749.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Clue: Scooby-Doo 50th Anniversary Edition" />
+			
+						                           
+						               													<description>The game largely plays similarly to the regular version of Clue with the following differences.
+
+Personality Cards - These cards show a unique power that is associated with your character. The power can only be used once per game.
+
+"?" Cards - If you land on a question mark, roll a question mark, or are moved into a location to be questioned, you may draw a ? card. There are two types:
+
+Munchies - If you draw one of these, i means you've found a snack. In addition, you get a bonus power. Unless the power says "Play this card immediately", you may choose when to play it. You can play as many cards as you like on any turn and discard them after use.
+
+Monster - Eight are in the deck. The first 7 are set aside when drawn, but if you draw the 8th, you are out of the game. Place your cards face up where all players can see them. Shuffle the 8th monster card back into the "?" deck as it may be drawn again.
+
+2 Player or teams do not use the ? cards. With just 2 players or teams, take the top 5 cards from the deck and place them face down next to the game board during set up.
+During the game, ask questions as normal. If the other player/team must always try to answer. If they cannot, you look at one of the 5 cards set aside during setup.
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4–5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1040" value="Murder / Mystery" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71" value="Game: Cluedo / Clue (Parker Brothers, et al)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5714" value="TV Shows: Scooby-Doo!" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="63" />
+			<average value="7.16667" />
+			<bayesaverage value="5.53509" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15804" bayesaverage="5.53509" />
+												</ranks>
+
+			<stddev value="1.25988" />
+			<median value="0" />
+			<owned value="315" />
+			<trading value="3" />
+			<wanting value="4" />
+			<wishing value="31" />
+			<numcomments value="17" />
+			<numweights value="4" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

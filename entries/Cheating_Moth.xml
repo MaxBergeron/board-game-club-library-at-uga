@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="105593">
+         <thumbnail>https://cf.geekdo-images.com/7w7ht4bmAnu0j-_qgcYPiQ__small/img/KgN5mpV6DK97ixi5jey_4vqvAss=/fit-in/200x150/filters:strip_icc()/pic2220182.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/7w7ht4bmAnu0j-_qgcYPiQ__original/img/C1hf_pbsGvD5HP-N0iHME_HSH1E=/0x0/filters:format(jpeg)/pic2220182.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Cheating Moth" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Cheating Moth แมลงเม่าจอมโกง" />
+			    				
+				<name type="alternate" sortindex="1" value="L&#039;Arna Tramposa" />
+			    				
+				<name type="alternate" sortindex="1" value="Mito" />
+			    				
+				<name type="alternate" sortindex="1" value="Mogel Motte" />
+			    				
+				<name type="alternate" sortindex="1" value="Mogel-Motte" />
+			    				
+				<name type="alternate" sortindex="1" value="Mól szachrajek" />
+			    				
+				<name type="alternate" sortindex="4" value="La Polilla Tramposa" />
+			    				
+				<name type="alternate" sortindex="1" value="Polilla Tramposa" />
+			    				
+				<name type="alternate" sortindex="1" value="Svindlandi mölur" />
+			    				
+				<name type="alternate" sortindex="4" value="La Tarma Imbrogliona" />
+			    				
+				<name type="alternate" sortindex="3" value="A Traça Batoteira" />
+			    				
+				<name type="alternate" sortindex="1" value="Tůry Můry" />
+			    				
+				<name type="alternate" sortindex="1" value="Valse Motten" />
+			    				
+				<name type="alternate" sortindex="1" value="Valsspeel-Mot" />
+			    				
+				<name type="alternate" sortindex="1" value="Ψεύτης Ψύλλος" />
+			    				
+				<name type="alternate" sortindex="1" value="作弊飛蛾" />
+			    				
+				<name type="alternate" sortindex="1" value="장난꾸러기 나방" />
+			
+						               													<description>Cheating is forbidden? Not in this naughty game of cards &amp;ndash; in fact, you'll probably have to cheat in order to win.
+
+In Mogel Motte you want to get rid of all the cards in your hand before anyone else. Each player starts the round with a hand of eight cards, with one player (the oldest) receiving the guard bug &amp;ndash; which stays on the table throughout the game &amp;ndash; and one card being turnd face-up to start a discard pile. The cards are numbered 1-5, with the majority of them having only numbers; some cards have special abilities that come into play when added to the discard pile or in a player's hand.
+
+On a turn, a player places one card from her hand onto the discard pile; that card must be numbered exactly one higher or lower than the card on top of the discard pile. (The numbers wrap, so a 1 can be played on a 5 and vice versa.) If a player can't play a card, she draws one from the deck and her turn ends.
+
+There's another way to rid yourself of cards, though: cheating! Throughout the round, you can make cards disappear by dropping them on the floor, hiding them up your sleeve and so on. You must keep your hand of cards above the table at all times, you can't vanish more than one card at once, and you can't rid yourself of your final card this way. The player with the guard bug &amp;ndash; and only him! &amp;ndash; can call out other players for cheating, and no one can cheat while the accusation is being resolved. If the accusation was false, the Guard must draw a card; otherwise the cheating player takes back the card she tried to lose, is given a card from the Guard's hand as additional punishment, and becomes the new Guard.
+
+Cheating is a necessity as the "Cheating Moth" cards can't be played onto the discard pile, but must be disappeared via cheating. (The Guard, however, can play these cards as the Guard is not allowed to cheat.)
+
+The action cards work as follows:
+
+
+    Ant: After an ant is played, everyone but the active player must take a card from the draw pile.
+    Cockroach: After a cockroach is played, everyone races to play an identically-numbered card on top of it. Only the fastest player gets to leave her card in place.
+    Mosquito: After a mosquito is played, everyone but the active player must slap the pile of cards. Whoever is slowest receives a card from the hand of all other players.
+    Spider: After playing this, give a non-Cheating Moth card from your hand to another player.
+
+
+When one player has no cards in hand, the round ends. All other players score 10 points for each Cheating Moth in hand, 5 points for each action card, and 1 point for each number card. After a number of rounds equal to the number of players, the game ends and the player with the lowest score wins.
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="82">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="65" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="64" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="40" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="66" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5+ players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="30">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="4" />
+					<result value="6" numvotes="15" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="16">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="16" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1032" value="Action / Dexterity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18511" value="Series: Ugly Animals (Drei Magier)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="235944" value="Schummel Hummel" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="51522" value="Emely Brand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="51523" value="Lukas Brand" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="7387" value="Rolf Vogt" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="265" value="Drei Magier Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27221" value="Coiledspring Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="56851" value="Hachette Boardgames Benelux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36210" value="Lanlalen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24972" value="Lion Rampant Imports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44407" value="Nordic Games ehf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6777" />
+			<average value="6.39157" />
+			<bayesaverage value="6.09099" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2726" bayesaverage="6.09099" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="233" bayesaverage="6.17261" />
+												</ranks>
+
+			<stddev value="1.5468" />
+			<median value="0" />
+			<owned value="17233" />
+			<trading value="202" />
+			<wanting value="84" />
+			<wishing value="678" />
+			<numcomments value="1100" />
+			<numweights value="182" />
+			<averageweight value="1.1593" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

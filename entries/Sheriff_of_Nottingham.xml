@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="157969">
+         <thumbnail>https://cf.geekdo-images.com/BBgLFKUzr6tcKtlIM2JSFw__small/img/JD5L_XrtkaKINUj8ILZqFMGcTsE=/fit-in/200x150/filters:strip_icc()/pic2075830.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/BBgLFKUzr6tcKtlIM2JSFw__original/img/fll2MuTBPVKb7fyBJ8D-4_c1XHM=/0x0/filters:format(jpeg)/pic2075830.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Sheriff of Nottingham" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Nottingham bírája" />
+			    				
+				<name type="alternate" sortindex="1" value="Šerif z Nottinghamu" />
+			    				
+				<name type="alternate" sortindex="1" value="Seriful din Nottingham" />
+			    				
+				<name type="alternate" sortindex="4" value="Le Sheriff de Notthingam" />
+			    				
+				<name type="alternate" sortindex="4" value="El Sheriff de Nottingham" />
+			    				
+				<name type="alternate" sortindex="1" value="Szeryf z Nottingham" />
+			    				
+				<name type="alternate" sortindex="1" value="Ο Σερίφης του Νότιγχαμ" />
+			    				
+				<name type="alternate" sortindex="1" value="Шериф Ноттингема" />
+			    				
+				<name type="alternate" sortindex="1" value="Шерифът на Нотингам" />
+			    				
+				<name type="alternate" sortindex="1" value="ผู้ตรวจการแห่งเมืองนอตทิงแฮม" />
+			    				
+				<name type="alternate" sortindex="1" value="諾丁漢警長" />
+			
+						               													<description>Prince John is coming to Nottingham! Players, in the role of merchants, see this as an opportunity to make quick profits by selling goods in the bustling city during the Prince's visit. However, players must first get their goods through the city gate, which is under the watch of the Sheriff of Nottingham. Should you play it safe with legal goods and make a profit, or risk it all by sneaking in illicit goods? Be mindful, though, as the Sheriff always has his eyes out for liars and tricksters and if he catches one, he very well may confiscate those goods for himself!
+
+In Sheriff of Nottingham, players will not only be able to experience Nottingham as a merchant of the city, but each turn one player will step into the shoes of the Sheriff himself. Players declare goods they wish to bring into the city, goods that are secretly stored in their burlap sack. The Sheriff must then determine who gets into the city with their goods, who gets inspected, and who may have their goods confiscated!
+
+The game ends after all players have had two chances (three chances in a three-player game) to play as the Sheriff. At the end of the last round, all players discard any cards they have in hand&amp;mdash;those cards are not worth any points! Then, reveal their Contraband cards and count up your score. The player with the highest score wins.
+
+Do you have what it takes to be seen as an honest merchant? Will you make a deal with the Sheriff to let you in? Or will you persuade the Sheriff to target another player while you quietly slip by the gate? Declare your goods, negotiate deals, and be on the lookout for the Sheriff of Nottingham!
+
+</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="320">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="213" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="215" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="154" />
+					<result value="Not Recommended" numvotes="93" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="113" />
+					<result value="Recommended" numvotes="177" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="245" />
+					<result value="Recommended" numvotes="40" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="140" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="86">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="5" />
+					<result value="8" numvotes="38" />
+					<result value="10" numvotes="28" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="7" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="39">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="17" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="22" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1093" value="Novel-based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2913" value="Bribery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2915" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25937" value="Cities: Nottingham (England, UK)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14759" value="Country: England" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5660" value="Folk Tales &amp; Fairy Tales: Robin Hood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63507" value="Game: Sheriff of Nottingham" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67862" value="Occupation: Merchant" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25706" value="Series: Dice Tower Essentials" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14661" value="Theme: Mystery / Crime" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282822" value="Sheriff of Nottingham: 2018 Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339456" value="Sheriff of Nottingham: 2nd Edition – Festival of Nottingham" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="207485" value="Sheriff of Nottingham: Arcane Scrolls" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164571" value="Sheriff of Nottingham: Dice Tower 2014 Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="195504" value="Sheriff of Nottingham: Dice Tower 2016 Kickstarter Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233817" value="Sheriff of Nottingham: Dice Tower 2017 Indiegogo Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="180008" value="Sheriff of Nottingham: Gambler&#039;s Risk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="167396" value="Sheriff of Nottingham: Gen Con 2014 Promo Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306739" value="Sheriff of Nottingham: King&#039;s Decree Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266420" value="Sheriff of Nottingham: Master Smuggler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226065" value="Sheriff of Nottingham: Merry Men" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233818" value="Sheriff of Nottingham: Pig Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="166409" value="Sheriff of Nottingham: Prince John&#039;s Sword Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="237362" value="Sheriff of Nottingham: Prince of Thieves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306740" value="Sheriff of Nottingham: Royal Pardon Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="163683" value="Sheriff of Nottingham: Royal Summons Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="176328" value="Sheriff of Nottingham: Tabletop Trophy of Awesome" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309475" value="Sheriff of Nottingham: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291022" value="Sheriff of Nottingham: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="177124" value="Sheriff of Nottingham: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="182275" value="Sheriff of Nottingham: Sheriff Miniature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="378776" value="Sheriff of Nottingham: Spielmaterial.de Upgrade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348651" value="Sheriff of Nottingham: The GiftForge Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="396607" value="Disney Robin Hood: Sheriff of Nottingham Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="298638" value="Sheriff of Nottingham: 2nd Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="3705" value="Contraband" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="22237" value="Hart an der Grenze" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="104640" value="Robin Hood" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3005" value="Sérgio Halaban" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3004" value="André Zatz" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66789" value="John Guytan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49943" value="Lorraine Schleter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76595" value="David Sladek" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17812" value="Arcane Wonders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34793" value="Cool Mini Or Not" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25203" value="Lex Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="38186" />
+			<average value="7.04191" />
+			<bayesaverage value="6.90264" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="624" bayesaverage="6.90264" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="47" bayesaverage="6.9246" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="179" bayesaverage="6.90897" />
+												</ranks>
+
+			<stddev value="1.31616" />
+			<median value="0" />
+			<owned value="57600" />
+			<trading value="1241" />
+			<wanting value="506" />
+			<wishing value="6603" />
+			<numcomments value="5730" />
+			<numweights value="854" />
+			<averageweight value="1.6581" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="36218">
+         <thumbnail>https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__small/img/B2u2ghwlmI_qsUtCwuvcbnBcIqU=/fit-in/200x150/filters:strip_icc()/pic394356.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__original/img/96COuakNiLRrjDLc1sM4Zxsw4WE=/0x0/filters:format(jpeg)/pic394356.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion: Basisspiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: In naam van de koning" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Rozdarte Królestwo" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Tweede Editie" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Valtakunta" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Ο κυρίαρχος" />
+			    				
+				<name type="alternate" sortindex="1" value="Доминион" />
+			    				
+				<name type="alternate" sortindex="1" value="דומיניון" />
+			    				
+				<name type="alternate" sortindex="1" value="ドミニオン" />
+			    				
+				<name type="alternate" sortindex="1" value="皇舆争霸" />
+			    				
+				<name type="alternate" sortindex="1" value="도미니언" />
+			
+						               													<description>"You are a monarch, like your parents before you, a ruler of a small pleasant kingdom of rivers and evergreens. Unlike your parents, however, you have hopes and dreams! You want a bigger and more pleasant kingdom, with more rivers and a wider variety of trees. You want a Dominion! In all directions lie fiefs, freeholds, and feodums. All are small bits of land, controlled by petty lords and verging on anarchy. You will bring civilization to these people, uniting them under your banner.
+
+But wait! It must be something in the air; several other monarchs have had the exact same idea. You must race to get as much of the unclaimed land as possible, fending them off along the way. To do this you will hire minions, construct buildings, spruce up your castle, and fill the coffers of your treasury. Your parents wouldn't be proud, but your grandparents, on your mother's side, would be delighted."
+
+&amp;mdash;description from the back of the box
+
+In Dominion, each player starts with an identical, very small deck of cards.  In the center of the table is a selection of other cards the players can "buy" as they can afford them.  Through their selection of cards to buy, and how they play their hands as they draw them, the players construct their deck on the fly, striving for the most efficient path to the precious victory points by game end.
+
+Dominion is not a Collectible Card Game (CCG), but the play of the game is similar to the construction and play of a CCG deck. The game comes with 500 cards. You select 10 of the 25 Kingdom card types to include in any given play&amp;mdash;leading to immense variety.
+
+&amp;mdash;user summary
+
+Part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1954">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="1190" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="736" />
+					<result value="Recommended" numvotes="944" />
+					<result value="Not Recommended" numvotes="101" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1010" />
+					<result value="Recommended" numvotes="748" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="597" />
+					<result value="Recommended" numvotes="952" />
+					<result value="Not Recommended" numvotes="182" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="209" />
+					<result value="Not Recommended" numvotes="940" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="502">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="25" />
+					<result value="8" numvotes="156" />
+					<result value="10" numvotes="201" />
+					<result value="12" numvotes="101" />
+					<result value="14" numvotes="13" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="2" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="434">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="76" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="231" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="110" />
+					<result level="5" value="Unplayable in another language" numvotes="16" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28659" value="Crowdfunding: Wspieram" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104952" value="Digital Implementations: Apple App Store" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81575" value="Digital Implementations: VASSAL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109134" value="Misc: BGG Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="283819" value="Ancient Times (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="203184" value="Animals (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="69035" value="The Books of Magic (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="171915" value="Dominion: Adventures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="172592" value="Dominion: Alchemisten &amp; Reiche Ernte – Mixbox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="66098" value="Dominion: Alchemy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347307" value="Dominion: Allies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="41105" value="Dominion: Black Market Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285887" value="Dominion: Captain Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285888" value="Dominion: Church Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="90850" value="Dominion: Cornucopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="416002" value="Dominion: Cornucopia &amp; Guilds – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="415317" value="Dominion: Cornucopia &amp; Guilds (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125403" value="Dominion: Dark Ages" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160673" value="Dominion: Die Intrige – Erweiterung" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238623" value="Dominion: Dismantle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="192951" value="Dominion: Empires" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="39707" value="Dominion: Envoy Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="228386" value="Dominion: Erweiterung – Basisspiel &amp; Die Intrige" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="187740" value="Dominion: Fan-Edition I" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="416819" value="Dominion: Farm Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="110831" value="Dominion: Governor Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="137166" value="Dominion: Guilds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="177903" value="Dominion: Guilds &amp; Cornucopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="104557" value="Dominion: Hinterlands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365192" value="Dominion: Hinterlands – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365432" value="Dominion: Hinterlands (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234892" value="Dominion: Höflinge Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209358" value="Dominion: Intrigue – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209419" value="Dominion: Intrigue (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="413562" value="Dominion: Marchland Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="298055" value="Dominion: Menagerie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232452" value="Dominion: Nocturne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="369536" value="Dominion: Plunder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160943" value="Dominion: Prince Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="66690" value="Dominion: Prosperity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="364019" value="Dominion: Prosperity – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362517" value="Dominion: Prosperity (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257673" value="Dominion: Renaissance" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="420298" value="Dominion: Rising Sun" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374339" value="Dominion: Sammler-Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209431" value="Dominion: Sauna / Avanto Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="51811" value="Dominion: Seaside" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="356205" value="Dominion: Seaside – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355958" value="Dominion: Seaside (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="66682" value="Dominion: Stash Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182822" value="Dominion: Summon Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209357" value="Dominion: Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="395840" value="Dominion: Verlies Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="101665" value="Dominion: Walled Village Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="141918" value="Duel (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="68281" value="Fairy Tale (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="128915" value="Paradox (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232930" value="Pirate&#039;s Life (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="88046" value="Royal Court (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="80435" value="Salvation (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="123095" value="The Scrolls of Power (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186885" value="Stadt Land Spielt Limitierte Sonderdrucke 2015" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="210658" value="Stadt Land Spielt Minierweiterungen 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="139778" value="Warmonger (fan expansion for Dominion)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="137963" value="Dominion: Base Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309243" value="Dominion: Basically Wooden Collection Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="258701" value="Dominion: Blank Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="270991" value="Dominion: Broken Token Case and Organizer Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="175269" value="Dominion: e-Raptor Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="445812" value="Dominion: Feldherr Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="397419" value="Dominion: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="283747" value="Dominion: Go7 Box Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="180475" value="Dominion: Gripmat Playmat 16&quot; x 24&quot;" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139661" value="Dominion: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138408" value="Dominion: Storage Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419783" value="Dominion: Tame My Games Organizer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="40834" value="Dominion: Intrigue" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="142131" value="Dominion: Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="142132" value="Dominion: Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="149083" value="Dominion: Special Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="209418" value="Dominion: Second Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="184207" value="Het Koninkrijk Dominion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="112335" value="Nitroplus Card Masters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="426589" value="Touhou Shisouroku: Touhou Fuujinroku Hen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="89383" value="Touhou Shisouroku: Touhou Koumakyou-hen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="120206" value="Touhou Shisouroku: Touhou Youyoumu-hen" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12019" value="Tomasz Jedruszek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11854" value="Ryan Laukat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59" value="Marcel-André Casasola Merkle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11797" value="Christof Tisch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9074" value="Bard Centrum Gier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11043" value="Conclave Editora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24631" value="cutia.ro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29907" value="Games Factory Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23382" value="HaKubia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3534" value="Martinex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7581" value="Runadrake" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8313" value="Smart Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9235" value="Stupor Mundi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14078" value="Vennerød Forlag AS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2861" value="Ystari Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="97437" />
+			<average value="7.59695" />
+			<bayesaverage value="7.47281" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="146" bayesaverage="7.47281" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="143" bayesaverage="7.43216" />
+												</ranks>
+
+			<stddev value="1.41447" />
+			<median value="0" />
+			<owned value="131864" />
+			<trading value="2122" />
+			<wanting value="666" />
+			<wishing value="10907" />
+			<numcomments value="15897" />
+			<numweights value="5372" />
+			<averageweight value="2.3436" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="344408">
+         <thumbnail>https://cf.geekdo-images.com/v5tVNPOUpkRoCVeNOL7DOg__small/img/SiMCJLzynqYvC2GRVHgH_k8_kGc=/fit-in/200x150/filters:strip_icc()/pic6328640.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/v5tVNPOUpkRoCVeNOL7DOg__original/img/xARCYiNyFyEyIFFqw5q4D0nBmps=/0x0/filters:format(jpeg)/pic6328640.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Full Throttle!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Frisiert!" />
+			
+						               													<description>The wild moped riders are ready to race with their souped-up mopeds! Knowing that neither your courage nor your health insurance lets you take part in such a dangerous race, you and your friends instead choose the safe way to enjoy these races and start betting on the mopeds.
+
+While the six mopeds race three times around the racetrack, trying to avoid getting stuck behind other mopeds or at the choke points, you assess the situation round by round and bet on your favorite mopeds. Who will finally win, place, or show?
+
+In Full Throttle!, no one controls the mopeds, with them racing around the track in a "self-controlled" manner. Each round, reveal racing cards and move the mopeds around the track. Then draft the racing cards to be used as your hidden bets. The undrafted cards are reused for future movement of the mopeds. Choose your bets carefully because the cards you choose will make those mopeds go slower.
+
+After three exciting laps around the racetrack, the race ends after the first three mopeds cross the finish line. Have you collected the best set of racing cards to win Full Throttle!?
+
+</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–6 players" />
+</poll-summary> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2984" value="Closed Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2987" value="Hidden Victory Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20717" value="Sports: Motorcycle Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5890" value="Theme: Motorcycles" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="141" value="Friedemann Friese" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11827" value="Lars-Arne &quot;Maura&quot; Kalusky" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="58" value="2F-Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="551" />
+			<average value="6.47439" />
+			<bayesaverage value="5.67744" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6910" bayesaverage="5.67744" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1940" bayesaverage="5.74064" />
+												</ranks>
+
+			<stddev value="1.40506" />
+			<median value="0" />
+			<owned value="845" />
+			<trading value="35" />
+			<wanting value="37" />
+			<wishing value="162" />
+			<numcomments value="115" />
+			<numweights value="17" />
+			<averageweight value="1.1765" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

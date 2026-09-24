@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="219215">
+         <thumbnail>https://cf.geekdo-images.com/4ngyBZXLLKIOdGuUHE7baw__small/img/gSGfC0ZMYbOXukqfdBBuxULmyJU=/fit-in/200x150/filters:strip_icc()/pic4415135.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/4ngyBZXLLKIOdGuUHE7baw__original/img/26CKXFLZQ1sUlUwdu_kJ3E8F4Bs=/0x0/filters:format(jpeg)/pic4415135.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Werewords" />
+			
+						                               				
+				<name type="alternate" sortindex="3" value="A Jelszó: Vérfarkas" />
+			    				
+				<name type="alternate" sortindex="1" value="Mots-garous" />
+			    				
+				<name type="alternate" sortindex="1" value="Słowołaki" />
+			    				
+				<name type="alternate" sortindex="1" value="Werwörter" />
+			    				
+				<name type="alternate" sortindex="1" value="Слово волка" />
+			    				
+				<name type="alternate" sortindex="1" value="狼人真言" />
+			    				
+				<name type="alternate" sortindex="1" value="한밤의 수수께끼" />
+			
+						               													<description>In Werewords, players guess a secret word by asking "yes" or "no" questions. Figure out the magic word before time is up, and you win! However, one of the players is secretly a werewolf who is not only working against you, but also knows the word. If you don't guess the word in time, you can still win by identifying the werewolf!
+
+To help you out, one player is the Seer, who knows the word but must not to be too obvious when helping you figure it out; if the word is guessed, the werewolf can pull out a win by identifying the Seer!
+
+A free iOS/Android app provides thousands of words in hundreds of categories at various difficulty levels, so everyone can play.
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="66">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="46" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="46" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="30" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6–7 players" />
+  <result name="recommmendedwith" value="Recommended with 4–10 players" />
+</poll-summary> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="9" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="5" value="Unplayable in another language" numvotes="3" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2892" value="Roles with Asymmetric Information" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2814" value="Traitor Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41489" value="Components: Digital Hybrid – App/Website Required" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2989" value="Game: Werewolf / Mafia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78680" value="Misc: Made by Panda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62861" value="Word Games: Guess the Word" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="361863" value="One Night Ultimate Werewolf: Card sleeves" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="245422" value="Werewords Deluxe Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6046" value="Ted Alspach" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="6046" value="Ted Alspach" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="101838" value="Jason Boles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="51039" value="Roland MacDonald" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5774" value="Bézier Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger AG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23599" value="UBO CnC" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6447" />
+			<average value="7.09449" />
+			<bayesaverage value="6.64994" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1013" bayesaverage="6.64994" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="50" bayesaverage="6.90434" />
+												</ranks>
+
+			<stddev value="1.42603" />
+			<median value="0" />
+			<owned value="11350" />
+			<trading value="232" />
+			<wanting value="88" />
+			<wishing value="1269" />
+			<numcomments value="1128" />
+			<numweights value="95" />
+			<averageweight value="1.1474" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
